@@ -4,4 +4,4 @@ Repositorio de contenidos de las Jornadas de SIG Libre organizadas por el Servic
 
 Las Jornadas de SIG libre son un punto de encuentro entre las personas que comparten un mismo interés: el uso y la promoción de los sistemas de información geográfica libres y de los datos abiertos.
 
-- [Edición 2007] (2007)
+- [Edición 2007](2007)
