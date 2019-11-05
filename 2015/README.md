@@ -1,3 +1,3 @@
-# 1era Edición de las Jornadas de SIG Libre
+# 9as Jornadas de SIG Libre (2015)
 
-Contenido de las Jornadas de SIG Libre 2007
+Contenido de las Jornadas de SIG Libre 2015

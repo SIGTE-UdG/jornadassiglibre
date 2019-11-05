@@ -1,3 +1,3 @@
-# 1era Edición de las Jornadas de SIG Libre
+# 4as Jornadas de SIG Libre (2010)
 
-Contenido de las Jornadas de SIG Libre 2007
+Contenido de las Jornadas de SIG Libre 2010
