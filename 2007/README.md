@@ -37,24 +37,85 @@ Comunicaciones
 Aplicaciones (desarrollos)
 ---------------------------
 
-* **[SIGUA: Sig Libre para la gestión del suelo de la Universidad de Alicante](http://dugi.udg.edu/item/http:@@@@hdl.handle.net@@10256@@1194)**
-* **d-Ruta: Un sistema móvil de información turística**
-* **Wikiloc: Software Libre APIs de Google Maps para visualizar y compartir rutas GPS**
-* **Alguneos desarrollos basados en JUMP para el apoyo logístico y control de la calidad en las operaciones de recogida de información estadística**
-* **Proyecto Ramón Llull: Sistema de gestión de alteraciones catastrales para las notarías de la Comunidad Valenciana**
+* **[SIGUA: Sig Libre para la gestión del suelo de la Universidad de Alicante](http://dugi.udg.edu/item/http:@@@@hdl.handle.net@@10256@@1194)** (José Manuel Mira, José Tomás Navarro, Alfredo Ramón)
+
+* **[d-Ruta: Un sistema móvil de información turística](https://dugi-doc.udg.edu/handle/10256/1196)** (Josep Molina)
+
+* **[Wikiloc: Software Libre APIs de Google Maps para visualizar y compartir rutas GPS](https://dugi-doc.udg.edu/handle/10256/1197)** (Jordi Ramot)
+
+* **[Alguneos desarrollos basados en JUMP para el apoyo logístico y control de la calidad en las operaciones de recogida de información estadística](https://dugi-doc.udg.edu/handle/10256/1201)** (Eduard Suñé Luis)
+
+* **[Proyecto Ramón Llull: Sistema de gestión de alteraciones catastrales para las notarías de la Comunidad Valenciana](https://dugi-doc.udg.edu/handle/10256/1202)** (Fernando Llorens, José Tomás Navarro, José Manuel Mira, Alfredo Ramón Morte)
+
+* **[WxGRASS: Una Interfaz Gráfica de Usuario para la integración de diversos programas libres para SIG](https://dugi-doc.udg.edu/handle/10256/1206)** (Francisco Alonso Sarría, José Antonio Palazón)
+
+* **[SIGFRUT: Aplicación web para el diseño de instalaciones y aplicaciones agrícolas](https://dugi-doc.udg.edu/handle/10256/1207)** (Francesco Marucci, Ferran Orduña, Toni Hernández)
+
+* **[SigWeb 2.0: Ajax + OpenToro](https://dugi-doc.udg.edu/handle/10256/1208)** (Moisés D. Díaz, Vitalino Lázaro, Marcos Velasco, Ángel Domínguez)
+
+* **[Kosmo como alternativa abierta de los Sistemas de Información Geográfica](https://dugi-doc.udg.edu/handle/10256/1209)** (Glesni Hidalgo)
+
+* **[Introducción a los conceptos y a la utilización del SIG Open-Source GRASS](https://dugi-doc.udg.edu/handle/10256/1214)** (Eve Rousseau)
+
+* **[Ampliación de las capacidades de visualización de un SIG libre mediante la comunicación con un navegador 3D](https://dugi-doc.udg.edu/handle/10256/1215)** (Alberto Varela, Javier Taibo, Luis A. Hernández, Antoni Seoane)
+
+* **[Panorama actual del ecosistema de software libre para SIG](http://diobma.udg.edu//handle/10256.1/516)** (Miguel MOntesinos, Jorge Gaspar Sanz)
+
+* **[Arquitectura SOA para la integración entre Software Libre y software propietario en entornos mixtos](https://dugi-doc.udg.edu/handle/10256/1217)** (Alejandro Guinea, Sergio Jorrín)
+
+* **Software para la manipulación de bases de datos espaciales PostGIS**
+
+* **jCRS: Extensión de gvSIG para la gestión de Sistemas de Referencia de Coordenadas**
+
+* **Sistemas de apoyo a la Gestión de Servicios Urbanos, basados en Software Libre**
+
+* **HidroSIG: Un Sistema de Información Geográfi ca para la gestión de recursos naturales y modelación del medio ambiente.**
+
 
 Aplicaciones temáticas
 ------------------------
 
-* **Las herramientas SIG Libre en la investigación histórica**
-* **Migración a SIG Libre del catálogo de caminos rurales y pistas forestales de Extremadura**
-* **Creación de Modelos Digitales de Elevaciones a partir de diferentes métodos de interpolación para la determinación de redes de drenaje**
-* **LiDAR data filtering with GRASS GIS for the determination of digital terrain models**
-* **Desarrollo de una herramienta de Código Abierto para la Gestión de espacios en la Universidad**
+* **[Las herramientas SIG Libre en la investigación histórica](https://dugi-doc.udg.edu/handle/10256/1198)** (Xavier Rubio)
+
+* **[Migración a SIG Libre del catálogo de caminos rurales y pistas forestales de Extremadura](https://dugi-doc.udg.edu/handle/10256/1199)** (Manuel de la Calle, Rocío Blas, P. Berrocal, Luís Miguel Cabezas, Vidal Toboso, Javier Corbacho, P. Muñoz)
+
+* **[Creación de Modelos Digitales de Elevaciones a partir de diferentes métodos de interpolación para la determinación de redes de drenaje](https://dugi-doc.udg.edu/handle/10256/1200)** (Juan Manuel Quiñonero, Francisco Alonso Sarría)
+
+* **[LiDAR data filtering with GRASS GIS for the determination of digital terrain models](https://dugi-doc.udg.edu/handle/10256/1203)** (Roberto Antolín, Maria A. Brovelli)
+
+* **[Desarrollo de una herramienta de Código Abierto para la Gestión de espacios en la Universidad](https://dugi-doc.udg.edu/handle/10256/1204)** (C. Rodríguez, Miguel Cordero, Rafael Crecente, Marcos Boullón, Diego Miranda)
+
+* **Uso de R y GRASS para la obtención de mapas de disponibilidad de hábitat mediante análisis factorial de nicho**
+
+* **Socioecología de los paisajes holocénicos en el Valle del Serpis**
+
+* **VisGeo: una herramienta para la visualización geográfica**
+
+* **LOCALIZA: una herramienta SIG para resolver problemas de localización óptima**
 
 
 IMs - IDEs
 -----------
+
+* **Un servidor de mapas OpenSource para la gestión sanitaria: Atlas electrónico de salud de Catalunya**
+
+* **Adaptaciones de Geonetwork para la construcción de IDE sectoriales**
+
+* **MonoGIS, un servidor de mapas para la Administración Pública**
+
+* **Spatial Data Infrastructure for watershed modelling and making decision**
+
+* **Transition between metadata models: approach based on the use Open Source software**
+
+* **Sistema de Información Geográfi ca accesible**
+
+* **Ruteador inteligente y dinámico basado en la clasifi cación del tráfico en tres niveles**
+
+* **Plataforma redGIS.NET para el acceso a datos y funciones geográficas**
+
+* **Sistema de Información Geográfi ca para Web con informaciones espaciales (geográficas) de output y input para expediciones**
+
+* **Ka-map: an interactive web-mapping application**
 
 Talleres
 ========
