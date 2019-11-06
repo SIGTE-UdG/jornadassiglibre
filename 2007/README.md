@@ -6,13 +6,13 @@ Contenido de las Jornadas de SIG Libre 2007
 Sessión Inaugural
 ====================
 
-**Joaquim Majó** (Vicerector de Desenvolupament Tecnològic i Gestió del Coneixement)
+* **Joaquim Majó** (Vicerector de Desenvolupament Tecnològic i Gestió del Coneixement)
 
-**Irene Compte** (Directora del SIGTE)
+* **Irene Compte** (Directora del SIGTE)
 
-**Malcom Bain** (Abogado, Consultor de la UOC), **David Megías** (Director del Master Oficial en Software Libre de la UOC)
+* **Malcom Bain** (Abogado, Consultor de la UOC), **David Megías** (Director del Master Oficial en Software Libre de la UOC)
 
-**Antoni Perez** (Profesor de la UOC)
+* **Antoni Perez** (Profesor de la UOC)
 
 
 Ponencias plenárias
