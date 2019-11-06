@@ -131,6 +131,14 @@ Talleres
 Patrocinadores
 ==============
 
-.. figure:: img/icclogo.jpg
-   :align: center
-   :alt: Información general sobre las tecnologías
+![ICGC](img/icclogo.jpg)
+
+![Ajuntament](img/ajuntamentGI.gif)
+
+![Dipu](img/dipu.gif)
+
+![IVER](img/IVERp.gif)
+
+![Carlemany](img/logo_carlemany.jpg)
+
+![Gaceta](img/logo_top_gaceta.gif)
