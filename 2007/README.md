@@ -63,13 +63,13 @@ Aplicaciones (desarrollos)
 
 * **[Arquitectura SOA para la integración entre Software Libre y software propietario en entornos mixtos](https://dugi-doc.udg.edu/handle/10256/1217)** (Alejandro Guinea, Sergio Jorrín)
 
-* **Software para la manipulación de bases de datos espaciales PostGIS**
+* **[Software para la manipulación de bases de datos espaciales PostGIS](https://dugi-doc.udg.edu/handle/10256/1225)** (A. Baksai, Mariela Gutiérrez)
 
-* **jCRS: Extensión de gvSIG para la gestión de Sistemas de Referencia de Coordenadas**
+* **[jCRS: Extensión de gvSIG para la gestión de Sistemas de Referencia de Coordenadas](https://dugi-doc.udg.edu/handle/10256/1227)** (Francisco Javier González, Luís W. Sevilla, David Hernández)
 
-* **Sistemas de apoyo a la Gestión de Servicios Urbanos, basados en Software Libre**
+* **[Sistemas de apoyo a la Gestión de Servicios Urbanos, basados en Software Libre](https://dugi-doc.udg.edu/handle/10256/1229)** (José Javier García)
 
-* **HidroSIG: Un Sistema de Información Geográfi ca para la gestión de recursos naturales y modelación del medio ambiente.**
+* **[HidroSIG: Un Sistema de Información Geográfica para la gestión de recursos naturales y modelación del medio ambiente](https://dugi-doc.udg.edu/handle/10256/1231)** (Jaime I. Vélez, Oscar J. Mesa, Oliver O. Hernández, Oscar D. Álvarez, Elisabeth C. Zapata, Jesús D. Gómez, Oscar Correa, Germán Poveda, Felipe Quintero, Jorge M. Ramírez, Andrés D. Acero, Jorge E. Alarcón, María C. Gómez)
 
 
 Aplicaciones temáticas
@@ -85,37 +85,37 @@ Aplicaciones temáticas
 
 * **[Desarrollo de una herramienta de Código Abierto para la Gestión de espacios en la Universidad](https://dugi-doc.udg.edu/handle/10256/1204)** (C. Rodríguez, Miguel Cordero, Rafael Crecente, Marcos Boullón, Diego Miranda)
 
-* **Uso de R y GRASS para la obtención de mapas de disponibilidad de hábitat mediante análisis factorial de nicho**
+* **[Uso de R y GRASS para la obtención de mapas de disponibilidad de hábitat mediante análisis factorial de nicho](https://dugi-doc.udg.edu/handle/10256/1210)** (José Antonio Palazón, Francisco Alonso)
 
-* **Socioecología de los paisajes holocénicos en el Valle del Serpis**
+* **[Socioecología de los paisajes holocénicos en el Valle del Serpis](https://dugi-doc.udg.edu/handle/10256/1211)** (Agustín Díez, C. Michael Barton, Joan Bernabeu, Neus La Roca)
 
-* **VisGeo: una herramienta para la visualización geográfica**
+* **[VisGeo: una herramienta para la visualización geográfica](https://dugi-doc.udg.edu/handle/10256/1212)** (Joaquín Bosque Sendra, Hernán Zamora)
 
-* **LOCALIZA: una herramienta SIG para resolver problemas de localización óptima**
+* **[LOCALIZA: una herramienta SIG para resolver problemas de localización óptima](https://dugi-doc.udg.edu/handle/10256/1213)** (Joaquín Bosque Sendra, M. Gómez, Francisco Palm Rojas)
 
 
 IMs - IDEs
 -----------
 
-* **Un servidor de mapas OpenSource para la gestión sanitaria: Atlas electrónico de salud de Catalunya**
+* **[Un servidor de mapas OpenSource para la gestión sanitaria: Atlas electrónico de salud de Catalunya](https://dugi-doc.udg.edu/handle/10256/1218)** (David Comas, Fernando Marín, Miquel Olivet)
 
-* **Adaptaciones de Geonetwork para la construcción de IDE sectoriales**
+* **[Adaptaciones de Geonetwork para la construcción de IDE sectoriales](https://dugi-doc.udg.edu/handle/10256/1221)** (Víctor Pascual Ayats)
 
-* **MonoGIS, un servidor de mapas para la Administración Pública**
+* **[MonoGIS, un servidor de mapas para la Administración Pública](https://dugi-doc.udg.edu/handle/10256/1222)** (Michael Paul, Pere Mitjans)
 
 * **Spatial Data Infrastructure for watershed modelling and making decision**
 
 * **Transition between metadata models: approach based on the use Open Source software**
 
-* **Sistema de Información Geográfi ca accesible**
+* **[Sistema de Información Geográfica accesible](https://dugi-doc.udg.edu/handle/10256/1228)** (Damián Serrano, José Vargas, Eduardo Venegas)
 
-* **Ruteador inteligente y dinámico basado en la clasifi cación del tráfico en tres niveles**
+* **[Ruteador inteligente y dinámico basado en la clasificación del tráfico en tres niveles](https://dugi-doc.udg.edu/handle/10256/1230)** (Daniel Gorni)
 
-* **Plataforma redGIS.NET para el acceso a datos y funciones geográficas**
+* **[Plataforma redGIS.NET para el acceso a datos y funciones geográficas](https://dugi-doc.udg.edu/handle/10256/1232)** (José Manuel Mira, Fernando Llorens, Alfredo Ramón, José Tomás Navarro)
 
-* **Sistema de Información Geográfi ca para Web con informaciones espaciales (geográficas) de output y input para expediciones**
+* **Sistema de Información Geográfica para Web con informaciones espaciales (geográficas) de output y input para expediciones**
 
-* **Ka-map: an interactive web-mapping application**
+* **[Ka-map: an interactive web-mapping application](https://dugi-doc.udg.edu/handle/10256/1234)** (Lorenzo Becchi)
 
 Talleres
 ========
@@ -127,3 +127,10 @@ Talleres
 * **Taller 3:** *Trabajando con SAGA* (Víctor Olaya - Equipo de desarrolladores SAGA)
 
 * **Taller 4:** *Desarrollado de Aplicaciones con PostGRE SQL + PostGis* (Marc Compte - SIGTE)
+
+Patrocinadores
+==============
+
+.. figure:: img/icclogo.jpg
+   :align: center
+   :alt: Información general sobre las tecnologías
