@@ -20,13 +20,52 @@ Ponencias plenárias
 Comunicaciones
 =================
 
-* **** (****, ).
+* **[Componentes y extensiones para sistemas de ayuda a la decisión espacial: un enfoque desde Python]()** (Francisco Palm, Joaquín Bosque).
+
+* **[Potencialidades  del  SIG  Libre  en  la  educación universitaria.  La  enseñanza  de  SIG  en  Geografía. Universidad de Extremadura]()** (Rocío Blas, J.Corbacho).
+
+* **[Edición cartográfica vectorial en un sistema web]()** (José Javier García).
+
+* **[Uso  de  Comet  (Reverse  AJAX)  en  los  SIG.  Prototipo  de  SIG colaborativo] ()** (Diego Gómez, Manuel de la Calle, Vidal Toboso, Raquel Martínez).
+
+* **[gvSIG  Mobile.  Cliente  GIS/IDE  móvil]()** (Miguel  Montesinos,  Javier Carrasco).
+
+* **[OpenLayers] ()** (Lorenzo Becchi).
+
+**Mesa de debate**
+
+Implementación del SIG Libre: Cómo facilitar y promover el SIG Libre en la Universidad, en la Administración y en la Empresa Privada
+
+DE - Metadatos
+--------------
+
+* **[Implantación de una IDE y de una herramienta para la gestión municipal en los ayuntamientos de la Comunitat Valenciana] ()** (Alvaro Anguix, José Miguel Rosa, Martín García).
+
+* **[] ()** ().
+
+* **[] ()** ().
+
+* **[] ()** ().
+
+* **[] ()** ().
+
+* **[] ()** ().
+
+* **[] ()** ().
+
+* **[] ()** ().
 
 Aplicaciones (desarrollos)
 ---------------------------
 
-* **** (****, ).
+* **[] ()** ().
 
-* **** (****, ).
+* **[] ()** ().
 
-* **** (****, ).
+* **[] ()** ().
+
+* **[] ()** ().
+
+* **[] ()** ().
+
+* **[] ()** ().
