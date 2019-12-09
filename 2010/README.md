@@ -1,13 +1,13 @@
-# 4as Jornadas de SIG Libre (2010)
+# 4as Jornadas de SIG libre (2010)
 
 Contenido de las Jornadas de SIG Libre 2010
 
-Sessión Inaugural
+Sesión inaugural
 ==================
 
 * **nom** (carrec, posició)
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **titol** (**nom**, carrec, posicio).
