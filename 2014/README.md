@@ -2,7 +2,7 @@
 
 Contenido de las Jornadas de SIG Libre 2014
 
-Sesión Inaugural
+Sesión inaugural
 ==================
 
 * **nom** (carrec, posició)
