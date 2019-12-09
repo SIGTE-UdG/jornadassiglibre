@@ -1,13 +1,13 @@
-# 12as Jornadas de SIG Libre (2018)
+# 12as Jornadas de SIG libre (2018)
 
 Contenido de las Jornadas de SIG Libre 2018
 
-Sessión Inaugural
+Sesión inaugural
 ==================
 
 * **nom** (carrec, posició)
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **titol** (**nom**, carrec, posicio).
