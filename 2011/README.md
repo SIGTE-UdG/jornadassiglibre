@@ -1,12 +1,13 @@
-# 5as Jornadas de SIG Libre (2011)
+# 5as Jornadas de SIG libre (2011)
 
 Contenido de las Jornadas de SIG Libre 2011
-Sessión Inaugural
+
+Sesión inaugural
 ==================
 
 * **nom** (carrec, posició)
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **titol** (**nom**, carrec, posicio).
