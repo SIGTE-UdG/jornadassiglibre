@@ -1,13 +1,13 @@
-# 11as Jornadas de SIG Libre (2017)
+# 11as Jornadas de SIG libre (2017)
 
 Contenido de las Jornadas de SIG Libre 2017
 
-Sessión Inaugural
+Sesión inaugural
 ==================
 
 * **nom** (carrec, posició)
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **titol** (**nom**, carrec, posicio).
