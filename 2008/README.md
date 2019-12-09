@@ -1,8 +1,8 @@
-# 2as Jornadas de SIG Libre (2008)
+# 2as Jornadas de SIG libre (2008)
 
 Contenido de las Jornadas de SIG Libre 2009
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **The concept of ‘mentorship’ in the geospatial realm** (**Tyler Mitchell**, Director Ejecutivo de la Open Source Geospatial Foundation, OSGeo).
