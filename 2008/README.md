@@ -20,9 +20,9 @@ Ponencias plenarias
 Comunicaciones
 =================
 
-* **[Componentes y extensiones para sistemas de ayuda a la decisión espacial: un enfoque desde Python]** (Francisco Palm, Joaquín Bosque). **[Vídeo]()** | **[Comunicación]()** 
+* **[Componentes y extensiones para sistemas de ayuda a la decisión espacial: un enfoque desde Python]()** (Francisco Palm, Joaquín Bosque). **[Vídeo]()** | **[Comunicación]()** 
 
-* **[Potencialidades  del  SIG  Libre  en  la  educación universitaria.  La  enseñanza  de  SIG  en  Geografía. Universidad de Extremadura]()** (Rocío Blas, J.Corbacho).
+* **Potencialidades  del  SIG  Libre  en  la  educación universitaria.  La  enseñanza  de  SIG  en  Geografía. Universidad de Extremadura** (Rocío Blas, J.Corbacho). **[Vídeo]()** | **[Comunicación]()** 
 
 * **[Edición cartográfica vectorial en un sistema web]()** (José Javier García).[Vídeo ()]
 
