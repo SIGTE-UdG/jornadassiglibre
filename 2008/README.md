@@ -20,23 +20,23 @@ Ponencias plenarias
 Comunicaciones
 =================
 
-* **[Componentes y extensiones para sistemas de ayuda a la decisión espacial: un enfoque desde Python]()** (Francisco Palm, Joaquín Bosque). | **[Vídeo]()** 
+* **Componentes y extensiones para sistemas de ayuda a la decisión espacial: un enfoque desde Python** (Francisco Palm, Joaquín Bosque). **[Presentación]()** | **[Vídeo]()** 
 
-* **Potencialidades  del  SIG  Libre  en  la  educación universitaria.  La  enseñanza  de  SIG  en  Geografía. Universidad de Extremadura** (Rocío Blas, J.Corbacho). **[Vídeo]()** | **[Comunicación]()** 
+* **Potencialidades  del  SIG  Libre  en  la  educación universitaria.  La  enseñanza  de  SIG  en  Geografía. Universidad de Extremadura** (Rocío Blas, J.Corbacho). **[Presentación]()** | **[Vídeo]()** 
 
-* **[Edición cartográfica vectorial en un sistema web]()** (José Javier García).[Vídeo ()]
+* **Edición cartográfica vectorial en un sistema web** (José Javier García).**[Presentación]()** | **[Vídeo]()** 
 
-* **[Uso  de  Comet  (Reverse  AJAX)  en  los  SIG.  Prototipo  de  SIG colaborativo]()** (Diego Gómez, Manuel de la Calle, Vidal Toboso, Raquel Martínez).
+* **Uso  de  Comet  (Reverse  AJAX)  en  los  SIG.  Prototipo  de  SIG colaborativo** (Diego Gómez, Manuel de la Calle, Vidal Toboso, Raquel Martínez). **[Presentación]()** | **[Vídeo]()** 
 
-* **[gvSIG  Mobile.  Cliente  GIS/IDE  móvil]()** (Miguel  Montesinos,  Javier Carrasco).
+* **gvSIG  Mobile.  Cliente  GIS/IDE  móvil ** (Miguel  Montesinos,  Javier Carrasco). **[Presentación]()** | **[Vídeo]()** 
 
-* **[OpenLayers]()** (Lorenzo Becchi).
+* **OpenLayers** (Lorenzo Becchi). **[Presentación]()** | **[Vídeo]()** 
 
 
 IDE - Metadatos
 --------------
 
-* **[Implantación de una IDE y de una herramienta para la gestión municipal en los ayuntamientos de la Comunitat Valenciana]()** (Alvaro Anguix, José Miguel Rosa, Martín García).
+* **Implantación de una IDE y de una herramienta para la gestión municipal en los ayuntamientos de la Comunitat Valenciana ** (Alvaro Anguix, José Miguel Rosa, Martín García). **[Presentación]()** | **[Vídeo]()** 
 
 * **[Migración  del  SIG  Libre  de  la  Diputación  de  A  Coruña]()** (Pedro González y otros).
 
