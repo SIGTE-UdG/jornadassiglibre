@@ -1,13 +1,13 @@
-# 7as Jornadas de SIG Libre (2013)
+# 7as Jornadas de SIG libre (2013)
 
 Contenido de las Jornadas de SIG Libre 2013
 
-Sessión Inaugural
+Sesión inaugural
 ==================
 
 * **nom** (carrec, posició)
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **titol** (**nom**, carrec, posicio).
