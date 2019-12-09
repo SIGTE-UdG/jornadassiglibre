@@ -1,13 +1,13 @@
-# 13as Jornadas de SIG Libre (2019)
+# 13as Jornadas de SIG libre (2019)
 
 Contenido de las Jornadas de SIG Libre 2019
 
-Sessión Inaugural
+Sesión inaugural
 ==================
 
 * **nom** (carrec, posició)
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **titol** (**nom**, carrec, posicio).
