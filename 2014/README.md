@@ -2,12 +2,12 @@
 
 Contenido de las Jornadas de SIG Libre 2014
 
-Sessión Inaugural
+Sesión Inaugural
 ==================
 
 * **nom** (carrec, posició)
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **titol** (**nom**, carrec, posicio).
