@@ -1,9 +1,9 @@
-# 1as Jornadas de SIG Libre (2007)
+# 1as Jornadas de SIG libre (2007)
 
 Contenido de las Jornadas de SIG Libre 2007
 
 
-Sessión Inaugural
+Sesión inaugural
 ==================
 
 * **Joaquim Majó** (Vicerector de Desenvolupament Tecnològic i Gestió del Coneixement).
@@ -15,7 +15,7 @@ Sessión Inaugural
 * **Antoni Perez** (Profesor de la UOC).
 
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **Factores multiplicativos: ejemplos de los sectores académico y industrial** (**Michael Gould**, Profesor de la Universidad Jaume I, Departamento de Lenguajes y Sistemas Informáticos).
