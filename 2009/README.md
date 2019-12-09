@@ -1,13 +1,13 @@
-# 3as Jornadas de SIG Libre (2009)
+# 3as Jornadas de SIG libre (2009)
 
 Contenido de las Jornadas de SIG Libre 2009
 
-Sessión Inaugural
+Sesión inaugural
 ==================
 
 * **nom** (carrec, posició)
 
-Ponencias plenárias
+Ponencias plenarias
 ====================
 
 * **titol** (**nom**, carrec, posicio).
