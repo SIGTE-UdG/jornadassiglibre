@@ -36,7 +36,7 @@ Comunicaciones
 IDE - Metadatos
 --------------
 
-* **Implantación de una IDE y de una herramienta para la gestión municipal en los ayuntamientos de la Comunitat Valenciana ** (Alvaro Anguix, José Miguel Rosa, Martín García). **[Presentación]()** | **[Vídeo]()** 
+* **Implantación de una IDE y de una herramienta para la gestión municipal en los ayuntamientos de la Comunitat Valenciana** (Alvaro Anguix, José Miguel Rosa, Martín García). **[Presentación]()** | **[Vídeo]()** 
 
 * **Migración  del  SIG  Libre  de  la  Diputación  de  A  Coruña** (Pedro González y otros). **[Presentación]()** | **[Vídeo]()**
 
