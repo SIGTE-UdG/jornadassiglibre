@@ -100,7 +100,7 @@ Patrocinadores
 Colabora
 ==============
 
-![OSGeo](img/osgeo.png)
+![OSGeo](img/osgeo.jpg)
 
 ![FFII](img/ffii.jpg)
 
@@ -116,6 +116,6 @@ Colabora
 
 ![Linux](img/linux.jpg)
 
-![CatPL](img/catpl.jpg)
+![CatPL](img/CatPL.jpg)
 
-![AC](img/ac.jpg)
+![AC](img/AC.jpg)
