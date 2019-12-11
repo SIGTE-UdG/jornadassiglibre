@@ -89,7 +89,7 @@ Patrocinadores
 
 ![Generalitat Valenciana](img/cit.jpg)
 
-![Prodevelop](img/cit.jpg)
+![Prodevelop](img/pro.jpg)
 
 ![Nexus Geografics](img/nexus.jpg)
 
