@@ -26,7 +26,7 @@ Arqueologia
 
 IDE/OGC
 ---------------------------
-* **[Geoservicios de AMB y migración a OpenStreetMap]** (J.Mª Carreras, J. Valls, M. Monteagudo, D. Ramos (Autoritat Metropolitana de Barcelona), J. Figueras, A. Guasch (UPC))** **[Presentación]()** | **[Vídeo]()**
+* **[Geoservicios de AMB y migración a OpenStreetMap]** (J.Mª Carreras, J. Valls, M. Monteagudo, D. Ramos (Autoritat Metropolitana de Barcelona), J. Figueras, A. Guasch (UPC)) **[Presentación]()** | **[Vídeo]()**
 * **[Infraestructura de Datos Espaciales de Venezuela, una IDE 100% software libre]** (V. González (Creativa CA), F. Peñarrubia, J. Higón (Software Colaborativo), J. Sanz (Prodevelop), A. Anguix (AsociacióngvSIG)) **[Presentación]()** | **[Vídeo]()**
 * **[Integración de la recomendación WMS-C en los estándares preexistentes en la IDE]** (M. Citores, J.A. López (COTESA)) **[Presentación]()** | **[Vídeo]()**
 * **[Catálogo de datos geográficos MDWeb: aplicación a la región del Languedoc - Rosellón (Francia)]** (S. Coste (SIG L-R), R. Moreno (RM Consulting), V. Heurteaux (Geomatys)) **[Presentación]()** | **[Vídeo]()**
