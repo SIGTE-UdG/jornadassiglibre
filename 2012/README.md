@@ -10,10 +10,11 @@ Sesión inaugural
 Ponencias plenarias
 ====================
 
-* **titol** (**nom**, carrec, posicio).
+* **titol** (nom, carrec, posicio).
 
 Comunicaciones
 =================
+
 Topic
 ---------------------------
 
@@ -22,7 +23,7 @@ Topic
 Talleres
 ========
 
-* **Taller 1:** *titol* (autor, empresa) **[Presentación]()** | **[Vídeo]()**
+* **Taller 1: titol** (autor, empresa) **[Presentación]()** | **[Vídeo]()**
 
 Patrocinadores
 ==============
