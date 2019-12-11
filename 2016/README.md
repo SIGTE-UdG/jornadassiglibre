@@ -14,15 +14,16 @@ Ponencias plenarias
 
 Comunicaciones
 =================
+
 Topic
 ---------------------------
 
-* **titol** (autor) **[Presentación]()** | **[Vídeo]()**
+* **titol** (autor, empresa) **[Presentación]()** | **[Vídeo]()**
 
 Talleres
 ========
 
-* **Taller 1:** *titol* (autor) **[Presentación]()** | **[Vídeo]()**
+* **Taller 1:** *titol* (autor, empresa) **[Presentación]()** | **[Vídeo]()**
 
 Patrocinadores
 ==============

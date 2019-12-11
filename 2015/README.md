@@ -15,17 +15,15 @@ Ponencias plenarias
 Comunicaciones
 =================
 
-* **[titol](http://)** (autor)
-
-Aplicaciones (desarrollos)
+Topic
 ---------------------------
 
-* **[titol](http://)** (autor)
+* **titol** (autor, empresa) **[Presentación]()** | **[Vídeo]()**
 
 Talleres
 ========
 
-* **Taller 1:** *titol* (autor)
+* **Taller 1:** *titol* (autor, empresa) **[Presentación]()** | **[Vídeo]()**
 
 Patrocinadores
 ==============
