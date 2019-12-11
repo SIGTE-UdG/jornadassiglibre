@@ -84,23 +84,38 @@ Patrocinadores
 ==============
 
 ![CNIG](img/cnig.png)
+
 ![ICC](img/icc.jpg)
+
 ![Generalitat Valenciana](img/cit.jpg)
+
 ![Prodevelop](img/cit.jpg)
+
 ![Nexus Geografics](img/nexus.jpg)
+
 ![Autodesk](img/auto.jpg)
+
 ![Cotesa](img/cotesa.jpg)
 
 Colabora
 ==============
 
 ![OSGeo](img/osgeo.png)
+
 ![FFII](img/ffii.jpg)
+
 ![UOC](img/uoc.jpg)
+
 ![gvSIG](img/gvsig.jpg)
+
 ![IVER Tecnologías](img/iver.jpg)
+
 ![Software Colaborativo](img/software.jpg)
+
 ![Gaceta Tecnológica](img/gaceta.jpg)
+
 ![Linux](img/linux.jpg)
+
 ![CatPL](img/catpl.jpg)
+
 ![AC](img/ac.jpg)
