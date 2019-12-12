@@ -19,8 +19,8 @@ Comunicaciones
 Arqueologia
 ---------------------------
 
-* **Sistema de Información y de gestión de caminos históricos de Guía de Isora, Tenerife]** D.L. Alonso (Ayuntamiento de Guía de Isora), J. Domínguez, J. Schorn (CenIT The Geo Company SLNE) **[Presentación]()** | **[Vídeo]()**
-* **[El empleo de Software Libre en el estudio de la morfología de paisajes antiguos: ejemplo del modelado coste - distancia aplicado a la investigación arqueológica]** (M. Lage Reis-Correia (Fundación las Médulas)) **[Presentación]()** | **[Vídeo]()**
+* **Sistema de Información y de gestión de caminos históricos de Guía de Isora, Tenerife** D.L. Alonso (Ayuntamiento de Guía de Isora), J. Domínguez, J. Schorn (CenIT The Geo Company SLNE) **[Presentación]()** | **[Vídeo]()**
+* **El empleo de Software Libre en el estudio de la morfología de paisajes antiguos: ejemplo del modelado coste - distancia aplicado a la investigación arqueológica]** (M. Lage Reis-Correia (Fundación las Médulas)) **[Presentación]()** | **[Vídeo]()**
 * **[Viejos paisajes y nuevas tecnologías: Una reconstrucción del paisaje Holoceno con gvSIG y Sextante]** (A. Diez,(Universitat de Valencia), N. La Roca, E. Dimaggio, S. Pardo, J.Bernabeu) **[Presentación]()** | **[Vídeo]()**
 
 
