@@ -88,7 +88,7 @@ General
 Talleres
 ========
 
-* **Taller 1:** *titol* (autor)
+* **Practical introduction to MapFish, the web 2.0 mapping application framework** Eric Lemoine, Cedric Moullet and Claude Philipona. (CAMPTOCAMP)
 
 Patrocinadores
 ==============
