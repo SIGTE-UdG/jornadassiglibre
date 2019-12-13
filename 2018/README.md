@@ -94,7 +94,7 @@ Tutoriales
 
 * **Pirámides y estilos en vector tiles en formato abierto** Institut Cartogràfic i
 Geològic de Catalunya (ICGC) **[Presentación]()** | **[Vídeo]()**
-* **Introducción a Copernicus: datos disponibles y ejemplo de procesado con SNAP/software libre** Omar Barrilero**[Presentación]()** | **[Vídeo]()**
+* **Introducción a Copernicus: datos disponibles y ejemplo de procesado con SNAP/software libre** Omar Barrilero **[Presentación]()** | **[Vídeo]()**
 * **Iniciación al webmapping con OpenLayers** Marc Compte, Toni Hernández (SIGTE-UdG) **[Presentación]()** | **[Vídeo]()**
 
 
@@ -111,7 +111,31 @@ Talleres
 * **Taller 6: Uso de fuentes abiertas de datos de tráfico en DATEX II y seguridad vial** José Gómez Castaño
 (INSPIDE) **[Presentación]()** | **[Vídeo]()**
 
+
 Patrocinadores
 ==============
 
-![nom](img/fitxer.jpg)
+
+![INSPIDE](img/inspide.png)
+![Microdisseny](img/micro.png)
+![Geographica](img/geographica.png)
+![ICGC](img/ICGC.png)
+
+
+Colaboradores
+==============
+![OSGEO](img/ICGC.png)
+![Departament de Geografia, UdG](img/geografia.png)
+![ACTIG](img/actig.JPG)
+![UdG](img/UdG.png)
+![UNIGIS](img/Unigis.png)
+![Copernicus](img/copernicus.png)
+
+
+Agradecimientos
+==============
+* BGEO
+* GISCE
+* GEOMATI.CO
+* DEIMOS
+* Infraplan
