@@ -105,7 +105,7 @@ Talleres
 * **Taller 2: Expresiones de QGIS** Carlos López Quintanilla (PSIG)**[Presentación]()** | **[Vídeo]()**
 * **Taller 3: gvSIG online** Nacho Muñoz Motilla (URBANGIS y Scolab) **[Presentación]()** | **[Vídeo]()**
 
-* **Taller 4:SIG 3D con herramientas FLOSS** Paulo César (Universidad Distrital Francisco José de Caldas) **[Presentación]()** | **[Vídeo]()**
+* **Taller 4: SIG 3D con herramientas FLOSS** Paulo César (Universidad Distrital Francisco José de Caldas) **[Presentación]()** | **[Vídeo]()**
 * **Taller 5: Vuestros mapas son feos y no sabéis el por qué** Pedro-Juan Ferrer
 (Geographica) **[Presentación]()** | **[Vídeo]()**
 * **Taller 6: Uso de fuentes abiertas de datos de tráfico en DATEX II y seguridad vial** José Gómez Castaño
