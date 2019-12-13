@@ -1,9 +1,14 @@
 # 13as Jornadas de SIG libre (2019)
 
-29-30 de mayo de 2019
-Facultat de Lletres i de Turisme, Universitat de Girona
+Las Jornadas de SIG libre son un punto de encuentro entre las personas que comparten un mismo interés: el uso y la promoción de los sistemas de información geográfica libres y los datos abiertos en el ámbito de la empresa, la Universidad y la Administración pública.
 
-Contenido de las Jornadas de SIG Libre 2019
+Es un espacio de aprendizaje donde compartir e intercambiar experiencias de casos prácticos y mostrar las novedades en el contexto de las tecnologías geoespaciales de código abierto.
+
+* 29-30 de mayo de 2019
+* Facultat de Lletres i de Turisme, Universitat de Girona
+
+
+
 
 Sesión inaugural
 ==================
@@ -84,9 +89,35 @@ Tutoriales
 Talleres
 ========
 
-* **Taller 1: titol** (autor, empresa) **[Presentación]()** | **[Vídeo]()**
+* **Taller 1: Desarrollo de una aplicación web GIS** Adrián Pérez Beneito **[Presentación]()** | **[Vídeo]()**
+* **Taller 2: Hands-on Satellite Imagery Analysis** Sara Safavi (Planet) **[Presentación]()** | **[Vídeo]()**
+* **Taller 3: Herramientas avanzadas de edición y visualización de QGIS 3.4** Lluís Vicens (SIGTE) y Ferran Orduña (SIGTE) **[Presentación]()** | **[Vídeo]()**
+* **Taller 3: CARTO-VL** Jorge Sanz (CARTO) **[Presentación]()** | **[Vídeo]()**
+* **Taller 5: Procesamiento y visualización de datos Point-Cloud con PDAL y QGIS** Luigi Pirelli **[Presentación]()** | **[Vídeo]()**
+* **Taller 6: Edición de datos OpenStreetMap** Miguel Sevilla-Callejo (Universidad de Zaragoza, IPE-CSIC) **[Presentación]()** | **[Vídeo]()**
+
 
 Patrocinadores
 ==============
 
-![nom](img/fitxer.jpg)
+![Nexus](img/nexus.png)
+![ICGC](img/ICGC.png)
+
+
+Colaboradores
+==============
+![OSGEO](img/ICGC.png)
+![Departament de Geografia, UdG](img/geografia.png)
+![ACTIG](img/actig.JPG)
+![UdG](img/UdG.png)
+![UNIGIS](img/Unigis.png)
+
+
+Agradecimientos
+==============
+
+![BGEO](img/bgeo.png)
+![Infraplan](img/Infraplan.png)
+![Idealista/data](img/idealista.png)
+![Veremes](img/veremes.png)
+![QGIS](img/qgis.png)
