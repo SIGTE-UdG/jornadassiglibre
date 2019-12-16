@@ -23,7 +23,7 @@ Arqueologia
 * **El empleo de Software Libre en el estudio de la morfología de paisajes antiguos: ejemplo del modelado coste - distancia aplicado a la investigación arqueológica** (M. Lage Reis-Correia (Fundación las Médulas)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3458)** | **[Vídeo]()**
 * **Viejos paisajes y nuevas tecnologías: Una reconstrucción del paisaje Holoceno con gvSIG y Sextante** (A. Diez,(Universitat de Valencia), N. La Roca, E. Dimaggio, S. Pardo, J.Bernabeu) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3461)** | **[Vídeo]()**
 **SILEX: la Infraestructura de Datos Espaciales del yacimiento arqueológico de Casa Montero** (A. Fraguas, A. Uriarte, S. Consuegra, A. Menchero, J.M. Vicent, P. Díaz del Río) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3520)
-**El Empleo de software libre en la puesta en marcha de la IDE de la Zona Arqueológica de Las Médulas (León)** (M. Lage Reis/Correia) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3521)
+**El Empleo de software libre en la puesta en marcha de la IDE de la Zona Arqueológica de Las Médulas (León)** (M. Lage Reis-Correia) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3521)**
 
 IDE/OGC
 ---------------------------
