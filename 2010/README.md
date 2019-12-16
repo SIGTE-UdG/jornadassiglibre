@@ -22,8 +22,8 @@ Arqueologia
 * **Sistema de Información y de gestión de caminos históricos de Guía de Isora, Tenerife** D.L. Alonso (Ayuntamiento de Guía de Isora), J. Domínguez, J. Schorn (CenIT The Geo Company SLNE) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3414)** | **[Vídeo]()**
 * **El empleo de Software Libre en el estudio de la morfología de paisajes antiguos: ejemplo del modelado coste - distancia aplicado a la investigación arqueológica** (M. Lage Reis-Correia (Fundación las Médulas)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3458)** | **[Vídeo]()**
 * **Viejos paisajes y nuevas tecnologías: Una reconstrucción del paisaje Holoceno con gvSIG y Sextante** (A. Diez,(Universitat de Valencia), N. La Roca, E. Dimaggio, S. Pardo, J.Bernabeu) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3461)** | **[Vídeo]()**
-**SILEX: la Infraestructura de Datos Espaciales del yacimiento arqueológico de Casa Montero** (A. Fraguas, A. Uriarte, S. Consuegra, A. Menchero, J.M. Vicent, P. Díaz del Río) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3520)
-**El Empleo de software libre en la puesta en marcha de la IDE de la Zona Arqueológica de Las Médulas (León)** (M. Lage Reis-Correia) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3521)**
+* **SILEX: la Infraestructura de Datos Espaciales del yacimiento arqueológico de Casa Montero** (A. Fraguas, A. Uriarte, S. Consuegra, A. Menchero, J.M. Vicent, P. Díaz del Río) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3520)**
+* **El Empleo de software libre en la puesta en marcha de la IDE de la Zona Arqueológica de Las Médulas (León)** (M. Lage Reis-Correia) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3521)**
 
 IDE/OGC
 ---------------------------
