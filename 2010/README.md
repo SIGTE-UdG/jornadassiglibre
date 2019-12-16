@@ -6,11 +6,11 @@ Contenido de las Jornadas de SIG Libre 2010
 Ponencias plenarias
 ====================
 
-* **Open Source en Ciencia: del Open Source a la Open Science** (**Agustín Lobo**, Institut de Ciències de la Terra Jaume Almera, (CSIC)) **[Video](http://diobma.udg.edu/handle/10256.1/1551)
-* **¿Por qué España? Oportunidades de negocio en Software Libre** (**Andrés García**, Jefe de Servicios al Inversor en Invest in Spain) **[Video]** (http://diobma.udg.edu/handle/10256.1/1552)
-* **A Free Software Model for Open Knowledge** (**Jo Walsh**, The Open Knowledge Foundation) **[Video]**(http://diobma.udg.edu/handle/10256.1/1553)
-* **SIG y Empresa. Estrategias y modelos de negocios en la Red** (**Genís Roca**, Socio y Director de RocaSalvatella) **[Video]** (http://diobma.udg.edu/handle/10256.1/1554)
-* **Volunteered Geographic Information - Experiencias en Wikiloc** (**Jordi L. Ramot**, Fundador y Director de IOGEO y creador de Wikiloc) **[Video]** (http://diobma.udg.edu/handle/10256.1/1555)
+* **Open Source en Ciencia: del Open Source a la Open Science** (**Agustín Lobo**, Institut de Ciències de la Terra Jaume Almera, (CSIC)) **[Video](http://diobma.udg.edu/handle/10256.1/1551)**
+* **¿Por qué España? Oportunidades de negocio en Software Libre** (**Andrés García**, Jefe de Servicios al Inversor en Invest in Spain) **[Video](http://diobma.udg.edu/handle/10256.1/1552)**
+* **A Free Software Model for Open Knowledge** (**Jo Walsh**, The Open Knowledge Foundation) **[Video](http://diobma.udg.edu/handle/10256.1/1553)**
+* **SIG y Empresa. Estrategias y modelos de negocios en la Red** (**Genís Roca**, Socio y Director de RocaSalvatella) **[Video](http://diobma.udg.edu/handle/10256.1/1554)**
+* **Volunteered Geographic Information - Experiencias en Wikiloc** (**Jordi L. Ramot**, Fundador y Director de IOGEO y creador de Wikiloc) **[Video](http://diobma.udg.edu/handle/10256.1/1555)**
 
 Comunicaciones
 =================
