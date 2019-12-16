@@ -2,10 +2,6 @@
 
 Contenido de las Jornadas de SIG Libre 2011
 
-Sesión inaugural
-==================
-
-* **nom** (carrec, posició)
 
 Ponencias plenarias
 ====================
@@ -23,9 +19,9 @@ Bases de Datos
 ---------------------------
 
 * **JASPA, la mejor alternativa libre a PostGIS.** J. Martínez-Llario, M. González, E. Coll, (Universidad Politécnica de Valencia) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3373)**
-* **Desarrollo de un índice espacial para la extensión JASPA sobre la base de datos H2.** J.A. Calvillo, J.M. de Diego, A. Pérez-Navarro (Universitat Oberta de Catalunya)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/3374)** | **[Vídeo]()**
-* **Accediendo a la Base de Datos PostGIS Raster desde gvSIG Desktop.** M. Montesinos, I. Brodin (Prodevelop), V.Agazzi (Asociación gvSIG)  **[Presentación]()** | **[Vídeo]()**
-* **El proyecto IDE Menorca** R. Cots (Consell Insular de Menorca), M. Rosés (SILME), J.L. Cardoso, (TRACASA) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3377)** | **[Vídeo]()**
+* **Desarrollo de un índice espacial para la extensión JASPA sobre la base de datos H2.** J.A. Calvillo, J.M. de Diego, A. Pérez-Navarro (Universitat Oberta de Catalunya)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/3374)** 
+* **Accediendo a la Base de Datos PostGIS Raster desde gvSIG Desktop.** M. Montesinos, I. Brodin (Prodevelop), V.Agazzi (Asociación gvSIG)  **[Presentación]()** 
+* **El proyecto IDE Menorca** R. Cots (Consell Insular de Menorca), M. Rosés (SILME), J.L. Cardoso, (TRACASA) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3377)** 
 
 
 Dispositivos Móvilles
@@ -49,8 +45,8 @@ Desarrollo y programación
 Caso de Uso, Servicios
 ---------------------------
 
-* **SigTur/E-Destino: fusión de un SIG con métodos de Inteligencia Artificial para la gestión de regiones turísticas complejas.** J. de la Flor, J. Borràs (Parc Científic i Tecnològic de Turisme i Oci), Y. Pérez, A. Russo, S. Antón-Clave, A. Moreno, A. Valls, D. Isern (Universitat Rovira i Virgili) **[Presentación]()** | **[Vídeo]()**
-* **Solución de alto rendimiento para el geoportal de Turismo de la Generalitat Valenciana.** J. Carrasco, J. Sanz (Prodevelop), S. Belentani (Agència Valenciana de Turisme) **[Presentación]()** | **[Vídeo]()**
+?? * **SigTur/E-Destino: fusión de un SIG con métodos de Inteligencia Artificial para la gestión de regiones turísticas complejas.** J. de la Flor, J. Borràs (Parc Científic i Tecnològic de Turisme i Oci), Y. Pérez, A. Russo, S. Antón-Clave, A. Moreno, A. Valls, D. Isern (Universitat Rovira i Virgili) **[Presentación]()** | **[Vídeo]()**
+* **Solución de alto rendimiento para el geoportal de Turismo de la Generalitat Valenciana.** J. Carrasco, J. Sanz (Prodevelop), S. Belentani (Agència Valenciana de Turisme) **[Presentación]()** | **[Vídeo]()** ??
 
 * **Desarrollo de un visor cartográfico para el Parque Regional de Sierra Espuña.** J.M. Fresno, F. Alonso (Instituto del Agua y del Medio Ambiente), F.J. Gomariz (Fundación Instituto Euromediterráneo del Agua) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3387)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2000)**
 * **Experiencia de migración a gvSIG en la Consejería de Medio Ambiente.** R. Ayerbe, D. Martín (Junta de Andalucía), J.A. Henares (SADIEL), A. González (Emergya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3388)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2001)**
