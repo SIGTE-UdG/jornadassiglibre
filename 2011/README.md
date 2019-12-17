@@ -45,8 +45,8 @@ Desarrollo y programación
 Caso de Uso, Servicios
 ---------------------------
 
-???? * **SigTur/E-Destino: fusión de un SIG con métodos de Inteligencia Artificial para la gestión de regiones turísticas complejas.** J. de la Flor, J. Borràs (Parc Científic i Tecnològic de Turisme i Oci), Y. Pérez, A. Russo, S. Antón-Clave, A. Moreno, A. Valls, D. Isern (Universitat Rovira i Virgili) **[Presentación]()** | **[Vídeo]()**
-???? * **Solución de alto rendimiento para el geoportal de Turismo de la Generalitat Valenciana.** J. Carrasco, J. Sanz (Prodevelop), S. Belentani (Agència Valenciana de Turisme) **[Presentación]()** | **[Vídeo]()**
+* **SigTur/E-Destino: fusión de un SIG con métodos de Inteligencia Artificial para la gestión de regiones turísticas complejas.** J. de la Flor, J. Borràs (Parc Científic i Tecnològic de Turisme i Oci), Y. Pérez, A. Russo, S. Antón-Clave, A. Moreno, A. Valls, D. Isern (Universitat Rovira i Virgili)
+* **Solución de alto rendimiento para el geoportal de Turismo de la Generalitat Valenciana.** J. Carrasco, J. Sanz (Prodevelop), S. Belentani (Agència Valenciana de Turisme)
 
 * **Desarrollo de un visor cartográfico para el Parque Regional de Sierra Espuña.** J.M. Fresno, F. Alonso (Instituto del Agua y del Medio Ambiente), F.J. Gomariz (Fundación Instituto Euromediterráneo del Agua) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3387)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2000)**
 * **Experiencia de migración a gvSIG en la Consejería de Medio Ambiente.** R. Ayerbe, D. Martín (Junta de Andalucía), J.A. Henares (SADIEL), A. González (Emergya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3388)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2001)**
