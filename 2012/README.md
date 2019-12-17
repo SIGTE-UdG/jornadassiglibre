@@ -93,4 +93,26 @@ Talleres
 Patrocinadores
 ==============
 
-![nom](img/fitxer.jpg)
+![IGN](img/ign.png)
+
+![UOC](img/UOC.gif)
+
+![actig](img/actig.jpg)
+
+![catpl](img/catpl.jpg)
+
+![emergya](img/emergya.jpg)
+
+![gaceta](img/emergya.jpg)
+
+![gvSIG](img/gvSIG.jpg)
+
+![ICC](img/icc.jpg)
+
+![Geomatico](img/logo_geomatico.jpg)
+
+![osgeo](img/osgeo.jpg)
+
+![prodevelop](img/prodevelop.jpg)
+
+![sinfogeo](img/sinfogeo.jpg)
