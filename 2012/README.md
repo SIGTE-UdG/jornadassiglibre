@@ -103,7 +103,7 @@ Patrocinadores
 
 ![emergya](img/emergya.jpg)
 
-![gaceta](img/emergya.jpg)
+![gaceta](img/gaceta.jpg)
 
 ![gvSIG](img/gvSIG.jpg)
 
