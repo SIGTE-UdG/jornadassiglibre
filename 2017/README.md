@@ -81,7 +81,8 @@ Talleres
 Patrocinadores
 ==============
 
-![Geocat] (img/geocat.png)
+
+![Geocat](img/geocat.png)
 ![Infraplan](img/infraplan.png)
 ![Gobierno de Navarra](img/navarra.png)
 ![ICGC](img/ICGC.png)
