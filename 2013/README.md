@@ -98,4 +98,26 @@ Talleres
 Patrocinadores
 ==============
 
-![nom](img/fitxer.jpg)
+![ACTIG](img/ACTIG_home.png)
+
+![UOC](img/UOC_home.png)
+
+![catpl](img/catpl.png)
+
+![csgis](img/csgis.png)
+
+![gaceta](img/gaceta.png)
+
+![geocat](img/geocat.png)
+
+![gvSIG](img/gvSIG.png)
+
+![icc](img/icc.png)
+
+![geomatico](img/logo_geomatico.png)
+
+![osgeo](img/psgep.png)
+
+![prodevelop](img/prodevelop.png)
+
+![sigpot](img/sigpot.png)
