@@ -116,7 +116,7 @@ Patrocinadores
 
 ![geomatico](img/logo_geomatico.png)
 
-![osgeo](img/osgep.png)
+![osgeo](img/osgeo.png)
 
 ![prodevelop](img/prodevelop.png)
 
