@@ -108,7 +108,7 @@ Sesión Clausura
 Patrocinadores
 ==============
 
-![AGPC](img/AGPC-25 anys.jpg)
+![AGPC](img/AGPC-25anys.jpg)
 
 ![ATI](img/ATI.jpg)
 
@@ -120,7 +120,7 @@ Patrocinadores
 
 ![geoinquiets](img/geoinquiets.jpg)
 
-![mappingweb](img/maping/web.jpg)
+![mappingweb](img/maping-web.jpg)
 
 ![masquesig](img/masquesig.jpg)
 
