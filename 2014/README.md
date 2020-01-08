@@ -32,13 +32,13 @@ P. Bunting (Aberystwyth University) **[Presentación](https://dugi-doc.udg.edu/h
 Universidad / Investigación
 ---------------------------
 
-* **Herramientas TIG para el análisis del comportamiento de turistas en la ciudad de Girona** T. Hernández, R. Olivella, J. Sitjar, Ll. Vicens (SIGTE - UdG) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9035)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3359)*
-* **Building 3D City models: Testing and Comparing Laser scanning and low-cost UAV data using FOSS technologies** C. Rebelo, A. Rodrigues, J. Tenedório (e-GEO Research Centre for Geography and Regional Planning - UNL), J. Gonçalves (Universidade do Porto), J. Marnoto (SINFIC S.A.) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9036)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3360)*
-* **GEONEFROSALVA, una plataforma SIG en software libre, para la caracterización de los Factores de Riesgo de la Enfermedad Renal Crónica de causas no tradicionales que afecta a la población agrícola de El Salvador** A.Ribó, E. Vela, E. Quinteros, R. Mejía, C. Orantes (Instituto Nacional de Salud- Ministerio de Salud, El Salvador), J. Molinas (UdG), D.L. López (Ohio University) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9037)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3361)*
-* **GIS & Modelado Procedural** G. Besuievsky, G. Patow (Grup de Geometria i Gràfics - UdG) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9038)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3362)*
-* **STIMULO: Sistema de Transporte Logístico Inteligente Multimodal** J. Sanz (Prodevelop SL) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9039)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3363)*
-* **Nuevo algoritmo de coste acumulado condicionado para modelos de accesibilidad implementado con sextante sobre gvSIG** F.A. Varela (CartoLAB - UdC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9040)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3364)*
-* **Uso de algoritmos de enrutamiento para el cálculo de indicadores de sostenibilidad** A. Pijoan, C.E. Borges, Y.K. Penya, A. Alonso-Vicario (Deusto Tech) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9041)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3365)*
+* **Herramientas TIG para el análisis del comportamiento de turistas en la ciudad de Girona** T. Hernández, R. Olivella, J. Sitjar, Ll. Vicens (SIGTE - UdG) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9035)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3359)**
+* **Building 3D City models: Testing and Comparing Laser scanning and low-cost UAV data using FOSS technologies** C. Rebelo, A. Rodrigues, J. Tenedório (e-GEO Research Centre for Geography and Regional Planning - UNL), J. Gonçalves (Universidade do Porto), J. Marnoto (SINFIC S.A.) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9036)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3360)**
+* **GEONEFROSALVA, una plataforma SIG en software libre, para la caracterización de los Factores de Riesgo de la Enfermedad Renal Crónica de causas no tradicionales que afecta a la población agrícola de El Salvador** A.Ribó, E. Vela, E. Quinteros, R. Mejía, C. Orantes (Instituto Nacional de Salud- Ministerio de Salud, El Salvador), J. Molinas (UdG), D.L. López (Ohio University) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9037)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3361)**
+* **GIS & Modelado Procedural** G. Besuievsky, G. Patow (Grup de Geometria i Gràfics - UdG) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9038)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3362)**
+* **STIMULO: Sistema de Transporte Logístico Inteligente Multimodal** J. Sanz (Prodevelop SL) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9039)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3363)**
+* **Nuevo algoritmo de coste acumulado condicionado para modelos de accesibilidad implementado con sextante sobre gvSIG** F.A. Varela (CartoLAB - UdC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9040)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3364)**
+* **Uso de algoritmos de enrutamiento para el cálculo de indicadores de sostenibilidad** A. Pijoan, C.E. Borges, Y.K. Penya, A. Alonso-Vicario (Deusto Tech) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9041)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3365)**
 
 Presentaciones Técnicas Avanzadas
 ---------------------------
@@ -61,11 +61,11 @@ Presentaciones Técnicas Introductorias
 ---------------------------
 
 * **PostgreSQL y PostGIS 2.0 aplicados al mundo de la ingeniería hidráulica y fluvial** X. Torret (tècnicsassociats), V. Mediana (UPC-GITS) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9046)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3368)*
-* **Procesos web geoespaciales: dificultades y alternativas en el caso del visor SACOSTA** G. Frontera, P. Balaguer (ICTS SOCIB), D. March (IMEDEA - CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9047)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3369)*
-* **gvSIG CE: Últimos avances** F. González, V. González (geomati.co) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9057)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3370)*
-* **GeoCat Live: una plataforma Cloud basada en servidores SIG Open source** J.B. García (GeoCat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9048)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3371)*
-* **GeoNetwork 3** J.B. García (GeoCat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9049)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3372)*
-* **MapStore, crear, salvar y compartir mashups de manera simple e intuitiva** A. Díaz (GeoSolutions) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9050)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3373)*
+* **Procesos web geoespaciales: dificultades y alternativas en el caso del visor SACOSTA** G. Frontera, P. Balaguer (ICTS SOCIB), D. March (IMEDEA - CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9047)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3369)**
+* **gvSIG CE: Últimos avances** F. González, V. González (geomati.co) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9057)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3370)**
+* **GeoCat Live: una plataforma Cloud basada en servidores SIG Open source** J.B. García (GeoCat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9048)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3371)**
+* **GeoNetwork 3** J.B. García (GeoCat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9049)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3372)**
+* **MapStore, crear, salvar y compartir mashups de manera simple e intuitiva** A. Díaz (GeoSolutions) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9050)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3373)**
 
 Dispositivos móviles
 ---------------------------
@@ -80,11 +80,11 @@ M. de la Calle, D. Gómez-Deck (Igo Software - Glob3 Mobile) **[Presentación](h
 IDE / OWS / INSPIRE
 ---------------------------
 
-* **Sensor Widgets: Visualización ligera de datos de sensores** O. Fonts (geomati.co) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9051)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3374)*
+* **Sensor Widgets: Visualización ligera de datos de sensores** O. Fonts (geomati.co) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9051)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3374)**
 * **Nuevo entorno de explotación y visualización de datos geoespaciales basado en la plataforma Wirecloud** J. Sánchez (GeoNaTec), J. Soriano, A. Vera, B. Illescas (UPM), A.F Rodríguez (IGN) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9052)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3375)*
-* **Puerto de Barcelona: Modelo espacio-temporal con Open Source y servicios OGC** E. Rodellas, J. Torres, L. Damea (Autoridad Portuaria de Barcelona) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9053)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3376)*
-* **Experiencia de publicación de un servicio teselado de mapas WMTS RESTful para IDENA** A. Huarte, F. Lacunza, J.L. Cardoso, C. Sánchez (Tracasa) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9054)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3377)*
-* **Portal de Coordinación de Canalizaciones Subterráneas** J.L. Cardoso, I. Pérez, R.Urio (Tracasa) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9056)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3378)*
+* **Puerto de Barcelona: Modelo espacio-temporal con Open Source y servicios OGC** E. Rodellas, J. Torres, L. Damea (Autoridad Portuaria de Barcelona) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9053)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3376)**
+* **Experiencia de publicación de un servicio teselado de mapas WMTS RESTful para IDENA** A. Huarte, F. Lacunza, J.L. Cardoso, C. Sánchez (Tracasa) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9054)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3377)**
+* **Portal de Coordinación de Canalizaciones Subterráneas** J.L. Cardoso, I. Pérez, R.Urio (Tracasa) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9056)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3378)**
 
 Tutoriales Técnicos
 ---------------------------
