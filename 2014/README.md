@@ -124,7 +124,7 @@ Patrocinadores
 
 ![masquesig](img/masquesig.jpg)
 
-![nosolosig](img/nosolosig/web.png)
+![nosolosig](img/nosolosig-web.png)
 
 ![vizzuality](img/vizzuality.jpg)
 
