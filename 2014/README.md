@@ -60,7 +60,7 @@ Casos de Uso
 Presentaciones Técnicas Introductorias
 ---------------------------
 
-* **PostgreSQL y PostGIS 2.0 aplicados al mundo de la ingeniería hidráulica y fluvial** X. Torret (tècnicsassociats), V. Mediana (UPC-GITS) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9046)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3368)*
+* **PostgreSQL y PostGIS 2.0 aplicados al mundo de la ingeniería hidráulica y fluvial** X. Torret (tècnicsassociats), V. Mediana (UPC-GITS) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9046)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3368)**
 * **Procesos web geoespaciales: dificultades y alternativas en el caso del visor SACOSTA** G. Frontera, P. Balaguer (ICTS SOCIB), D. March (IMEDEA - CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9047)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3369)**
 * **gvSIG CE: Últimos avances** F. González, V. González (geomati.co) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9057)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3370)**
 * **GeoCat Live: una plataforma Cloud basada en servidores SIG Open source** J.B. García (GeoCat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9048)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3371)**
