@@ -98,7 +98,7 @@ Colaboradores
 Agradecimientos
 ==============
 
-![CartoDB](img/carto.JPG)
+![CartoDB](img/carto.png)
 ![Infraplan](img/infraplan.png)
 
 * BGEO Open GIS
