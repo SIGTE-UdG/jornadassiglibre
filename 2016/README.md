@@ -78,7 +78,9 @@ Patrocinadores
 
 
 ![Geocat](img/geocat.png)
+
 ![Boundless](img/boundless.png)
+
 ![Nexus](img/nexus.png)
 
 
@@ -86,11 +88,17 @@ Patrocinadores
 Colaboradores
 ==============
 ![ICGC](img/ICGC.png)
+
 ![OsGEO](img/osgeo.png)
+
 ![UNIGIS](img/unigis.png)
+
 ![QGIS](img/qgis.png)
+
 ![Departament de Geografia, UdG](img/geografia.png)
+
 ![ACTIG](img/actig.JPG)
+
 ![UdG](img/UdG.png)
 
 
@@ -99,6 +107,7 @@ Agradecimientos
 ==============
 
 ![CartoDB](img/carto.png)
+
 ![Infraplan](img/infraplan.png)
 
 * BGEO Open GIS
