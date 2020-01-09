@@ -77,9 +77,9 @@ Talleres
 * **Taller 4:  Desarrollo de plugins para QGIS y QGIS3** Luigi Pirelli (Boundless) 
 * **Taller 5:  Overpass API: descargas selectivas desde OpenStreetMap** Santiago Higuera de Frutos (Mercator-lab)  
 * **Taller 6:  Taller avanzado de análisis y cartografía con CARTO Builders** Jorge Sanz (CARTO), Ramiro Aznar (CARTO), Oriol Boix (CARTO) y Ernesto Martínez (CARTO) 
+
 Patrocinadores
 ==============
-
 
 ![Geocat](img/geocat.png)
 ![Infraplan](img/infraplan.png)
