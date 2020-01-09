@@ -81,11 +81,19 @@ Patrocinadores
 ==============
 
 ![AENTEG](img/AENTEG.png)
+
 ![ICGC](img/Logo-ICGC.png)
+
 ![AGPC](img/geografs-AGPC.png)
+
 ![geomatico](img/geomatico-web.png)
+
 ![gvsig](img/gvSIG.png)
+
 ![masquesig](img/masquesig.png)
+
 ![nosolosig](img/nosolosig.png)
+
 ![prodevelop](img/prodevelop.png)
+
 ![sigpothq](img/sigpotHQ.png)
