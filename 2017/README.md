@@ -82,8 +82,11 @@ Patrocinadores
 ==============
 
 ![Geocat](img/geocat.png)
+
 ![Infraplan](img/infraplan.png)
+
 ![Gobierno de Navarra](img/navarra.png)
+
 ![ICGC](img/ICGC.png)
 
 
@@ -91,7 +94,9 @@ Colaboradores
 ==============
 
 ![Departament de Geografia, UdG](img/geografia.png)
+
 ![ACTIG](img/actig.JPG)
+
 ![UdG](img/UdG.png)
 
 
