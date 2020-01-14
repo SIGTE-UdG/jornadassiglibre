@@ -1,6 +1,6 @@
 # 2as Jornadas de SIG libre (2008)
 
-Contenido de las Jornadas de SIG Libre 2009
+Contenido de las Jornadas de SIG Libre 2008
 
 Ponencias plenarias
 ====================
