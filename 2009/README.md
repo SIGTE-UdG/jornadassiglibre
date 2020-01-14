@@ -24,17 +24,17 @@ Sesión A
 ---------------------------
 
 * **La Comunidad geoespacial y el acceso a los datos oceanográficos** **[Presentación]()** | **[Vídeo]()**
-* **Liberación de datos y publicación de recursos geográficos**
-* **gvSIG: Descentralización y organización de la comunidad**
-* **Estructura del servidor interactivo de información epidemiológica**
-* **Servicios Web con funcionalidad geográfica como herramienta para para el análisis y generación de información estratégica en las organizaciones**
-* **MapFish - WebGIS 2.0 development framework based on GeoExt and OpenLayers**
-* **Vissir2: Evolución del visor web del ICC hacia tecnologías abiertas**
-* **Sistema de geocodificación libre: Callejero Digital de Andalucía**
-* **Gestor de contenidos del geoportal de la IDE del Cabildo Insular de La Palma**
-* **Cuadro de mando de la Diputación de Badajoz: Un mundo conectado para la toma de decisiones**
-* **El Capítulo Local OSGeo para la comunidad hispano-hablante**
-* **Implementación de una IDE local en el Centro Histórico de La Habana basada en software libre y aplicaciones de código abierto**
+* **Liberación de datos y publicación de recursos geográficos** **[Presentación]()** | **[Vídeo]()**
+* **gvSIG: Descentralización y organización de la comunidad** **[Presentación]()** | **[Vídeo]()**
+* **Estructura del servidor interactivo de información epidemiológica** **[Presentación]()** | **[Vídeo]()**
+* **Servicios Web con funcionalidad geográfica como herramienta para para el análisis y generación de información estratégica en las organizaciones** **[Presentación]()** | **[Vídeo]()**
+* **MapFish - WebGIS 2.0 development framework based on GeoExt and OpenLayers** **[Presentación]()** | **[Vídeo]()**
+* **Vissir2: Evolución del visor web del ICC hacia tecnologías abiertas** **[Presentación]()** | **[Vídeo]()**
+* **Sistema de geocodificación libre: Callejero Digital de Andalucía** **[Presentación]()** | **[Vídeo]()**
+* **Gestor de contenidos del geoportal de la IDE del Cabildo Insular de La Palma** **[Presentación]()** | **[Vídeo]()**
+* **Cuadro de mando de la Diputación de Badajoz: Un mundo conectado para la toma de decisiones** **[Presentación]()** | **[Vídeo]()**
+* **El Capítulo Local OSGeo para la comunidad hispano-hablante** **[Presentación]()** | **[Vídeo]()**
+* **Implementación de una IDE local en el Centro Histórico de La Habana basada en software libre y aplicaciones de código abierto** **[Presentación]()** | **[Vídeo]()**
 
 Sesión B
 ---------------------------
