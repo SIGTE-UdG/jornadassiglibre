@@ -92,7 +92,7 @@ Talleres
 * **Taller 1: Desarrollo de una aplicación web GIS** Adrián Pérez Beneito 
 * **Taller 2: Hands-on Satellite Imagery Analysis** Sara Safavi (Planet) 
 * **Taller 3: Herramientas avanzadas de edición y visualización de QGIS 3.4** Lluís Vicens (SIGTE) y Ferran Orduña (SIGTE) 
-* **Taller 3: CARTO-VL** Jorge Sanz (CARTO) **[Vídeo]()**
+* **Taller 3: CARTO-VL** Jorge Sanz (CARTO)
 * **Taller 5: Procesamiento y visualización de datos Point-Cloud con PDAL y QGIS** Luigi Pirelli 
 * **Taller 6: Edición de datos OpenStreetMap** Miguel Sevilla-Callejo (Universidad de Zaragoza, IPE-CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17298)**
 
