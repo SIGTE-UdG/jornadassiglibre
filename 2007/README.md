@@ -2,6 +2,7 @@
 
 5, 6 y 7 de marzo de 2007
 
+Contenido de las Jornadas de SIG Libre 2017
 
 Sesión inaugural
 ==================
