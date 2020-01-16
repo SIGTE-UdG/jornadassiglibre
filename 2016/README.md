@@ -1,6 +1,6 @@
 # 10as Jornadas de SIG Libre (2016)
 
-* 24 y 25 de mayo de 2016
+* 24, 25 y de mayo de 2016
 * Facultat de Lletres i de Turisme de la Universitat de Girona
 
 
