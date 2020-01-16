@@ -1,11 +1,8 @@
 # 8as Jornadas de SIG Libre (2014)
 
+27 y 28 de marzo de 2014
+
 Contenido de las Jornadas de SIG Libre 2014
-
-Sesión inaugural
-==================
-
-* **nom** (carrec, posició)
 
 Ponencias plenarias
 ====================
