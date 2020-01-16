@@ -1,5 +1,7 @@
 # 6as Jornadas de SIG Libre (2012)
 
+22 y 23 de marzo de 2012
+
 Contenido de las Jornadas de SIG Libre 2012
 
 Sesión inaugural
