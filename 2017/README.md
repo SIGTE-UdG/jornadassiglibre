@@ -1,6 +1,10 @@
 # 11as Jornadas de SIG libre (2017)
 
-Contenido de las Jornadas de SIG Libre 2017
+Las Jornadas de SIG Libre son un evento de referencia en el sector de las tecnologías libres en el ámbito de la informacion geográfica.
+
+Son un punto de encuentro donde compartir conocimientos, experiencias y crear sinergias entre usuarios y programadores.
+
+Un espacio donde mostrar novedades y tendencias y reflexionar en debates que se ajusten al contexto de las tecnologías geoespaciales libres.
 
 * 1 y 2 de junio de 2017
 * Facultat de Lletres i de Turisme de la Universitat de Girona
