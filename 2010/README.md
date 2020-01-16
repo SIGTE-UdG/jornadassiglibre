@@ -1,6 +1,6 @@
 # 4as Jornadas de SIG libre (2010)
 
-10, 11 y 12 de Marzo 2010
+10, 11 y 12 de marzo de 2010
 
 Contenido de las Jornadas de SIG Libre 2010
 
