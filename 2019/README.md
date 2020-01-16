@@ -56,7 +56,7 @@ Proyectos colaborativos
 * **Las calles de las mujeres** Carmen Diez Sanmartin, Jessica Sena, Montse Ortega, Eva M. López, Maria Soto y Esther Mingot (Geochicas OSM) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5736)**
 * **Cómo sobrevivir a un apocalipsis zombie de gatitos (con OSGeo)** María Arias de Reyna (GeoCAT) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5737)**
 * **Procesos colaborativos de mejora de la calidad de los datos en OpenStreetMap** Esther Mingot y Jose Luís Infante (OSM-Cat)  **[Vídeo](http://diobma.udg.edu/handle/10256.1/5738)**
-* **Análisis de la accesibilidad urbana para personas con movilidad reducida a través del uso de IG voluntaria, cartografía colaborativa y herramientas libres** Ignacio Orte, Miguel Sevilla Callejo (Universidad de Zaragoza, IPE-CSIC), J.L. Infante (Llefianet Xarxa Ciutadana de Llefià), Carlos Cámara y Héctor Ochoa 
+* **Análisis de la accesibilidad urbana para personas con movilidad reducida a través del uso de IG voluntaria, cartografía colaborativa y herramientas libres** Ignacio Orte, Miguel Sevilla Callejo (Universidad de Zaragoza, IPE-CSIC), J.L. Infante (Llefianet Xarxa Ciutadana de Llefià), Carlos Cámara y Héctor Ochoa
 * **Visor de mapas IDE y componente .NET basado en el API SITNA** Marc Roses Arbonés, Ricard Cots Torrelles, Marc Vinent Escandell (Consell Insular de Menorca) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5740)**
 
 Técnica avanzada
@@ -82,18 +82,18 @@ Clausura
 
 Tutoriales
 ---------------------------
-* **Aplicación de la norma española UNE 148004:2018** Antonio Rodríguez Pascual (CNIG) 
-* **Gestión municipal con gvSIG online** Nacho Muñoz Motilla 
-* **Publicación de recursos y herramientas GIS en la red** Antonio Murillo Estacho (Software Grupo S) 
+* **Aplicación de la norma española UNE 148004:2018** Antonio Rodríguez Pascual (CNIG)
+* **Gestión municipal con gvSIG online** Nacho Muñoz Motilla
+* **Publicación de recursos y herramientas GIS en la red** Antonio Murillo Estacho (Software Grupo S)
 
 Talleres
 ========
 
-* **Taller 1: Desarrollo de una aplicación web GIS** Adrián Pérez Beneito 
-* **Taller 2: Hands-on Satellite Imagery Analysis** Sara Safavi (Planet) 
-* **Taller 3: Herramientas avanzadas de edición y visualización de QGIS 3.4** Lluís Vicens (SIGTE) y Ferran Orduña (SIGTE) 
+* **Taller 1: Desarrollo de una aplicación web GIS** Adrián Pérez Beneito
+* **Taller 2: Hands-on Satellite Imagery Analysis** Sara Safavi (Planet)
+* **Taller 3: Herramientas avanzadas de edición y visualización de QGIS 3.4** Lluís Vicens (SIGTE) y Ferran Orduña (SIGTE)
 * **Taller 3: CARTO-VL** Jorge Sanz (CARTO)
-* **Taller 5: Procesamiento y visualización de datos Point-Cloud con PDAL y QGIS** Luigi Pirelli 
+* **Taller 5: Procesamiento y visualización de datos Point-Cloud con PDAL y QGIS** Luigi Pirelli
 * **Taller 6: Edición de datos OpenStreetMap** Miguel Sevilla-Callejo (Universidad de Zaragoza, IPE-CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17298)**
 
 Patrocinadores
@@ -106,7 +106,7 @@ Patrocinadores
 
 Colaboradores
 ==============
-![OSGEO](img/ICGC.png)
+![OSGEO](img/osgeo.png)
 
 ![Departament de Geografia, UdG](img/geografia.png)
 

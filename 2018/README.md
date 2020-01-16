@@ -79,7 +79,7 @@ Técnica Avanzada (II)
 Casos de uso
 ---------------------------
 * **Estimación de caladeros de las principales especies comerciales capturadas con arte de rastrillo** J.A. García, S. Soto, O. Chic, E. Marco, E. Galimany y M. Ramón (ICM – CSIC) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5218)**
-* **Las herramientas SIG en la gestión de la respuesta ante un episodio de contaminación marina accidental** B. Vila, S. Allen-Perkins, G. Ayensa, P. Montero (INTECMAR)) 
+* **Las herramientas SIG en la gestión de la respuesta ante un episodio de contaminación marina accidental** B. Vila, S. Allen-Perkins, G. Ayensa, P. Montero (INTECMAR))
 * **API Sitna, tres años después** Fernando Lacunza Prieto (Tracasa Instrumental) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5219)**
 * **Leaflet. Visor cartográfico en gestión de especies silvestres.Lince ibérico en Extremadura** M. Taborda Barroso (DG de Medio Ambiente. Junta de Extremadura), J. Oria (CBD-Habitat), A. Vázquez (FOTEX S.L) **[Presentación](https://dugi-doc.udg.edu/handle/10256/15718)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5220)**
 * **SITMUN: una herramienta multi-entidad de código abierto** Helga Nuell (Diputación de Girona), Marc
@@ -93,23 +93,23 @@ Tutoriales
 ---------------------------
 
 * **Pirámides y estilos en vector tiles en formato abierto** Institut Cartogràfic i
-Geològic de Catalunya (ICGC) 
-* **Introducción a Copernicus: datos disponibles y ejemplo de procesado con SNAP/software libre** Omar Barrilero 
-* **Iniciación al webmapping con OpenLayers** Marc Compte, Toni Hernández (SIGTE-UdG) 
+Geològic de Catalunya (ICGC)
+* **Introducción a Copernicus: datos disponibles y ejemplo de procesado con SNAP/software libre** Omar Barrilero
+* **Iniciación al webmapping con OpenLayers** Marc Compte, Toni Hernández (SIGTE-UdG)
 
 
 Talleres
 ========
 
-* **Taller 1: Trabajando con teselas vectoriales** Institut Cartogràfic i Geològic de Catalunya (ICGC) 
-* **Taller 2: Expresiones de QGIS** Carlos López Quintanilla (PSIG) 
+* **Taller 1: Trabajando con teselas vectoriales** Institut Cartogràfic i Geològic de Catalunya (ICGC)
+* **Taller 2: Expresiones de QGIS** Carlos López Quintanilla (PSIG)
 * **Taller 3: gvSIG online** Nacho Muñoz Motilla (URBANGIS y Scolab)
 
 * **Taller 4: SIG 3D con herramientas FLOSS** Paulo César (Universidad Distrital Francisco José de Caldas) 
 * **Taller 5: Vuestros mapas son feos y no sabéis el por qué** Pedro-Juan Ferrer
-(Geographica) 
+(Geographica)
 * **Taller 6: Uso de fuentes abiertas de datos de tráfico en DATEX II y seguridad vial** José Gómez Castaño
-(INSPIDE) 
+(INSPIDE)
 
 Patrocinadores
 ==============
