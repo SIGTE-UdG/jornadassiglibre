@@ -1,6 +1,10 @@
 # 10as Jornadas de SIG Libre (2016)
 
-* 24, 25 y de mayo de 2016
+Las Jornadas de SIG Libre son un evento de referencia en el sector de las tecnologías libres en el ámbito de la información geográfica, un punto de encuentro donde compartir conocimientos, experiencias y crear sinergias, que reúnen a más de 150 profesionales del sector. El idioma de la jornadas será el español.
+
+Este año en motivo del décimo aniversario se ha organizando de forma conjunta con la 2ª edición de la Conferencia International de QGIS.
+
+* 24 y 25 de mayo de 2016
 * Facultat de Lletres i de Turisme de la Universitat de Girona
 
 
