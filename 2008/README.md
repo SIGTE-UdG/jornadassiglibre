@@ -110,7 +110,7 @@ Sesiones especiales
 
 ![autodesk](img/Autodesk.png)
 
-![cenatic](img/cenatic.gif)
+![cenatic](img/Cenatic.gif)
 
 ![IGN](img/IGN.jpg)
 
