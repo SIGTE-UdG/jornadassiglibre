@@ -1,11 +1,9 @@
 # 7as Jornadas de SIG libre (2013)
 
+7 y 8 de marzo de 2013
+
 Contenido de las Jornadas de SIG Libre 2013
 
-Sesión inaugural
-==================
-
-* **nom** (carrec, posició)
 
 Ponencias plenarias
 ====================
