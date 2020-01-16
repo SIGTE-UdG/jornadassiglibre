@@ -2,6 +2,8 @@
 
 3, 4, 5 de marzo de 2008
 
+Contenido de las Jornadas de SIG Libre 2017
+
 Ponencias plenarias
 ====================
 
