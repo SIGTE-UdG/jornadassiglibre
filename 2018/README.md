@@ -126,7 +126,7 @@ Patrocinadores
 
 Colaboradores
 ==============
-![OSGEO](img/ICGC.png)
+![OSGEO](img/osgeo.png)
 
 ![Departament de Geografia, UdG](img/geografia.png)
 
