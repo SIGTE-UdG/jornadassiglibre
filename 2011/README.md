@@ -1,5 +1,7 @@
 # 5as Jornadas de SIG libre (2011)
 
+23, 24 y 25 de marzo de 2011
+
 Contenido de las Jornadas de SIG Libre 2011
 
 
