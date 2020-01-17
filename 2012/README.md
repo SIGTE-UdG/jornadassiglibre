@@ -1,13 +1,12 @@
 # 6as Jornadas de SIG Libre (2012)
 
-22 y 23 de marzo de 2012
+Las Jornadas de SIG Libre de Girona celebran su 6ª edición los próximos 21, 22 y 23 de marzo 2012. Las Jornadas son una iniciativa del Servicio de SIG y Teledetección –SIGTE– de la Universitat de Girona que nacieron en 2007 y están dedicadas al programario libre en el campo de los SIG.
 
-Contenido de las Jornadas de SIG Libre 2012
+Edición tres edición, estas Jornadas demuestran la existencia de una comunidad SIG activa y dinámica, convirtiéndose en un punto de encuentro –cada marzo en Girona– donde compartir conocimientos, experiencias y fortalecer vínculos alrededor de las soluciones libres. Las Jornadas de SIG Libre son el evento de referencia en la comunidad SIG a nivel estatal que cuentan con más presencia internacional en cada nueva edición. Unas jornadas que apuestan más por el ‘mira cómo lo hago’ que por el ‘mira qué hago’. Las Jornadas de SIG Libre de Girona centran su interés en mostrar y dar a conocer las últimas novedades y tendencias emergentes en el campo de los SIG Libres, así como el uso de estas tecnologías geoespaciales libres. El eje del evento se basa en la presentación de nuevos desarrollos y librerías libres, mejoras en proyectos existentes, proyectos de integración y uso de soluciones libres,... tanto desde la Administración Pública como desde la empresa, así como divulgar los proyectos de investigación universitaria desarrollados con programario libre.
 
-Sesión inaugural
-==================
+* 21, 22 y 23 de marzo de 2012
+* Auditorio Palacio de Congresos de Girona.
 
-* **nom** (carrec, posició)
 
 Ponencias plenarias
 ====================
@@ -24,10 +23,10 @@ Comunicaciones
 Dispositivos Móviles
 ---------------------------
 
-* **Problemas en la implementación de algoritmos de routing de alta complejidad en dispositivos móviles: El caso Itiner@** L. Descamps Vila (ICA), J. Casas, J. Conesa, A. Pérez-Navarro (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4263)** 
-* **Itiner@: Ontología para la personalización de rutas turísticas en dispositivos móviles** L. Descamps Vila (ICA), J. Casas, J. Conesa, A. Pérez-Navarro (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4295)** 
-* **Rutas turísticas personalizadas en dispositivos móviles sin necesidad de conexión a internet: Itiner@** L. Descamps Vila (ICA), J. Casas, J. Conesa, A. Pérez-Navarro (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4314)** 
-* **Novedades de gvSIG Mini: acceso a datos vectoriales y servicios de POI's** A. Romeu, C. Sánchez (Prodevelop) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4315)** 
+* **Problemas en la implementación de algoritmos de routing de alta complejidad en dispositivos móviles: El caso Itiner@** L. Descamps Vila (ICA), J. Casas, J. Conesa, A. Pérez-Navarro (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4263)**
+* **Itiner@: Ontología para la personalización de rutas turísticas en dispositivos móviles** L. Descamps Vila (ICA), J. Casas, J. Conesa, A. Pérez-Navarro (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4295)**
+* **Rutas turísticas personalizadas en dispositivos móviles sin necesidad de conexión a internet: Itiner@** L. Descamps Vila (ICA), J. Casas, J. Conesa, A. Pérez-Navarro (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4314)**
+* **Novedades de gvSIG Mini: acceso a datos vectoriales y servicios de POI's** A. Romeu, C. Sánchez (Prodevelop) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4315)**
 
 
 Visores y Webmapping
@@ -35,7 +34,7 @@ Visores y Webmapping
 
 * **Implantación de Geoportales con soporte técnico profesionalizado en software libre** A. Romeu, A. del Rey, M. Montesinos (Prodevelop) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4194)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2447)**
 * **Vissir3: Nuevas posibilidades de visualización e interacción con la cartografía del ICC.** A. Vidal (ICC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4195)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2448)**
-* **ICOS Carbon Data Portal** O. Fonts, M. García, F. González (geomati.co), J. Piera, J. Sorribas, J. Olivé (CSIC), A. Carrara (CEAM)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/4196)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2449)** 
+* **ICOS Carbon Data Portal** O. Fonts, M. García, F. González (geomati.co), J. Piera, J. Sorribas, J. Olivé (CSIC), A. Carrara (CEAM)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/4196)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2449)**
 * **La EIEL y los Geoportales: Cómo poner la información a disposición de la ciudadanía** P. Sanxiao, A. Maneiro (iCarto) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4197)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2450)**
 * **ikiMap, la plataforma social de la cartografía** M. García, F. González, V. González (geomati.co), A. Lamas, R. Cal, F. Sotelo (Sixtema) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4198)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2451)**
 * **Geoservicios web SIOSE: un sistema de información como servicio público** X. Fernández, J. Delgado, N. Valcárcel, M.E. Caballero, M.A. Benito (IGN), A. Porcuna (Tragsatec) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4199)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/2452)**
@@ -51,11 +50,11 @@ Aplicaciones y Casos de Uso
 * **La aplicación de estadísticas y de los SIG en el estudio de las construcciones monumentales prehistóricas de la Amazonía brasileña** I. Rampanelli, A. Díez, V. Villaverde (Universitat de València), D. Pahl (UFPA)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/4337)**
 * **SIG libre y estándares abiertos en soluciones verticales de gestión de emergencias.** A. González (Emergya), D. Prades (Telefónica) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4338)**
 * **Aplicaciones de las TIG para el geomarketing.** P. Fernandez, J.P. Pérez (Geographica Studio) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4982)**
-* **Sistema de Información Geográfica del Ayuntamiento de Bétera basado en software libre** A. García (Ayuntamiento de Bétera) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4983)** 
-* **Os SIG Open-Source aplicados à "Acessibilidade para Todos".** Pedro Costa (ProAsolutions) 
-* **El uso de Sistemas de Información Geográfica Libre en Costa Rica** Manuel Antonio Solano Mayorga (Escuela de Ciencias Geográficas, Universidad Nacional, Costa Rica) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4233)** 
-* **Adaptación de OpenGeo Suite para la gestión integral de la Información Geográfica en el Ayuntamiento de Castellbisbal** M. Pericay (Geodata SL), O. Fonts (Geomati.co) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5842)** 
-* **Construyendo un sistema de indexación y búsqueda de recursos georreferenciados** A. Beltrán, L. Díaz, J. Huerta (INIT - Universitat Jaume I) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5856)** 
+* **Sistema de Información Geográfica del Ayuntamiento de Bétera basado en software libre** A. García (Ayuntamiento de Bétera) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4983)**
+* **Os SIG Open-Source aplicados à "Acessibilidade para Todos".** Pedro Costa (ProAsolutions)
+* **El uso de Sistemas de Información Geográfica Libre en Costa Rica** Manuel Antonio Solano Mayorga (Escuela de Ciencias Geográficas, Universidad Nacional, Costa Rica) **[Presentación](https://dugi-doc.udg.edu/handle/10256/4233)**
+* **Adaptación de OpenGeo Suite para la gestión integral de la Información Geográfica en el Ayuntamiento de Castellbisbal** M. Pericay (Geodata SL), O. Fonts (Geomati.co) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5842)**
+* **Construyendo un sistema de indexación y búsqueda de recursos georreferenciados** A. Beltrán, L. Díaz, J. Huerta (INIT - Universitat Jaume I) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5856)**
 
 
 Datos, Servicios Web y Análisis Comparativos
@@ -71,11 +70,11 @@ Datos, Servicios Web y Análisis Comparativos
 
 Aplicaciones Desktop y Bases de Datos
 ---------------------------
-* **LocalGIS3** A. Pérez, S. Vicente (SETSI), M. Citores (COTESA) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5857)** 
-* **GGL2: Una alternativa real para el geoprocesamiento** F. González, V. González (GearScape) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5858)** 
-* **Base de datos PostGIS para la gestión de riesgos en la microrregión “Mélida Anaya Montes”** A. Ribó, F.O. Mira, J.M. Guerrero, L. Avilés, J. Barrio (Geólogos del Mundo - Delegación de Centroamérica), C.A. Magaña, J.A. Quintanilla (ACM Ingeniería Especializada - NODO GisConsulting), J. Molinas (Geólogos del Mundo - Delegación de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5859)** 
-* **Evolución y mejora de un índice espacial sobre JASPA para H2** S. González, J.de Diego, A. Pérez Navarro (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5868)** 
-* **Integración de Sextante en ArcGIS y QGIS** V. Olaya (SEXTANTE) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5869)** 
+* **LocalGIS3** A. Pérez, S. Vicente (SETSI), M. Citores (COTESA) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5857)**
+* **GGL2: Una alternativa real para el geoprocesamiento** F. González, V. González (GearScape) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5858)**
+* **Base de datos PostGIS para la gestión de riesgos en la microrregión “Mélida Anaya Montes”** A. Ribó, F.O. Mira, J.M. Guerrero, L. Avilés, J. Barrio (Geólogos del Mundo - Delegación de Centroamérica), C.A. Magaña, J.A. Quintanilla (ACM Ingeniería Especializada - NODO GisConsulting), J. Molinas (Geólogos del Mundo - Delegación de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5859)**
+* **Evolución y mejora de un índice espacial sobre JASPA para H2** S. González, J.de Diego, A. Pérez Navarro (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5868)**
+* **Integración de Sextante en ArcGIS y QGIS** V. Olaya (SEXTANTE) **[Presentación](https://dugi-doc.udg.edu/handle/10256/5869)**
 * **CartoDB. Una base de datos geoespacial para el desarrollo fácil de aplicaciones web** J. de la Torre, S. Álvarez, J. Santana (Vizzuality)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/5870)**
 
 Aplicaciones 3D
@@ -90,7 +89,7 @@ Aplicaciones 3D
 Talleres
 ========
 
-* **Taller 1: titol** (autor, empresa) **[Presentación]()** | **[Vídeo]()** 
+* **Taller 1: titol** (autor, empresa) **[Presentación]()** | **[Vídeo]()**
 
 Patrocinadores
 ==============
