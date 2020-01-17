@@ -1,8 +1,10 @@
 # 9as Jornadas de SIG libre (2015)
 
-26 de marzo 2015
+Las Jornadas de SIG Libre son una iniciativa del SIGTE de la Universitat de Girona y se han convertido en el evento en tecnologías geoespaciales libres de referencia a nivel estatal, reuniendo a más de 150 profesionales vinculados al mundo de la tecnología y de la información geográfica.  
 
-Contenido de las Jornadas de SIG Libre 2015
+* 25,26 y 27 de marzo 2015
+* Auditori Palau de Congressos de Girona
+
 
 Ponencias plenarias
 ====================
@@ -18,12 +20,12 @@ Comunicaciones
 IDE/INSPIRE/OGC/OWS
 ---------------------------
 
-* **Euskalgeo, una IDE transfronteriza.** M. Ayestaran (Gaindegia) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10239)** 
-* **Hacia un registro estadístico del territorio.** E. Suñé (IDESCAT) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10240)** 
-* **API SITNA, API Javascript para visualización de datos georreferenciados en aplicaciones web.** F. Lacunza (TRACASA) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10241)** 
-* **Transformación y explotación de datos hidrográficos con herramientas ETL.** R. Sierra, C. Sevilla, E. Nuñez, J. Delgado, G. Martín- Asín (IGN) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10242)** 
-* **OWS y GeoPackage, estándares en el móvil.** M. Arias (Geocat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10243)** 
-* **Citizen science y Smart Cities, las futuras IDE.** M. Arias (Geocat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10244)** 
+* **Euskalgeo, una IDE transfronteriza.** M. Ayestaran (Gaindegia) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10239)**
+* **Hacia un registro estadístico del territorio.** E. Suñé (IDESCAT) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10240)**
+* **API SITNA, API Javascript para visualización de datos georreferenciados en aplicaciones web.** F. Lacunza (TRACASA) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10241)**
+* **Transformación y explotación de datos hidrográficos con herramientas ETL.** R. Sierra, C. Sevilla, E. Nuñez, J. Delgado, G. Martín- Asín (IGN) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10242)**
+* **OWS y GeoPackage, estándares en el móvil.** M. Arias (Geocat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10243)**
+* **Citizen science y Smart Cities, las futuras IDE.** M. Arias (Geocat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10244)**
 
 Presentación Técnica Avanzada
 ---------------------------
@@ -39,17 +41,17 @@ Actividades Académicas y de Investigación
 ---------------------------
 
 * **GPXParser: Extensión del formato de datos GPX que permite incorporar a los puntos información procedente de sensores** S. Higuera (MercatorLab) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10245)**
-* **Crowd sourced vs centralized data for transport planning: a case study of bicycle path data in the UK** R. Lovelace (University of Leeds) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10246)** 
-* **SmartPort, sistema para la visualización y gestión de información del Puerto de la Luz de las Palmas de G. C.** J.P. Suarez, A. Trujillo, C. Domínguez, P. Fernandez, J. Santana, A. Sánchez, S. Ortega, J.M. Santana (Universidad de Las Palmas de Gran Canaria) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10247)** 
-* **Recreación virtual 3D de vuelos de Drones con Cesium.js y Oculus Rift** M. Di Paolantonio, C. González, M.J. Latorre, F. Pedrera (Deimos-Space) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10248)** 
-* **Reconstrucción de la geometría del perfil longitudinal de una carretera a partir de sus pendientes** S. Higuera (MercatorLab) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10249)** 
+* **Crowd sourced vs centralized data for transport planning: a case study of bicycle path data in the UK** R. Lovelace (University of Leeds) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10246)**
+* **SmartPort, sistema para la visualización y gestión de información del Puerto de la Luz de las Palmas de G. C.** J.P. Suarez, A. Trujillo, C. Domínguez, P. Fernandez, J. Santana, A. Sánchez, S. Ortega, J.M. Santana (Universidad de Las Palmas de Gran Canaria) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10247)**
+* **Recreación virtual 3D de vuelos de Drones con Cesium.js y Oculus Rift** M. Di Paolantonio, C. González, M.J. Latorre, F. Pedrera (Deimos-Space) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10248)**
+* **Reconstrucción de la geometría del perfil longitudinal de una carretera a partir de sus pendientes** S. Higuera (MercatorLab) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10249)**
 * **Georreferenciación colaborativa de imágenes nocturnas tomadas desde la ISS para estudios de consumo energético y contaminación lumínica** A. Sánchez, J. Gómez, J. Zamorano, R. Navas, D. Lombraña (Universidad Complutense de Madrid) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10250)**
 
 
 Caso de uso/éxito
 ---------------------------
 
-* **Enfoque sostenible al despliegue de geoportales en Latinoamerica** F. González (geomati.co) 
+* **Enfoque sostenible al despliegue de geoportales en Latinoamerica** F. González (geomati.co)
 * **Geosimulaciones: cuando un SIG no es suficiente** A. Pijoan, O. Kamara, C.E. Borges, I. Oribe-García, C. Martín-Andonegui, A. Alonso- Vicario (Universidad de Deusto) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10234)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3760)**
 * **Crowd-data, open-data, linked-data y cómo seguir usando INSPIRE** M. Arias (Geocat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10235)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3761)**
 * **Visualización de series temporales oceanográficas mediante SOS.js** S. Soto, O. Chic, J. Guillen (CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10236)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3762)**
@@ -59,11 +61,11 @@ Caso de uso/éxito
 Otros
 --------------------------
 
-* **GeoSmartCity: Open geo-data for innovative services and user applications towards Smart Cities** Ll. Vicens, J. Sitjar, G. Boix (SIGTE-Universitat de Girona) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10368)** 
-* **Uso de SL para el estudio del esfuerzo pesquero en la costa de Catalunya** J.A. García, G. Gorelli, M. Carretón, L. Martínez Posse, J. Baptista (CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10369)** 
-* **La Infraestructura de Datos Espaciales de la Diputación de Badajoz: Dónde la convivencia es posible** M. Rojas, U. Gamero (Diputación de Badajoz) 
-* **Gestor de expedientes de obra en QGIS en el Ayuntamiento de Cubelles** C. López (PSIG) 
-* **Geoconsenso: acuerdos multidisciplinarios en el territorio como soporte a la toma de decisiones** J.D. Castillo, A. Jiménez, M.A. Núñez, J.M. Monguet (Universitat Politècnica de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10370)** 
+* **GeoSmartCity: Open geo-data for innovative services and user applications towards Smart Cities** Ll. Vicens, J. Sitjar, G. Boix (SIGTE-Universitat de Girona) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10368)**
+* **Uso de SL para el estudio del esfuerzo pesquero en la costa de Catalunya** J.A. García, G. Gorelli, M. Carretón, L. Martínez Posse, J. Baptista (CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10369)**
+* **La Infraestructura de Datos Espaciales de la Diputación de Badajoz: Dónde la convivencia es posible** M. Rojas, U. Gamero (Diputación de Badajoz)
+* **Gestor de expedientes de obra en QGIS en el Ayuntamiento de Cubelles** C. López (PSIG)
+* **Geoconsenso: acuerdos multidisciplinarios en el territorio como soporte a la toma de decisiones** J.D. Castillo, A. Jiménez, M.A. Núñez, J.M. Monguet (Universitat Politècnica de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/10370)**
 Ponencia clausura
 ---------------------------
 
@@ -72,7 +74,7 @@ Ponencia clausura
 Talleres
 ========
 
-* **Taller 1: titol** (autor, empresa) **[Presentación]()** | **[Vídeo]()**
+
 
 Patrocinadores
 ==============
