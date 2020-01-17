@@ -1,15 +1,21 @@
 # 8as Jornadas de SIG Libre (2014)
 
-27 y 28 de marzo de 2014
+La sociedad actual está inmersa en un proceso de cambio acelerado y constante. La globalización, la competitividad y el desarrollo tecnológico provocan transformaciones en todos los ámbitos (económico, político, social y educativo). En el contexto tecnológico, las Tecnologías de la Información y la Comunicación aplicadas a la gestión de la información geográfica tienen un papel cada vez más decisivo, que va más allá del sector geoespacial. La información geográfica es ya un elemento estratégico en nuestra sociedad y la incorporación de esta información en las organizaciones es cada vez mayor, por la aportación de conocimiento y valor añadido que representa.
 
-Contenido de las Jornadas de SIG Libre 2014
+Esta transformación viene acompañada también del movimiento Open, en referencia al acceso a los datos, a los contenidos, a la tecnología y al conocimiento en su sentido más amplio, como motor y garantía de progreso. La difusión del conocimiento abierto, el uso de estándares y formatos abiertos, y la importancia de los datos libres, tiene un gran potencial, como por ejemplo la promoción del desarrollo y avance en todos los ámbitos, la disminución de costes económicos, además de la democratización del acceso a la información y a la tecnología.
+
+Las Jornadas de SIG Libre responden a este binomio dando como resultado la promoción y difusión de las soluciones geoespaciales libres. Unas Jornadas que acogen a los profesionales del sector tecnológico y a aquellos comprometidos con las soluciones libres
+
+
+* 26, 27 y 28 de marzo de 2014
+* Auditorio Palacio de Congresos de Girona
 
 Ponencias plenarias
 ====================
 
 * **El impacto de los datos geográficos en la sociedad abierta** Alberto Abella - Socio Director de Operaciones en Rooter **[Presentación](https://dugi-doc.udg.edu/handle/10256/9031)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3354)**
 * **Open Data Tools For Social Good** Chris R. Albon - Director of Data Projects en Ushahidi **[Presentación](https://dugi-doc.udg.edu/handle/10256/9032)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3355)**
-* **GNSS-SDR, un receptor definido por software abierto** Carles Fernández-Prades - Head of the Communication System Division, Centre Tecnològic de Telecomunicacions de Catalunya **[Presentación](https://dugi-doc.udg.edu/handle/10256/9033)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3356)** 
+* **GNSS-SDR, un receptor definido por software abierto** Carles Fernández-Prades - Head of the Communication System Division, Centre Tecnològic de Telecomunicacions de Catalunya **[Presentación](https://dugi-doc.udg.edu/handle/10256/9033)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3356)**
 * **Future trends in GI - the UN perspective** John Abbott - Head of Access and Service at Ordnance Survey **[Vídeo](http://diobma.udg.edu/handle/10256.1/3357)**
 * **Cartografiando la Galaxia: El procesado de datos de la misión Gaia** Jordi Portell - Institut d’Estudis Espacials de Catalunya (IEEC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9034)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3358)**
 
@@ -21,10 +27,10 @@ Comparativas / Benchmarks
 ---------------------------
 
 * **Procesado de datos LiDAR en QGIS con SPDlib** R. Antonlín, J.Suárez (Centre for Forest Resources and Management - NRS),
-P. Bunting (Aberystwyth University) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9073)** 
-* **OpenLayers y Leaflet: Code-Combat** M. Arias (GeoCat), M. Arcos (Emergya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9072)** 
-* **Estudio comparativo de software SIG y SGBD en entornos Open Source y Propietario aplicados a la Base Topográfica Nacional 1:100.000 (BTN100)** J.A. Merino, R. Sierra, J.J. Alonso, F. Sánchez (IGN) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9074)** 
-* **Editores de Metadatos** M. Arias (GeoCat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9071)** 
+P. Bunting (Aberystwyth University) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9073)**
+* **OpenLayers y Leaflet: Code-Combat** M. Arias (GeoCat), M. Arcos (Emergya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9072)**
+* **Estudio comparativo de software SIG y SGBD en entornos Open Source y Propietario aplicados a la Base Topográfica Nacional 1:100.000 (BTN100)** J.A. Merino, R. Sierra, J.J. Alonso, F. Sánchez (IGN) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9074)**
+* **Editores de Metadatos** M. Arias (GeoCat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9071)**
 
 Universidad / Investigación
 ---------------------------
@@ -40,19 +46,19 @@ Universidad / Investigación
 Presentaciones Técnicas Avanzadas
 ---------------------------
 
-* **XVM - Unas vitaminas sobre OpenLayers** M. García (geomati.co), J.I. Varela (Freelance) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9060)** 
+* **XVM - Unas vitaminas sobre OpenLayers** M. García (geomati.co), J.I. Varela (Freelance) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9060)**
 * **Geofier, API Rest geográfica para bases de datos no espaciales** J.I Varela (Freelance) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9075)**
-* **csUrbanismo, SIG para la redacción y cálculo de planeamientos lineales** D. Trillo, J.I. Lamas, A. Mayán (Avansig S.L.L.) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9076)** 
+* **csUrbanismo, SIG para la redacción y cálculo de planeamientos lineales** D. Trillo, J.I. Lamas, A. Mayán (Avansig S.L.L.) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9076)**
 
 Casos de Uso
 ---------------------------
 
-* **La georreferenciación de la población de Catalunya** L.E. Suñé (Idescat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9070)** 
-* **Georreferenciación de documentación ferroviaria mediante indexación semántica y su publicación, usando software libre** J. Gómez (Adif) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9069)** 
-* **Producción de la Base Topográfica Nacional 1:100.000 (BTN100) mediante base de datos espacial PostGIS** R. Sierra, J.A. Merino, T. Gullón (IGN) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9068)** 
-* **El software libre y el mundo real. Despliegue de software en países en vías de desarrollo** F. González (geomati.co) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9067)** 
+* **La georreferenciación de la población de Catalunya** L.E. Suñé (Idescat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9070)**
+* **Georreferenciación de documentación ferroviaria mediante indexación semántica y su publicación, usando software libre** J. Gómez (Adif) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9069)**
+* **Producción de la Base Topográfica Nacional 1:100.000 (BTN100) mediante base de datos espacial PostGIS** R. Sierra, J.A. Merino, T. Gullón (IGN) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9068)**
+* **El software libre y el mundo real. Despliegue de software en países en vías de desarrollo** F. González (geomati.co) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9067)**
 * **Experiencia de colaboración en el desarrollo de GIS Open Source (QGIS, GDAL/OGR y GeoServer-GWC)** A. Huarte (Tracasa) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9066)**
-* **Implementación de QGIS en el Ayuntamiento de Sant Sadurní d’Anoia** C. López (PSIG) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9065)** 
+* **Implementación de QGIS en el Ayuntamiento de Sant Sadurní d’Anoia** C. López (PSIG) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9065)**
 
 Presentaciones Técnicas Introductorias
 ---------------------------
@@ -67,12 +73,12 @@ Presentaciones Técnicas Introductorias
 Dispositivos móviles
 ---------------------------
 
-* **Glob3 Mobile. Novedades en 2013** M. de la Calle, D. Gómez-Deck (Igo Software - Glob3 Mobile), A. Trujillo, J.M. Santana (ULPGC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9064)** 
-* **SIG Libre para la Gestión de Rutas Escolares** M. Arcos, A. González (Emergya) 
-* **Aplicación móvil del SIG de Parques y Jardines de Figueres** A. Busquets, R. Olivella (SIGTE - UdG) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9063)** 
+* **Glob3 Mobile. Novedades en 2013** M. de la Calle, D. Gómez-Deck (Igo Software - Glob3 Mobile), A. Trujillo, J.M. Santana (ULPGC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9064)**
+* **SIG Libre para la Gestión de Rutas Escolares** M. Arcos, A. González (Emergya)
+* **Aplicación móvil del SIG de Parques y Jardines de Figueres** A. Busquets, R. Olivella (SIGTE - UdG) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9063)**
 * **Desarrollo de una arquitectura SaaS para la publicación automática de aplicaciones de mapas en dispositivos móviles**
-M. de la Calle, D. Gómez-Deck (Igo Software - Glob3 Mobile) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9061)** 
-* **vintiOS- viticultura de precisión** A. Otegi, D. Ruiz (Strategic Graphic Systems SL) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9062)** 
+M. de la Calle, D. Gómez-Deck (Igo Software - Glob3 Mobile) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9061)**
+* **vintiOS- viticultura de precisión** A. Otegi, D. Ruiz (Strategic Graphic Systems SL) **[Presentación](https://dugi-doc.udg.edu/handle/10256/9062)**
 
 IDE / OWS / INSPIRE
 ---------------------------
@@ -86,19 +92,30 @@ IDE / OWS / INSPIRE
 Tutoriales Técnicos
 ---------------------------
 
-* **Presentación del proyecto «GeoTalleres»: Proyecto Abierto y Colaborativo para la creación de materiales docentes** F. González (geomati.co) 
+* **Presentación del proyecto «GeoTalleres»: Proyecto Abierto y Colaborativo para la creación de materiales docentes** F. González (geomati.co)
 * **Presentación del producto “GeoCat Live + Bridge”** M. Arias (GeoCat)
 
 Otros
 ---------------------------
 
-* **OpenApps4GEO. Presentación y entrega de premios** **[Vídeo](http://diobma.udg.edu/handle/10256.1/3366)** 
+* **OpenApps4GEO. Presentación y entrega de premios** **[Vídeo](http://diobma.udg.edu/handle/10256.1/3366)**
 * **Mesa de debate sobre “Datos Abiertos” organizada por el Col·legi de Geògrafs**  **[Vídeo](http://diobma.udg.edu/handle/10256.1/3367)**
 
 Sesión Clausura
 ---------------------------
 
 * **Panorama actual del FOSS4G** OSGeo-ES  **[Presentación](https://dugi-doc.udg.edu/handle/10256/9055)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/3379)**
+
+
+Talleres
+==============
+
+* Introducción a QGIS 2.0
+* Procesos de integración de tecnologías geoespaciales libres
+* Introducción a Python para usos geoespaciales
+* Introducción a MapProxy y configuración básica
+* Desarrollo de apps móviles con Glob3 mobile SDK
+* Creación de aplicaciones web con AngularJS y LeafletJS
 
 
 
@@ -124,6 +141,3 @@ Patrocinadores
 ![nosolosig](img/nosolosig-web.png)
 
 ![vizzuality](img/vizzuality.jpg)
-
-
-
