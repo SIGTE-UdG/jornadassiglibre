@@ -1,8 +1,13 @@
 # 4as Jornadas de SIG libre (2010)
 
-10, 11 y 12 de marzo de 2010
 
-Contenido de las Jornadas de SIG Libre 2010
+Las IV Jornadas de SIG Libre superaron con éxito las inclemencias meteorológicas que afectaron Girona pocos días antes de las jornadas. A pesar del mal tiempo, aproximadamente 200 asistentes se encontraron durante los días 10, 11 y 12 de marzo en Girona para compartir experiencias y conocimientos alrededor del programario libre en el campo de los Sistemas de Información Geográfica.
+
+
+Como en anteriores ediciones, estas jornadas demostraron la existencia de una comunidad activa y viva – entre el colectivo de usuarios, desarrolladores e implementadores SIG – dispuesta a seguir abriendo camino y posicionar las soluciones libres en el ámbito de las Tecnologías de la Información Geográfica.
+
+* 10, 11 y 12 de marzo de 2010
+* Auditorio Palacio de Congresos de Girona
 
 
 Ponencias plenarias
@@ -22,38 +27,38 @@ Arqueologia
 ---------------------------
 
 * **Sistema de Información y de gestión de caminos históricos de Guía de Isora, Tenerife** D.L. Alonso (Ayuntamiento de Guía de Isora), J. Domínguez, J. Schorn (CenIT The Geo Company SLNE) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3414)**
-* **El empleo de Software Libre en el estudio de la morfología de paisajes antiguos: ejemplo del modelado coste - distancia aplicado a la investigación arqueológica** (M. Lage Reis-Correia (Fundación las Médulas)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3458)** 
-* **Viejos paisajes y nuevas tecnologías: Una reconstrucción del paisaje Holoceno con gvSIG y Sextante** (A. Diez,(Universitat de Valencia), N. La Roca, E. Dimaggio, S. Pardo, J.Bernabeu) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3461)** 
+* **El empleo de Software Libre en el estudio de la morfología de paisajes antiguos: ejemplo del modelado coste - distancia aplicado a la investigación arqueológica** (M. Lage Reis-Correia (Fundación las Médulas)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3458)**
+* **Viejos paisajes y nuevas tecnologías: Una reconstrucción del paisaje Holoceno con gvSIG y Sextante** (A. Diez,(Universitat de Valencia), N. La Roca, E. Dimaggio, S. Pardo, J.Bernabeu) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3461)**
 * **SILEX: la Infraestructura de Datos Espaciales del yacimiento arqueológico de Casa Montero** (A. Fraguas, A. Uriarte, S. Consuegra, A. Menchero, J.M. Vicent, P. Díaz del Río) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3520)**
 * **El Empleo de software libre en la puesta en marcha de la IDE de la Zona Arqueológica de Las Médulas (León)** (M. Lage Reis-Correia) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3521)**
 
 IDE/OGC
 ---------------------------
 * **Geoservicios de AMB y migración a OpenStreetMap** (J.Mª Carreras, J. Valls, M. Monteagudo, D. Ramos (Autoritat Metropolitana de Barcelona), J. Figueras, A. Guasch (UPC)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3415)**
-* **Infraestructura de Datos Espaciales de Venezuela, una IDE 100% software libre** (V. González (Creativa CA), F. Peñarrubia, J. Higón (Software Colaborativo), J. Sanz (Prodevelop), A. Anguix (AsociacióngvSIG)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3459)** 
+* **Infraestructura de Datos Espaciales de Venezuela, una IDE 100% software libre** (V. González (Creativa CA), F. Peñarrubia, J. Higón (Software Colaborativo), J. Sanz (Prodevelop), A. Anguix (AsociacióngvSIG)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3459)**
 * **Integración de la recomendación WMS-C en los estándares preexistentes en la IDE** (M. Citores, J.A. López (COTESA)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3462)**
-* **WMSCWrapper. Implementación WMS-C Open Source para servicios WMS teselados** (R. García, J.P. de Castro (IDELab - Universidad de Valladolid)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3494)** 
+* **WMSCWrapper. Implementación WMS-C Open Source para servicios WMS teselados** (R. García, J.P. de Castro (IDELab - Universidad de Valladolid)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3494)**
 * **Desarrollo de una IDE Ferroviaria basada en Software Libre** (José Gómez (ADIF)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3497)**
-* **Mejoras en el cliente WFS de gvSIG** (J. Piera, A. Anguix (Asociación gvSIG)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3500)** 
+* **Mejoras en el cliente WFS de gvSIG** (J. Piera, A. Anguix (Asociación gvSIG)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3500)**
 * **Integrando GGL en servidores WPS transaccionales** (V. Gónzalez (Universidad Politécnica de Valencia), F. González (Proyecto
-Gearscapes), B. Schäffer (52ºNorth Initiative)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3503)** 
-* **OpenSearch-geo: El estándar simple para buscadores de información geográfica** (O. Fonts, J. Huerta, L. Díaz, C. Granell (Universitat Jaume I)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3507)** 
+Gearscapes), B. Schäffer (52ºNorth Initiative)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3503)**
+* **OpenSearch-geo: El estándar simple para buscadores de información geográfica** (O. Fonts, J. Huerta, L. Díaz, C. Granell (Universitat Jaume I)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3507)**
 
 SEXTANTE
 ---------------------------
-* **Integración de SEXTANTE en Gearscape** (V. Olaya, (Proyecto SEXTANTE), F. González (Proyecto Gearscape)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3457)** 
+* **Integración de SEXTANTE en Gearscape** (V. Olaya, (Proyecto SEXTANTE), F. González (Proyecto Gearscape)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3457)**
 * **Proyecto BeETLe: acercando SEXTANTE al mundo ETL** (C. Martínez, W. Simonazzi (Centro Telemático Europeo de Usos del Suelo e Información Espacial)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3460)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/1559)**
 * **Modelo anisotrópico de cálculo de rutas de coste mínimo con gvSIG y SEXTANTE** (A. Muñoz, A. Pérez,(UOC), R. Vilanou (Amper S.A)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3464)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/1558)**
 
 Herramientas SIG
 ---------------------------
-* **Desarrollo de herramientas aplicadas a la ingeniería civil y la topografía en gvSIG** (Alvaro Anguix, I. Brodin, G. Carrión) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3465)** 
-* **Herramientas de monitorización con capacidades de decisión geográficas** (M. García, J.A. Chico) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3493)** 
-* **Gestión y publicación de los datos del Registro de la Propiedad utilizando software libre** (G. Mora, C. Femenia, J. Martínez, E. Coll) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3496)** 
+* **Desarrollo de herramientas aplicadas a la ingeniería civil y la topografía en gvSIG** (Alvaro Anguix, I. Brodin, G. Carrión) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3465)**
+* **Herramientas de monitorización con capacidades de decisión geográficas** (M. García, J.A. Chico) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3493)**
+* **Gestión y publicación de los datos del Registro de la Propiedad utilizando software libre** (G. Mora, C. Femenia, J. Martínez, E. Coll) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3496)**
 * **Nuevas funcionalidades de LOCALGIS-DOS** (M. Citores, C.J. Fuertes (COTESA)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3508)**
-* **IDELabRoute: Librería para la gestión de grafos escalables** (F.Campos, J.P. de Castro, R. García (IDELab- Universidad de Valladolid)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3511)** 
-* **Geolocalizador de notícias temáticas: el caso de los riesgos naturales** (J. Preciado (WWUMünster), R. Berlanga (Universitat Jaume I)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3514)** 
-* **Geo-habilitador de contenidos en gestores de contenidos: CMSMap** (P. López, R. García, J.P. de Castro (IDELab - Universidad de Valladolid)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3517)** 
+* **IDELabRoute: Librería para la gestión de grafos escalables** (F.Campos, J.P. de Castro, R. García (IDELab- Universidad de Valladolid)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3511)**
+* **Geolocalizador de notícias temáticas: el caso de los riesgos naturales** (J. Preciado (WWUMünster), R. Berlanga (Universitat Jaume I)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3514)**
+* **Geo-habilitador de contenidos en gestores de contenidos: CMSMap** (P. López, R. García, J.P. de Castro (IDELab - Universidad de Valladolid)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3517)**
 * **Impresión profesional en Kosmo, sinergia con OpenOffice Draw** (G. Bellido, S.Baños, C. Navarro) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3524)**
 * **Benchmarking de implementaciones WMS-C de software libre** (R. García, J.P. de Castro) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3523)**
 * **Sistema de Información Geográfica de las Áreas Industriales de Tenerife (SIGAIT)** (F. Daza, J. A. Peña, D. Pérez, I. Hernández, A. Pérez, J. Ramallo) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3522)**
@@ -66,10 +71,10 @@ Proyectos de SIG
 
 Aplicaciones/Desarrollos
 ---------------------------
-* **IDELab MapstractionInteractive: API Universal y Políglota** (P. López, R.García, P.P. de Castro (IDELab - Universidad de Valladolid)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3499)** 
-* **SIG de Parques y Jardines de Figueres** (A.Busquets, A. Hernández, R.Olivella (SIGTE)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3502)** 
-* **Servidor de datos LiDAR y diferentes clientes en software libre** (José Carlos García (DIELMO 3D)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3505)** 
-* **OGC La ruta, el destino, la libertad para planificar tu viaje con la Diputación de Badajoz** (M. Rojas (Diputación de Badajoz), J.A. Rodríguez (EPTISA)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3506)** 
+* **IDELab MapstractionInteractive: API Universal y Políglota** (P. López, R.García, P.P. de Castro (IDELab - Universidad de Valladolid)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3499)**
+* **SIG de Parques y Jardines de Figueres** (A.Busquets, A. Hernández, R.Olivella (SIGTE)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3502)**
+* **Servidor de datos LiDAR y diferentes clientes en software libre** (José Carlos García (DIELMO 3D)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3505)**
+* **OGC La ruta, el destino, la libertad para planificar tu viaje con la Diputación de Badajoz** (M. Rojas (Diputación de Badajoz), J.A. Rodríguez (EPTISA)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3506)**
 
 3D
 ---------------------------
@@ -82,10 +87,10 @@ Aplicaciones/Desarrollos
 
 General
 ---------------------------
-* **gvSIG Sensores** (I. Brodin (IVER), C. Sánchez (Prodevelop), F. Peñarrubia (Software Colaborativo), A.Tamayo (Universitat Jaume I)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3509)** 
-* **La EIEL y los SIG]** (F.A. Varela, G. Martínes, J.I. Varela, P.J. Sanxiao (CartoLab)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3512)** 
+* **gvSIG Sensores** (I. Brodin (IVER), C. Sánchez (Prodevelop), F. Peñarrubia (Software Colaborativo), A.Tamayo (Universitat Jaume I)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3509)**
+* **La EIEL y los SIG]** (F.A. Varela, G. Martínes, J.I. Varela, P.J. Sanxiao (CartoLab)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3512)**
 * **Extensión y uso de KML para la anotación, georeferenciación y distribución de recursos tipo MIME** (C. Albargues, A. Beltrán, C. Granell (Universitat Jaume I)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3515)** | **[Vídeo]()**
-* **gvSIG Mini y Phone Cache** (M. Montesinos, J. Carrasco, A. del Rey (Prodevelop)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3518)** 
+* **gvSIG Mini y Phone Cache** (M. Montesinos, J. Carrasco, A. del Rey (Prodevelop)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3518)**
 * **Casos de aplicaciones empresariales de Web Mapping y SIG Libre** (L. Clark, J. Sánchez (Genasys II Spain)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3510)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/1567)**
 * **Nuevos retos del Proyecto gvSIG: de la técnica a la organización y la economía de un proyecto de software libre** (G. Carrión (CIT, Generalitat Valenciana), A. Anguix (Asociación gvSIG), A. del Rey (Prodevelop)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3513)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/1568)**
 * **OpenStreetMap España: actividades 2009-2010** (I. Sánchez (Asociación OSM)) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3516)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/1569)**
@@ -136,4 +141,3 @@ Patrocinadores
 ![software](img/software.jpg)
 
 ![uoc](img/uoc.jpg)
-

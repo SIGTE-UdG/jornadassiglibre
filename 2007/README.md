@@ -1,8 +1,8 @@
 # 1as Jornadas de SIG libre (2007)
 
-5, 6 y 7 de marzo de 2007
+* 5, 6 y 7 de marzo de 2007
+* Auditori Palau de Congresos de Girona
 
-Contenido de las Jornadas de SIG Libre 2017
 
 Sesión inaugural
 ==================
