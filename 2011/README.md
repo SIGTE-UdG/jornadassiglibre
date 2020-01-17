@@ -1,8 +1,10 @@
 # 5as Jornadas de SIG libre (2011)
 
-23, 24 y 25 de marzo de 2011
+Cinco ediciones, cinco años de software libre para SIG en Girona, en casa. Atrás quedan ya cientos de anécdotas, historias, charlas, risas y por delante, un largo viaje por recorrer. Marzo vuelve a ser aquella fecha en la cual, las miradas del SIG se vuelven hacia el noreste de la península, es el mes durante el cual, las familias del software libre geoespacial se reencuentran en Girona con el ánimo y el objetivo de compartir conocimientos y experiencias, de contar proyectos, de mostrar aplicaciones y desarrollos y porqué no, de disfrutar de la compañía de aquellos y aquellas que quizás, hace ya un año que no hemos visto.
 
-Contenido de las Jornadas de SIG Libre 2011
+* 23, 24 y 25 de marzo de 2011
+* Auditorio Palacio de Congresos de Girona
+
 
 
 Ponencias plenarias
@@ -21,9 +23,9 @@ Bases de Datos
 ---------------------------
 
 * **JASPA, la mejor alternativa libre a PostGIS.** J. Martínez-Llario, M. González, E. Coll, (Universidad Politécnica de Valencia) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3373)**
-* **Desarrollo de un índice espacial para la extensión JASPA sobre la base de datos H2.** J.A. Calvillo, J.M. de Diego, A. Pérez-Navarro (Universitat Oberta de Catalunya)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/3374)** 
-* **Accediendo a la Base de Datos PostGIS Raster desde gvSIG Desktop.** M. Montesinos, I. Brodin (Prodevelop), V.Agazzi (Asociación gvSIG)  **[Presentación]()** 
-* **El proyecto IDE Menorca** R. Cots (Consell Insular de Menorca), M. Rosés (SILME), J.L. Cardoso, (TRACASA) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3377)** 
+* **Desarrollo de un índice espacial para la extensión JASPA sobre la base de datos H2.** J.A. Calvillo, J.M. de Diego, A. Pérez-Navarro (Universitat Oberta de Catalunya)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/3374)**
+* **Accediendo a la Base de Datos PostGIS Raster desde gvSIG Desktop.** M. Montesinos, I. Brodin (Prodevelop), V.Agazzi (Asociación gvSIG)  **[Presentación]()**
+* **El proyecto IDE Menorca** R. Cots (Consell Insular de Menorca), M. Rosés (SILME), J.L. Cardoso, (TRACASA) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3377)**
 
 
 Dispositivos Móvilles
@@ -37,9 +39,9 @@ Dispositivos Móvilles
 Desarrollo y programación
 ---------------------------
 
-* **GGL2: Un lenguaje específico para SIG.**  F. González, V. González (Proyecto Gearscape)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/3382)** 
-* **Open GeoGadget Framework. Entorno de explotación de geoservicios basados en EzWeb.** J. Sánchez, L. Clark (Genasys II Spain) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3383)** | 
-* **Hacia la mejora de creación de rutas turísticas a partir de información semántica.** L. Descamps (ICA), A. Pérez-Navarro, J. Conesa (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3384)** 
+* **GGL2: Un lenguaje específico para SIG.**  F. González, V. González (Proyecto Gearscape)  **[Presentación](https://dugi-doc.udg.edu/handle/10256/3382)**
+* **Open GeoGadget Framework. Entorno de explotación de geoservicios basados en EzWeb.** J. Sánchez, L. Clark (Genasys II Spain) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3383)** |
+* **Hacia la mejora de creación de rutas turísticas a partir de información semántica.** L. Descamps (ICA), A. Pérez-Navarro, J. Conesa (Universitat Oberta de Catalunya) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3384)**
 * **Integración de APIs políglotas de mapas en Google Web Toolkit: IDELabMapstraction GWT.** P. López, J.P. de Castro (IDELab - Universidad de Valladolid) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3385)**
 * **WMSCWrapper: caché de teselas OpenSource para la aceleración de servicios de mapas teselados.**  R. García, J.P de Castro (IDELab - Universidad de Valladolid) **[Presentación](https://dugi-doc.udg.edu/handle/10256/3386)**
 
@@ -104,9 +106,9 @@ Talleres
 ========
 
 * **Taller 1: Introducción a GearScape** (Fernando González - Proyecto GearScape)
-* **Taller 2: Introducción a LinkedData** (Víctor Pascual - Técnico de la IDEC, Infraestructura de Dades Espacials de Catalunya) 
-* **Taller 3: Programación de algoritmos de Análisis Geográfico con SEXTANTE** (Víctor Olaya - Desarrollador del Proyecto Sextante) 
-* **Taller 4: Introducción a JASPA** (Jose Carlos Martinez - Universidad Politécnica de Valencia) 
+* **Taller 2: Introducción a LinkedData** (Víctor Pascual - Técnico de la IDEC, Infraestructura de Dades Espacials de Catalunya)
+* **Taller 3: Programación de algoritmos de Análisis Geográfico con SEXTANTE** (Víctor Olaya - Desarrollador del Proyecto Sextante)
+* **Taller 4: Introducción a JASPA** (Jose Carlos Martinez - Universidad Politécnica de Valencia)
 
 Patrocinadores
 ==============
