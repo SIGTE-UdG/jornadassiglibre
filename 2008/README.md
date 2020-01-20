@@ -106,6 +106,13 @@ Sesiones especiales
 * **El Capítulo Local OSGeo para la comunidad hispano-hablante** (Jorge G. Sanz, Victor Olaya, Lorenzo Becchi). **[Presentación](https://dugi-doc.udg.edu/handle/10256/1117)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/542)**
 
 
+Talleres
+========
+
+* **Taller 1:** *`Taller práctico sobre MapServer <files/UMN_MapServer.odp>`*.
+* **Taller 2:** *Taller práctico sobre Ka-Map*.
+* **Taller 3:** *Taller práctico sobre gvSIG y SEXTANTE*.
+* **Taller 4:** *Taller práctico sobre GRASS* (Francisco Alosno Sarría).
 
 
 
