@@ -89,7 +89,14 @@ Aplicaciones 3D
 Talleres
 ========
 
-* **Taller 1: titol** (autor, empresa) **[Presentación]()** | **[Vídeo]()**
+* **Taller 1:** ![Uso de funcionalidades avanzadas de gvSIG para la gestión municipal: gvSIG EIEL](files/gvsig_eiel.pdf) Francisco Alberto Varela (CartoLab) y Francisco Puga (Laboratorio de Ingeniería Cartográfica de la ETS de Ingeniería de Caminos, Canales y Puertos de la Universidad de Coruña).
+
+* **Taller 2:** ![Live Tracking con Android, psqlws y OpenLayers (Introducción a Android)](files/tallerAndroid) Santiago Higuera.
+
+* **Taller 3:** ![Taller de Introducción a pgRouting](http://delawen.github.com/Taller-Routing/) María de Arias (EMERGYA).
+
+* **Taller 4:** ![OSM + IMPOSM + TILEMILL](files/Taller_TileMill_SigLibre2012_v2.zip) Pedro-Juan Ferrer, Santiago Tramoyeres (Omnium Strategic Intelligence SL) e Iván Sánchez (OSM).
+
 
 Patrocinadores
 ==============
