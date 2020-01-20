@@ -109,7 +109,7 @@ Sesiones especiales
 Talleres
 ========
 
-* **Taller 1:** *`Taller práctico sobre MapServer <files/UMN_MapServer.odp>`_*.
+* **Taller 1:** `*Taller práctico sobre MapServer* <files/UMN_MapServer.odp>`_ 
 * **Taller 2:** *Taller práctico sobre Ka-Map*.
 * **Taller 3:** *Taller práctico sobre gvSIG y SEXTANTE*.
 * **Taller 4:** *Taller práctico sobre GRASS* (Francisco Alosno Sarría).
