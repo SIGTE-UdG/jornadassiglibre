@@ -7,7 +7,7 @@ Las IV Jornadas de SIG Libre superaron con éxito las inclemencias meteorológic
 Como en anteriores ediciones, estas jornadas demostraron la existencia de una comunidad activa y viva – entre el colectivo de usuarios, desarrolladores e implementadores SIG – dispuesta a seguir abriendo camino y posicionar las soluciones libres en el ámbito de las Tecnologías de la Información Geográfica.
 
 * 10, 11 y 12 de marzo de 2010
-* Auditorio Palacio de Congresos de Girona
+* AC Hotel Palau de Bellavista Girona
 
 
 Ponencias plenarias
