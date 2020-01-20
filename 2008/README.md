@@ -113,7 +113,7 @@ Talleres
 * **Taller 1:** ![Taller práctico sobre MapServer](files/UMN_MapServer.odp)
 * **Taller 2:** *Taller práctico sobre Ka-Map*.
 * **Taller 3:** *Taller práctico sobre gvSIG y SEXTANTE*.
-* **Taller 4:** *Taller práctico sobre GRASS* (Francisco Alosno Sarría).
+* **Taller 4:** ![Taller práctico sobre GRASS](files/practicas_grass.pdf) (Francisco Alosno Sarría).
 
 
 
