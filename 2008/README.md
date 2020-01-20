@@ -1,6 +1,6 @@
 # 2as Jornadas de SIG libre (2008)
 
-* 3, 4, 5 de marzo de 2008
+* 3, 4 y 5 de marzo de 2008
 * Centre cultural de la Mercè, Girona
 
 Ponencias plenarias
