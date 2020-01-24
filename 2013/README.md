@@ -97,7 +97,11 @@ Sesión Clausura
 Talleres
 ========
 
-* **Taller 1: titol** (autor, empresa) **[Presentación]()** | **[Vídeo]()**
+* **Taller 1: Introducción a OpenGeo Suite** (Victor Olaya, OpenGeo).
+* **Taller 2: Mapsforge: Mapas vectoriales de OpenStreetMap off-line en Android** (Santiago Higuera, mercatorlab SL).
+* **Taller 3: Taller de Introducción a CartoDB** (Javier de la Torre, Vizzuality).
+* **Taller 4: Geocomputación con Python** (Daniel Arribas-Bel, -Department of Spatial Economics, VU University, Amsterdam-).
+
 
 Patrocinadores
 ==============
