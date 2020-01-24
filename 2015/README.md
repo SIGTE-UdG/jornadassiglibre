@@ -71,9 +71,16 @@ Ponencia clausura
 
 * **Where is the Cathedral and the Bazaar: some musings on openness, ecosystems and bringing geo to the web** Ed Parsons - Google   **[Vídeo](http://diobma.udg.edu/handle/10256.1/3765)**
 
+
 Talleres
 ========
 
+* **Taller 1: Introducción al desarrollo de Plugin para QGIS**.
+* **Taller 2: Mapas web interactivos con D3.js**.
+* **Taller 3: Análisis de datos geo-posicionados de Redes Sociales con QGIS**.
+* **Taller 4: Teledetección con GRASS GIS**.
+* **Taller 5: Geovoluntariado con HOT: ayudando al mundo a través de la cartografía**.
+* **Taller 6: R: A GIS Command line**.
 
 
 Patrocinadores
