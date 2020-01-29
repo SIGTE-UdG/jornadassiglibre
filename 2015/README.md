@@ -75,12 +75,12 @@ Ponencia clausura
 Talleres
 ========
 
-* **Taller 1: Introducción al desarrollo de Plugin para QGIS**.
-* **Taller 2: Mapas web interactivos con D3.js**.
-* **Taller 3: Análisis de datos geo-posicionados de Redes Sociales con QGIS**.
-* **Taller 4: Teledetección con GRASS GIS**.
-* **Taller 5: Geovoluntariado con HOT: ayudando al mundo a través de la cartografía**.
-* **Taller 6: R: A GIS Command line**.
+* **Taller 1: Introducción al desarrollo de Plugin para QGIS** Luigi Pirelli.
+* **Taller 2: Mapas web interactivos con D3.js** Roger Veciana.
+* **Taller 3: Análisis de datos geo-posicionados de Redes Sociales con QGIS** Joana Simoes.
+* **Taller 4: Teledetección con GRASS GIS** Josep Sitjar y Alexandre Busquets (SIGTE).
+* **Taller 5: Geovoluntariado con HOT: ayudando al mundo a través de la cartografía** Pedro Juan Ferrer y Jorge Sanz.
+* **Taller 6: R: A GIS Command line** Rovin Lovelance.
 
 
 Patrocinadores
