@@ -56,7 +56,7 @@ Proyectos colaborativos
 * **Las calles de las mujeres** Carmen Diez Sanmartin, Jessica Sena, Montse Ortega, Eva M. López, Maria Soto y Esther Mingot (Geochicas OSM) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5736)**
 * **Cómo sobrevivir a un apocalipsis zombie de gatitos (con OSGeo)** María Arias de Reyna (GeoCAT) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5737)**
 * **Procesos colaborativos de mejora de la calidad de los datos en OpenStreetMap** Esther Mingot y Jose Luís Infante (OSM-Cat)  **[Vídeo](http://diobma.udg.edu/handle/10256.1/5738)**
-* **Análisis de la accesibilidad urbana para personas con movilidad reducida a través del uso de IG voluntaria, cartografía colaborativa y herramientas libres** Ignacio Orte, Miguel Sevilla Callejo (Universidad de Zaragoza, IPE-CSIC), J.L. Infante (Llefianet Xarxa Ciutadana de Llefià), Carlos Cámara y Héctor Ochoa
+* **Análisis de la accesibilidad urbana para personas con movilidad reducida a través del uso de IG voluntaria, cartografía colaborativa y herramientas libres** Ignacio Orte, Miguel Sevilla Callejo (Universidad de Zaragoza, IPE-CSIC), J.L. Infante (Llefianet Xarxa Ciutadana de Llefià), Carlos Cámara y Héctor Ochoa **[Presentación](http://hdl.handle.net/10256/17297)** | **[Vídeo](http://hdl.handle.net/10256.1/5739)**
 * **Visor de mapas IDE y componente .NET basado en el API SITNA** Marc Roses Arbonés, Ricard Cots Torrelles, Marc Vinent Escandell (Consell Insular de Menorca) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5740)**
 
 Técnica avanzada
@@ -78,7 +78,7 @@ Mapas y visualización de datos – Investigación y proyectos académicos
 Clausura
 ---------------------------
 * **Datos geográficos abiertos para una sociedad abierta** Antonio Rodríguez (CNIG) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5745)**
-* **Preparémonos para cartografiar datos de accesibilidad** Carlos López Quintanilla (QGIS-Es) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17296)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5746)**
+* **Preparémonos para cartografiar datos de accesibilidad** Miguel Sevilla-Callejo (Universidad de Zaragoza, IPE-CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17296)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5746)**
 
 Tutoriales
 ---------------------------
