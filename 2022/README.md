@@ -1,10 +1,10 @@
-# 13as Jornadas de SIG libre (2019)
+# 14as Jornadas de SIG libre (2022)
 
-Las Jornadas de SIG libre son un punto de encuentro entre las personas que comparten un mismo interés: el uso y la promoción de los sistemas de información geográfica libres y los datos abiertos en el ámbito de la empresa, la Universidad y la Administración pública.
+Las Jornadas de SIG libre son un evento de referencia donde se comparte el conocimiento de las tecnologías libres del sector geoespacial. Un punto de encuentro y de unión entre empresas, Universidades y la Administración pública.
 
-Es un espacio de aprendizaje donde compartir e intercambiar experiencias de casos prácticos y mostrar las novedades en el contexto de las tecnologías geoespaciales de código abierto.
+Es un espacio de aprendizaje donde se muestran las últimas novedades de las tecnologías geoespaciales de código abierto.
 
-* 29-30 de mayo de 2019
+* 8-9 de junio de 2022
 * Facultat de Lletres i de Turisme, Universitat de Girona
 
 
@@ -13,111 +13,124 @@ Es un espacio de aprendizaje donde compartir e intercambiar experiencias de caso
 Sesión inaugural
 ==================
 
-* **Presentación y apertura** Maria Pla de Solà-Morales (Vicerrectora de Investigación y Transferencia del Conocimiento de la UdG) y Gemma Boix (Directora del SIGTEUniversitat de Girona)
+* **Presentación y apertura** Maria Pla de Solà-Morales (Vicerrectora de Investigación y Transferencia del Conocimiento de la UdG) y Gemma Boix (Directora del SIGTE-Universitat de Girona)
 
 Ponencias plenarias
 ====================
 
-* **Hello World: Tiny Satellites, Big Impact** Sara Safavi (Planet). **[Presentación](https://dugi-doc.udg.edu/handle/10256/17267)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5691)**
-* **Repensar el futuro de las ciudades con la cartografía** Pablo Martínez (300.000km). **[Presentación](https://dugi-doc.udg.edu/handle/10256/17268)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5692)**
-* **¡Sanguijuelas! Algunas ideas sobre el ecosistema de un SIG libre** Víctor Olaya (escritor y desarrollador SIG).  **[Vídeo](http://diobma.udg.edu/handle/10256.1/5693)**
+* **Inteligencia artificial. Retos y oportunidades** Karina Gibert (IDEAI-UPC).
+* **Afrontar la emergencia climática. Ciencia y tecnología para monitorizar el presente y predecir el futuro** Laia Romero (Lobelia).
+* **Las trincheras del FOSS** María Arias de Reyna Domínguez (Red Hat).  
 
 Comunicaciones
 =================
 
-Técnica avanzada
+Visualización de datos
 ---------------------------
 
-* **Hacia un modelo de datos abierto para inventarios de carreteras** Santiago Higuera **[Presentación](https://dugi-doc.udg.edu/handle/10256/17270)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5717)**
-* **PointCloud processing con PDAL en QGIS** Luigi Pirelli **[Vídeo](http://diobma.udg.edu/handle/10256.1/5718)**
-* **Cloud Optimized Geotiff:Usando Geotiff en remoto** Roger Veciana (Servei Meteorològic de Catalunya) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5719)**
-* **Airship** Oriol Boix (CARTO) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17271)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5720)**
+* **Teselas, Demers y los datos geoclimáticos de la ONU** Xaquin Veira, Karma Perió (Fundació Vit), Anton Bardera (Imae)
+* **Geología en teselas vectoriales. Desarrollo del visor Mapa Geológico de Catalunya 1:25.000** Elena Sánchez Monforte, Lucía Struth Izquierdo, Eulàlia Pi i Palomés, Miquel Vilà i Planella, Fus Micheo Jorcano, Jorge Fleta Pastor (Institut Cartogràfic i Geològic de Catalunya)
+* **Cómo se hizo Catastro 3D, un caso de visualización avanzada de datos vectoriales** Francisco Pérez Sampayo, Oscar Fonts Bartolomé (geomatico.es)
+* **Portal de geodatos del ámbito marítimo del Baix Empordà** Rosa Olivella, Toni Hernández (SIGTE-Universitat de Girona), Carolina Martí (Institut de Medi Ambient - Universitat de Girona)
+* **Visualización de datos espaciales en humanidades digitales** Lourdes Martín-Forero Morente, Isabel Del Bosque González, Carlos Fernández Freire, Nuria Hermida Jiménez (Centro de Ciencias Humanas y Sociales. CSIC)
+
+Desarrollos
+---------------------------
+* **Teselas vectoriales con Elasticsearch** Jorge Sanz (Elastic)
+* **Desarrollo de herramientas para la automatización de flujos de trabajo: plug-in de QGIS y microaplicación web** Fran Martín Rivas (Institut Cartogràfic i Geològic de Catalunya)
+* **Buenas prácticas en los SIG municipales. Solución Local Space** Víctor Centella Fuster (Prodevelop)
+* **Posibles soluciones al trabajar con grandes volúmenes de datos** Josep Sitjar (SIGTE-Universitat de Girona)
+* **Generador de visores de mapas sobre librerías JS Leaflet y OSMBuildings vía APEX** Sergi Bernal Ferrando, Beatriu Jimenez (Ajuntament de Mataró)
 
 Casos de uso
 ---------------------------
-* **Sistema GIS para el registro y gestión de parcelas de cultivo ecológico** Mikel Ayestaran Olano (Gislan) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17283)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5731)**
-* **Planificación y gestión del verde urbano con QGIS** Josep Lluís Sala Sanguino (BGEO) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17284)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5732)**
-* **GeoPortal en la Autoridad Portuaria de Gijón** Francisco Jose Campos, Francisco Jose Corral y Antonio Bello (Autoridad Portuaria de Gijón) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17285)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5733)**
-* **Clasificación de la Cobertura LiDAR 2017 de Navarra con Inteligencia Artificial y herramientas Open-source** Alvaro Huarte Sanz (TRACASA) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17286)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5734)**
+* **Un viral en la pandemia: el making-of** Marti Pericay, Micho García (Geomatico)
+* **Ciencia de las ciudades al servicio del diseño y planificación urbana para la toma de decisiones informadas: casos de estudio** Jose Antonio Gras Iñigo (OUA Group / Universitat Oberta de Catalunya), Alexandre Gauthier Amigó (OUA Group), Alba Carbonell Masagué (OUA Group)
+* **Programa de itinerarios deportivos de proximidad: desarrollo e implantación del sistema de información geográfica** Xavier Navalon Nonell, Gerard Xixons Solé (Diputació de Barcelona)
+* **Uso de los SIG para evaluar la compensación de los impactos residuales y la pérdida de biodiversidad en instrumentos de planeamiento** David Barreto Expósito, Sandra Núñez Malavé, Martín Portilla Cardona, Gloria Sabaté Fernández, Omar Sosa García y Alberto Zaragoza i Talamantes (COLECTIVO CCRS)
+* **PostGIS y QGIS aplicados a la optimización de la ubicación y la gestión integral del proceso para la implementación de parques solares fotovoltaicos en Catalunya** Xavier Torret (BGEO, OPEN GIS)
+* **Planero Web. Un visor en línea interactivo para la difusión de cartografía digital** Patricio Soriano Castro (Geoinnova)
+* **Uso de PostgreSQL, QGIS y R para estudiar las interacciones entre la actividad de las barcas de pesca y los movimientos espaciales de un depredador marino oportunista** José Antonio García del Arco, Miriam Gimeno Castells, Joan Navarro Bernabé (Instituto de Ciencias del Mar de Barcelona, ICM-CSIC)
+* **Comercio cotidiano con servicio básico** Mikel Pau Casado Buesa, Cristina Poza Lopez (Col·lectiu d'Arquitectes el Tinglado / Universitat Autonoma de Barcelona)
+* **Nombre a nombre: Solución geomática para la recogida e inventario de toponimia** Marc Rosés Arbonés (SILME, SA), Ricard Cots Torrelles (Consell Insular de Menorca), Xavier Gomila Pons (Institut Menorquí d’Estudis)
 
-Open Data, IDE y Casos de uso
+Teledetección
 ---------------------------
-* **Geographical Information Systems for Spatio-Temporal Analysis of Mobile Networks in Barcelona** Francisco Sacramento Gutierres (Eurecat) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17272)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5721)**
-* **Infraestructura para unos datos enlazados abiertos y geográficos** Eduardo Martín Agúndez (CNIG) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17273)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5722)**
-* **IQUAview: una interfaz de usuario para operar vehículos submarinos basada en QGIS** Lluís Ribés Nebot, Natàlia Hurtós Vilarnau
-(IQUA Robotics) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17275)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5723)**
-* **ICGCSolarRadiation: una metodología para determinar el potencial solar fotovoltaico y térmico en cubiertas de edificios** Assumpció Termens, Adriana Just,Ana Muñoz y Antonio Ruiz (ICGC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17276)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5724)**
-* **Geocoder IDErioja** Gonzalo López García (IDErioja) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17277)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5725)**
-* **Desmitificación del metadato: Una oportunidad para la comunidad del software libre** Jordi Escriu (ICGC)
+* **Desafíos de la migración desde el catálogo interno de imágenes de satélite en el catálogo SpatioTemporal Asset Catalog (STAC)** Luigi Pirelli (Satellogic)
+* **Complemento de QGIS para el proceso de datos ráster en remoto** Daniel Ponsa Mussarra, Felipe Lumbreras Ruiz, Robert Benavente Vidal (Centre de Visió per Computador)
+* **Seguimiento de la tasa de mortalidad de los árboles en un bosque tropical húmedo mediante LiDAR aéreo multitemporal empleando software libre** Claudia Huertas Garcia (IRD - France)
+* **El estado del Planeta** Ramiro Aznar Ballarin (Planet)
+* **Monitoreo de desiertos submarinos mediante drones y ciencia ciudadana**
+Teresa Alcoverro, Emma Cebrián, Bernat Hereu, Joaquim Garrabou, Jordi Boada, Fernando García (CEAB-CSIC)
 
-Proyectos colaborativos
+IDEs y Geoportales
 ---------------------------
-* **Geochicas OSM** Carmen Diez Sanmartin, Jessica Sena, Montse Ortega, Eva M. López, Maria Soto y Esther Mingot (Geochicas OSM) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5735)**
-* **Las calles de las mujeres** Carmen Diez Sanmartin, Jessica Sena, Montse Ortega, Eva M. López, Maria Soto y Esther Mingot (Geochicas OSM) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5736)**
-* **Cómo sobrevivir a un apocalipsis zombie de gatitos (con OSGeo)** María Arias de Reyna (GeoCAT) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5737)**
-* **Procesos colaborativos de mejora de la calidad de los datos en OpenStreetMap** Esther Mingot y Jose Luís Infante (OSM-Cat)  **[Vídeo](http://diobma.udg.edu/handle/10256.1/5738)**
-* **Análisis de la accesibilidad urbana para personas con movilidad reducida a través del uso de IG voluntaria, cartografía colaborativa y herramientas libres** Ignacio Orte, Miguel Sevilla Callejo (Universidad de Zaragoza, IPE-CSIC), J.L. Infante (Llefianet Xarxa Ciutadana de Llefià), Carlos Cámara y Héctor Ochoa
-* **Visor de mapas IDE y componente .NET basado en el API SITNA** Marc Roses Arbonés, Ricard Cots Torrelles, Marc Vinent Escandell (Consell Insular de Menorca) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5740)**
+* **Geoportal del centro de datos de la UTM-CSIC** Xavier Rayo Sarrias, Susana Diez Tagarro, Guillermo Farriga Infante, Elsa Martinez Abad, Juan Luis Ruiz Valderrama, Antonio Tomás Franco (Centro de Datos de la Unidad de Tecnología Marina del CSIC)
+* **Cuando una IDE que facilita los procedimientos administrativos** Ricard Cots Torrelles (Consell Insular de Menorca), Marc Rosés Arbonés (SILME, servei informàtica local de Menorca)
+* **Mapa a la Carta v.2: Nuevas funcionalidades y productos** Pablo Domingo Gómez, Celia Sevilla Sánchez (Centro Nacional de Información Geográfica - CNIG)
+* **SITMUN, una oportunidad para la comunidad SIG libre** Ricard Cots Torrelles (Consell Insular de Menorca), Fina Saez (Diputació de Barcelona), Javier López (Universitat de Saragossa), Marc Rosés Arbonés (SILME), Gemma Peix Dordas (Diputació de Girona)
+* **IDE del Instituto Hidrográfico de la Marina. Integración específica de API-CNIG** Enrique Soriano, Daniel Luna (Guadaltel)
 
-Técnica avanzada
----------------------------
-* **Asociación QGIS España. Hackfest A Coruña. Estado actual y objetivos 2019** Carlos López Quintanilla (QGIS-Es) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17279)** | **[Vídeo]()**
-* **Webmapping vMap** Yoann Escorihuela (Veremes) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17280)** | **[Vídeo]()**
-* **Atesmaps** Josep Ramisa y Roger Calaf (Atesmaps) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17281)** | **[Vídeo]()**
-* **Mapa Base IGO** Gonzalo López García (IDErioja) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17282)** | **[Vídeo]()**
-
-
-Mapas y visualización de datos – Investigación y proyectos académicos
+Open data
 ------------------------------------------------------------------------------------------------------------
-* **Mapa solar by idealista** David Francisco Gago (Idealista) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5741)**
-* **Distribución y visualización web en tiempo real de datos de adquisición continua en buques oceanográficos** J.L. Ruiz Valderrama, O.Domingo Adell (CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17290)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5742)**
-* **CARTOframes** Ernesto Martínez Becerra (CARTO) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17287)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5743)**
-* **Arqueoastronomía de eclipse de sol: generación de la geometría de la sombra de eclipses como arqueometría para dataciones históricas** J. Gómez Castaño, J. Cabrera García (INSPIDE) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5744)**
+* **Datos Geoespaciales en la web (en la era de REST, JSON y OpenAPI)** Joana Simoes (Open Geospatial Consortium - OGC) **[Presentación](https://docs.google.com/presentation/d/1aDYpCKAdbIyGefetrM7tiguIyfTbUPpW/edit#slide=id.g1046693d22e_0_78)**
+* **Digitalización de la Distribución Urbana de Mercancías (DUMCAT)** Jordi Martin Oriol, Maria José Gaete Cerda (Autoritat del Transport Metropolità de Barcelona)
+* **Servicios Teselados en el CNIG: TMS y MVT** Cecilia Poyatos Hernández, Aurelio Aragón Velasco, Marta Juanatey Aguilera (CNIG)
+* **Propuesta para el desarrollo de una plataforma de mercado para un sistema SIG basado en métodos numéricos** Laurence Sigler (CIMNE/UPC)
 
+Cartografía colaborativa
+------------------------------------------------------------------------------------------------------------
+* **Crear información geográfica colaborativa transaccional en urbiGIS** Ignacio Arnaiz Eguren (Arnaiz Urbimática SL)
+* **MapAnt ES: Un mapa de orientación autogenerado de España** Manuel Jurado Alonso, Agustín Caballero Belda (Club Orientación Sant Joan), Javier Arufe Varela (Federación Española de Orientación - FEDO), Jesús María Garrido Sáenz de Tejada, Jesús Moreno Jabato (Instituto Geográfico Nacional - IGN)
+* **Mapas colaborativos de accesibilidad, arbolado y perspectiva de género en Badalona** Jose Luis Infante Arco (Llefi@net Xarxa Ciutadana de Llefià)
 
 Clausura
 ---------------------------
-* **Datos geográficos abiertos para una sociedad abierta** Antonio Rodríguez (CNIG) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5745)**
-* **Preparémonos para cartografiar datos de accesibilidad** Carlos López Quintanilla (QGIS-Es) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17296)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5746)**
+* **Sesión de clausura: La UE y datos (regulación). ¿Una nueva historia de amor?** Malcolm Bain (Across Legal)
 
 Tutoriales
 ---------------------------
-* **Aplicación de la norma española UNE 148004:2018** Antonio Rodríguez Pascual (CNIG)
-* **Gestión municipal con gvSIG online** Nacho Muñoz Motilla
-* **Publicación de recursos y herramientas GIS en la red** Antonio Murillo Estacho (Software Grupo S)
+* **Acceso directo a la geoinformación de Catalunya en QGIS con el conector OpenICGC** Joan Arnaldich (Institut Cartogràfic i Geològic de Catalunya)
+* **API-CNIG, la evolución** Aurelio Aragón Velasco (CNIG)
+* **Cálculo de rutas óptimas con pgRouting en entornos web** Toni Hernández (SIGTE-UdG)
+* **ContextMaps: el nuevo referente de cartografía transversal del Institut Cartogràfic i Geològic de Catalunya**
+Rocío Rey, Francisco Campo, Victor Pasqual (Institut Cartogràfic i Geològic de Catalunya)
 
 Talleres
 ========
 
-* **Taller 1: Desarrollo de una aplicación web GIS** Adrián Pérez Beneito
-* **Taller 2: Hands-on Satellite Imagery Analysis** Sara Safavi (Planet)
-* **Taller 3: Herramientas avanzadas de edición y visualización de QGIS 3.4** Lluís Vicens (SIGTE) y Ferran Orduña (SIGTE)
-* **Taller 3: CARTO-VL** Jorge Sanz (CARTO)
-* **Taller 5: Procesamiento y visualización de datos Point-Cloud con PDAL y QGIS** Luigi Pirelli
-* **Taller 6: Edición de datos OpenStreetMap** Miguel Sevilla-Callejo (Universidad de Zaragoza, IPE-CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17298)**
+* **Taller 1: Elasticsearch y Kibana geoespacial** Jorge Sanz (Elastic) **[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vRIseaVkvIjJsCx4PD5jALMayG3t80ppRfzK4Kkfo3twClH3JvcPC-arezqrjgzc3URy4oBwgeGfxwg/pub?start=false&loop=false&delayms=60000&slide=id.g1287f720363_1_4719)**
+* **Taller 2: Introducción a deck.gl para visualización geoespacial** Borja Muñoz (Carto)
+* **Taller 3: Introducción al análisis exploratorio de datos espaciales con GeoDa** Lluís Vicens (SIGTE)
+* **Taller 3: Cómo crear una API rest para publicar datos geoespaciales** Joana Simoes (ByteRoad)**[Presentación](https://docs.google.com/presentation/d/1xjvZERpNq8QPvh-I8lY99-cWXCgC654AfC3hJKD0ESI/edit#slide=id.g12ea9aeb1a9_0_32)**
+* **Taller 5: Obtención de datos SIG con dron y software libre** Nil Sicart (4D Twin Maps)
+* **Taller 6: Visualización de datos con herramientas de QGIS** Santi H. Puig (freelance) y Laura Olivas (SIGTE-UdG) **[Presentación](https://bit.ly/tallerdataviz)**
 
 Patrocinadores
 ==============
 
 ![Nexus](img/nexus.png)
 
+![IGN](img/ign.png)![150](img/150.jpeg)
+
 ![ICGC](img/ICGC.png)
+
+![Geoinnova](img/geoinnova.png)
 
 ![Infraplan](img/Infraplan.png)
 
 ![UNIGIS](img/Unigis.png)
 
-geoinnova
-gobierno esp
-
-
 Colaboradores
 ==============
+
 ![UdG](img/UdG.png)
 
 ![OSGEO](img/osgeo.png)
 
-geomatica
+![Geomatico](img/geomatico.jpeg)
+
+![QGIS](img/qgis.png)
 
 ![Departament de Geografia, UdG](img/geografia.png)
 
@@ -125,24 +138,8 @@ geomatica
 
 ![BGEO](img/bgeo.png)
 
-
-![UNIGIS](img/Unigis.png) ????
-
-
-Medios de comunicación?
-
-Nosolosig
-OIKOS MSP
-
-Agradecimientos   a quien?
+Medios de comunicación
 ==============
 
-![BGEO](img/bgeo.png)
-
-![Infraplan](img/Infraplan.png)
-
-![Idealista/data](img/idealista.png)
-
-![Veremes](img/veremes.png)
-
-![QGIS](img/qgis.png)
+![Nosolosig](img/nosolosig.jpeg)
+![OIKOS](img/oikos.png)
