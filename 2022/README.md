@@ -109,37 +109,38 @@ Talleres
 Patrocinadores
 ==============
 
-![Nexus](img/nexus.png)
+<img src="img/nexus.png" alt="drawing" width="150" height="33px"/></br>
 
-![IGN](img/ign.png)![150](img/150.jpeg)
+<img src="img/CNIG.png" alt="drawing" width="200" height="30px"/></br>
 
-![ICGC](img/ICGC.png)
+<img src="img/ICGC.png" alt="drawing" width="150" height="60px"/></br>
 
-![Geoinnova](img/geoinnova.png)
+<img src="img/geoinnova.png" alt="drawing" width="150" height="75px"/></br>
 
-![Infraplan](img/Infraplan.png)
+<img src="img/Infraplan.png" alt="drawing" width="150" height="45px"/></br>
 
-![UNIGIS](img/Unigis.png)
+<img src="img/Unigis.png" alt="drawing" width="150" height="33px"/></br>
 
 Colaboradores
 ==============
 
-![UdG](img/UdG.png)
+<img src="img/UdG.png" alt="drawing"/></br>
 
-![OSGEO](img/osgeo.png)
+<img src="img/osgeo.png" alt="drawing" height="33px"/></br>
 
-![Geomatico](img/geomatico.jpeg)
+<img src="img/geomatico.jpeg" alt="drawing" height="70px"/></br>
 
-![QGIS](img/qgis.png)
+<img src="img/qgis.png" alt="drawing" height="40px"/></br>
 
-![Departament de Geografia, UdG](img/geografia.png)
+<img src="img/geografia.png" alt="drawing" width="150" height="45px"/></br>
 
-![ACTIG](img/actig.JPG)
+<img src="img/actig.JPG" alt="drawing"/></br>
 
-![BGEO](img/bgeo.png)
+<img src="img/bgeo.png" alt="drawing"/></br>
 
 Medios de comunicación
 ==============
 
-![Nosolosig](img/nosolosig.jpeg)
-![OIKOS](img/oikos.png)
+<img src="img/nosolosig.jpeg" alt="drawing" width="180" height="45px"/></br>
+
+<img src="img/oikos.png" alt="drawing" width="150"/></br>
