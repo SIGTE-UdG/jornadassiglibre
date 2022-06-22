@@ -1,4 +1,4 @@
-# 14as Jornadas de SIG libre (2022)
+# 15as Jornadas de SIG libre (2022)
 
 Las Jornadas de SIG libre son un evento de referencia donde se comparte el conocimiento de las tecnologías libres del sector geoespacial. Un punto de encuentro y de unión entre empresas, Universidades y la Administración pública.
 
