@@ -73,7 +73,7 @@ IDEs y Geoportales
 
 Open data
 ------------------------------------------------------------------------------------------------------------
-* **Datos Geoespaciales en la web (en la era de REST, JSON y OpenAPI)** Joana Simoes (Open Geospatial Consortium - OGC). **[Presentación](https://docs.google.com/presentation/d/1aDYpCKAdbIyGefetrM7tiguIyfTbUPpW/edit#slide=id.g1046693d22e_0_78)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6785)**
+* **Datos Geoespaciales en la web (en la era de REST, JSON y OpenAPI)** Joana Simoes (Open Geospatial Consortium - OGC). **[Presentación](https://docs.google.com/presentation/d/1aDYpCKAdbIyGefetrM7tiguIyfTbUPpW/edit#slide=id.p2)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6785)**
 * **Digitalización de la Distribución Urbana de Mercancías (DUMCAT)** Jordi Martin Oriol, Maria José Gaete Cerda (Autoritat del Transport Metropolità de Barcelona). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6786)**
 * **Servicios Teselados en el CNIG: TMS y MVT** Cecilia Poyatos Hernández, Aurelio Aragón Velasco, Marta Juanatey Aguilera (CNIG). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6787)**
 * **Propuesta para el desarrollo de una plataforma de mercado para un sistema SIG basado en métodos numéricos** Laurence Sigler (CIMNE/UPC). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6788)**
@@ -99,10 +99,10 @@ Rocío Rey, Francisco Campo, Victor Pasqual (Institut Cartogràfic i Geològic d
 Talleres
 ========
 
-* **Taller 1: Elasticsearch y Kibana geoespacial** Jorge Sanz (Elastic). **[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vRIseaVkvIjJsCx4PD5jALMayG3t80ppRfzK4Kkfo3twClH3JvcPC-arezqrjgzc3URy4oBwgeGfxwg/pub?start=false&loop=false&delayms=60000&slide=id.g1287f720363_1_4719)**
+* **Taller 1: Elasticsearch y Kibana geoespacial** Jorge Sanz (Elastic). **[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vRIseaVkvIjJsCx4PD5jALMayG3t80ppRfzK4Kkfo3twClH3JvcPC-arezqrjgzc3URy4oBwgeGfxwg/pub?start=false&loop=false&delayms=60000&slide=id.g1287f720363_1_22)**
 * **Taller 2: Introducción a deck.gl para visualización geoespacial** Borja Muñoz (Carto).
 * **Taller 3: Introducción al análisis exploratorio de datos espaciales con GeoDa** Lluís Vicens (SIGTE).
-* **Taller 3: Cómo crear una API rest para publicar datos geoespaciales** Joana Simoes (ByteRoad). **[Presentación](https://docs.google.com/presentation/d/1xjvZERpNq8QPvh-I8lY99-cWXCgC654AfC3hJKD0ESI/edit#slide=id.g12ea9aeb1a9_0_32)**
+* **Taller 3: Cómo crear una API rest para publicar datos geoespaciales** Joana Simoes (ByteRoad). **[Presentación](https://docs.google.com/presentation/d/1xjvZERpNq8QPvh-I8lY99-cWXCgC654AfC3hJKD0ESI/edit#slide=id.p1)**
 * **Taller 5: Obtención de datos SIG con dron y software libre** Nil Sicart (4D Twin Maps).
 * **Taller 6: Visualización de datos con herramientas de QGIS** Santi H. Puig (freelance) y Laura Olivas (SIGTE-UdG). **[Presentación](https://bit.ly/tallerdataviz)**
 
