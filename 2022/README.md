@@ -46,7 +46,6 @@ Casos de uso
 ---------------------------
 * **Un viral en la pandemia: el making-of** Marti Pericay, Micho García (Geomatico).
 * **Ciencia de las ciudades al servicio del diseño y planificación urbana para la toma de decisiones informadas: casos de estudio** Jose Antonio Gras Iñigo (OUA Group / Universitat Oberta de Catalunya), Alexandre Gauthier Amigó (OUA Group), Alba Carbonell Masagué (OUA Group). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6801)**
-* **Programa de itinerarios deportivos de proximidad: desarrollo e implantación del sistema de información geográfica** Xavier Navalon Nonell, Gerard Xixons Solé (Diputació de Barcelona).
 * **Uso de los SIG para evaluar la compensación de los impactos residuales y la pérdida de biodiversidad en instrumentos de planeamiento** David Barreto Expósito, Sandra Núñez Malavé, Martín Portilla Cardona, Gloria Sabaté Fernández, Omar Sosa García y Alberto Zaragoza i Talamantes (COLECTIVO CCRS). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6802)**
 * **PostGIS y QGIS aplicados a la optimización de la ubicación y la gestión integral del proceso para la implementación de parques solares fotovoltaicos en Catalunya** Xavier Torret (BGEO, OPEN GIS). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6803)**
 * **Planero Web. Un visor en línea interactivo para la difusión de cartografía digital** Patricio Soriano Castro (Geoinnova). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6804)**
