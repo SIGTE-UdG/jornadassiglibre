@@ -103,7 +103,7 @@ Talleres
 * **Taller 3: Introducción al análisis exploratorio de datos espaciales con GeoDa** Lluís Vicens (SIGTE). **[Presentación](https://docs.google.com/presentation/d/1novzo2vYO0m8AeHanivZ_IZUTrNIJpbnC1So7FYwLnw/edit#slide=id.p)** | **[Datos](data/GEODA_JSL.gpkg)**
 * **Taller 3: Cómo crear una API rest para publicar datos geoespaciales** Joana Simoes (ByteRoad). **[Presentación](https://docs.google.com/presentation/d/1xjvZERpNq8QPvh-I8lY99-cWXCgC654AfC3hJKD0ESI/edit#slide=id.p1)**
 * **Taller 5: Obtención de datos SIG con dron y software libre** Nil Sicart (4D Twin Maps).
-* **Taller 6: Visualización de datos con herramientas de QGIS** Santi H. Puig (freelance) y Laura Olivas (SIGTE-UdG). **[Presentación](https://bit.lytallerdataviz)**
+* **Taller 6: Visualización de datos con herramientas de QGIS** Santi H. Puig (freelance) y Laura Olivas (SIGTE-UdG). **[Presentación](https://bit.ly/tallerdataviz)**
 
 Patrocinadores
 ==============
