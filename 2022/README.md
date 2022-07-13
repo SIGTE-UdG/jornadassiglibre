@@ -89,9 +89,9 @@ Clausura
 
 Tutoriales
 ---------------------------
-* **Acceso directo a la geoinformación de Catalunya en QGIS con el conector OpenICGC** Joan Arnaldich (Institut Cartogràfic i Geològic de Catalunya).
-* **API-CNIG, la evolución** Aurelio Aragón Velasco (CNIG).
-* **Cálculo de rutas óptimas con pgRouting en entornos web** Toni Hernández (SIGTE-UdG).
+* **Acceso directo a la geoinformación de Catalunya en QGIS con el conector OpenICGC** Joan Arnaldich (Institut Cartogràfic i Geològic de Catalunya). **[Vídeo](http://diobma.udg.edu//handle/10256.1/6850)**
+* **API-CNIG, la evolución** Aurelio Aragón Velasco (CNIG). **[Vídeo](http://diobma.udg.edu//handle/10256.1/6851)**
+* **Cálculo de rutas óptimas con pgRouting en entornos web** Toni Hernández (SIGTE-UdG). **[Vídeo](http://diobma.udg.edu//handle/10256.1/6852)**
 * **ContextMaps: el nuevo referente de cartografía transversal del Institut Cartogràfic i Geològic de Catalunya**
 Rocío Rey, Francisco Campo, Victor Pasqual (Institut Cartogràfic i Geològic de Catalunya). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6808)**
 
