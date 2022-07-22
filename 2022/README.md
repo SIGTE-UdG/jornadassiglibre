@@ -29,7 +29,7 @@ Visualización de datos
 ---------------------------
 
 * **Teselas, Demers y los datos geoclimáticos de la ONU** Xaquin Veira, Karma Perió (Fundació Vit), Anton Bardera (Imae). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6776)**
-* **Geología en teselas vectoriales. Desarrollo del visor Mapa Geológico de Catalunya 1:25.000** Elena Sánchez Monforte, Lucía Struth Izquierdo, Eulàlia Pi i Palomés, Miquel Vilà i Planella, Fus Micheo Jorcano, Jorge Fleta Pastor (Institut Cartogràfic i Geològic de Catalunya). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6777)**
+* **Geología en teselas vectoriales. Desarrollo del visor Mapa Geológico de Catalunya 1:25.000** Elena Sánchez Monforte, Lucía Struth Izquierdo, Eulàlia Pi i Palomés, Miquel Vilà i Planella, Fus Micheo Jorcano, Jorge Fleta Pastor (Institut Cartogràfic i Geològic de Catalunya). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21419)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6777)**
 * **Cómo se hizo Catastro 3D, un caso de visualización avanzada de datos vectoriales** Francisco Pérez Sampayo, Oscar Fonts Bartolomé (geomatico.es). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6778)**
 * **Portal de geodatos del ámbito marítimo del Baix Empordà** Rosa Olivella, Toni Hernández (SIGTE-Universitat de Girona), Carolina Martí (Institut de Medi Ambient - Universitat de Girona). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6779)**
 * **Visualización de datos espaciales en humanidades digitales** Lourdes Martín-Forero Morente, Isabel Del Bosque González, Carlos Fernández Freire, Nuria Hermida Jiménez (Centro de Ciencias Humanas y Sociales. CSIC).
@@ -37,44 +37,44 @@ Visualización de datos
 Desarrollos
 ---------------------------
 * **Teselas vectoriales con Elasticsearch** Jorge Sanz (Elastic). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6789)**
-* **Desarrollo de herramientas para la automatización de flujos de trabajo: plug-in de QGIS y microaplicación web** Fran Martín Rivas (Institut Cartogràfic i Geològic de Catalunya). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6790)**
-* **Buenas prácticas en los SIG municipales. Solución Local Space** Víctor Centella Fuster (Prodevelop). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6791)**
+* **Desarrollo de herramientas para la automatización de flujos de trabajo: plug-in de QGIS y microaplicación web** Fran Martín Rivas (Institut Cartogràfic i Geològic de Catalunya). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21417)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6790)**
+* **Buenas prácticas en los SIG municipales. Solución Local Space** Víctor Centella Fuster (Prodevelop). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21413)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6791)**
 * **Posibles soluciones al trabajar con grandes volúmenes de datos** Josep Sitjar (SIGTE-Universitat de Girona). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6792)**
 * **Generador de visores de mapas sobre librerías JS Leaflet y OSMBuildings vía APEX** Sergi Bernal Ferrando, Beatriu Jimenez (Ajuntament de Mataró). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6793)**
 
 Casos de uso
 ---------------------------
 * **Un viral en la pandemia: el making-of** Marti Pericay, Micho García (Geomatico).
-* **Ciencia de las ciudades al servicio del diseño y planificación urbana para la toma de decisiones informadas: casos de estudio** Jose Antonio Gras Iñigo (OUA Group / Universitat Oberta de Catalunya), Alexandre Gauthier Amigó (OUA Group), Alba Carbonell Masagué (OUA Group). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6801)**
+* **Ciencia de las ciudades al servicio del diseño y planificación urbana para la toma de decisiones informadas: casos de estudio** Jose Antonio Gras Iñigo (OUA Group / Universitat Oberta de Catalunya), Alexandre Gauthier Amigó (OUA Group), Alba Carbonell Masagué (OUA Group). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21414)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6801)**
 * **Uso de los SIG para evaluar la compensación de los impactos residuales y la pérdida de biodiversidad en instrumentos de planeamiento** David Barreto Expósito, Sandra Núñez Malavé, Martín Portilla Cardona, Gloria Sabaté Fernández, Omar Sosa García y Alberto Zaragoza i Talamantes (COLECTIVO CCRS). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6802)**
 * **PostGIS y QGIS aplicados a la optimización de la ubicación y la gestión integral del proceso para la implementación de parques solares fotovoltaicos en Catalunya** Xavier Torret (BGEO, OPEN GIS). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6803)**
-* **Planero Web. Un visor en línea interactivo para la difusión de cartografía digital** Patricio Soriano Castro (Geoinnova). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6804)**
-* **Uso de PostgreSQL, QGIS y R para estudiar las interacciones entre la actividad de las barcas de pesca y los movimientos espaciales de un depredador marino oportunista** José Antonio García del Arco, Miriam Gimeno Castells, Joan Navarro Bernabé (Instituto de Ciencias del Mar de Barcelona, ICM-CSIC). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6805)**
-* **Comercio cotidiano con servicio básico** Mikel Pau Casado Buesa, Cristina Poza Lopez (Col·lectiu d'Arquitectes el Tinglado / Universitat Autonoma de Barcelona). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6806)**
+* **Planero Web. Un visor en línea interactivo para la difusión de cartografía digital** Patricio Soriano Castro (Geoinnova). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21422)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6804)**
+* **Uso de PostgreSQL, QGIS y R para estudiar las interacciones entre la actividad de las barcas de pesca y los movimientos espaciales de un depredador marino oportunista** José Antonio García del Arco, Miriam Gimeno Castells, Joan Navarro Bernabé (Instituto de Ciencias del Mar de Barcelona, ICM-CSIC). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21425)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6805)**
+* **Comercio cotidiano con servicio básico** Mikel Pau Casado Buesa, Cristina Poza Lopez (Col·lectiu d'Arquitectes el Tinglado / Universitat Autonoma de Barcelona). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21411)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6806)**
 * **Nombre a nombre: Solución geomática para la recogida e inventario de toponimia** Marc Rosés Arbonés (SILME, SA), Ricard Cots Torrelles (Consell Insular de Menorca), Xavier Gomila Pons (Institut Menorquí d’Estudis). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6807)**
 
 Teledetección
 ---------------------------
 * **Desafíos de la migración desde el catálogo interno de imágenes de satélite en el catálogo SpatioTemporal Asset Catalog (STAC)** Luigi Pirelli (Satellogic). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6780)**
-* **Complemento de QGIS para el proceso de datos ráster en remoto** Daniel Ponsa Mussarra, Felipe Lumbreras Ruiz, Robert Benavente Vidal (Centre de Visió per Computador). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6781)**
+* **Complemento de QGIS para el proceso de datos ráster en remoto** Daniel Ponsa Mussarra, Felipe Lumbreras Ruiz, Robert Benavente Vidal (Centre de Visió per Computador). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21415)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6781)**
 * **Seguimiento de la tasa de mortalidad de los árboles en un bosque tropical húmedo mediante LiDAR aéreo multitemporal empleando software libre** Claudia Huertas Garcia (IRD - France). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6782)**
 * **El estado del Planeta** Ramiro Aznar Ballarin (Planet). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6783)**
 * **Monitoreo de desiertos submarinos mediante drones y ciencia ciudadana**
-Teresa Alcoverro, Emma Cebrián, Bernat Hereu, Joaquim Garrabou, Jordi Boada, Fernando García (CEAB-CSIC). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6784)**
+Teresa Alcoverro, Emma Cebrián, Bernat Hereu, Joaquim Garrabou, Jordi Boada, Fernando García (CEAB-CSIC). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21421)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6784)**
 
 IDEs y Geoportales
 ---------------------------
 * **Geoportal del centro de datos de la UTM-CSIC** Xavier Rayo Sarrias, Susana Diez Tagarro, Guillermo Farriga Infante, Elsa Martinez Abad, Juan Luis Ruiz Valderrama, Antonio Tomás Franco (Centro de Datos de la Unidad de Tecnología Marina del CSIC). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6794)**
 * **Cuando una IDE que facilita los procedimientos administrativos** Ricard Cots Torrelles (Consell Insular de Menorca), Marc Rosés Arbonés (SILME, servei informàtica local de Menorca). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6795)**
-* **Mapa a la Carta v.2: Nuevas funcionalidades y productos** Pablo Domingo Gómez, Celia Sevilla Sánchez (Centro Nacional de Información Geográfica - CNIG). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6796)**
+* **Mapa a la Carta v.2: Nuevas funcionalidades y productos** Pablo Domingo Gómez, Celia Sevilla Sánchez (Centro Nacional de Información Geográfica - CNIG). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21420)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6796)**
 * **SITMUN, una oportunidad para la comunidad SIG libre** Ricard Cots Torrelles (Consell Insular de Menorca), Fina Saez (Diputació de Barcelona), Javier López (Universitat de Saragossa), Marc Rosés Arbonés (SILME), Gemma Peix Dordas (Diputació de Girona). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6797)**
 * **IDE del Instituto Hidrográfico de la Marina. Integración específica de API-CNIG** Enrique Soriano, Daniel Luna (Guadaltel).
 
 Open data
 ------------------------------------------------------------------------------------------------------------
-* **Datos Geoespaciales en la web (en la era de REST, JSON y OpenAPI)** Joana Simoes (Open Geospatial Consortium - OGC). **[Presentación](https://docs.google.com/presentation/d/1aDYpCKAdbIyGefetrM7tiguIyfTbUPpW/edit#slide=id.p2)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6785)**
-* **Digitalización de la Distribución Urbana de Mercancías (DUMCAT)** Jordi Martin Oriol, Maria José Gaete Cerda (Autoritat del Transport Metropolità de Barcelona). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6786)**
-* **Servicios Teselados en el CNIG: TMS y MVT** Cecilia Poyatos Hernández, Aurelio Aragón Velasco, Marta Juanatey Aguilera (CNIG). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6787)**
+* **Datos Geoespaciales en la web (en la era de REST, JSON y OpenAPI)** Joana Simoes (Open Geospatial Consortium - OGC). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21416)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6785)**
+* **Digitalización de la Distribución Urbana de Mercancías (DUMCAT)** Jordi Martin Oriol, Maria José Gaete Cerda (Autoritat del Transport Metropolità de Barcelona). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21418)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6786)**
+* **Servicios Teselados en el CNIG: TMS y MVT** Cecilia Poyatos Hernández, Aurelio Aragón Velasco, Marta Juanatey Aguilera (CNIG). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21424)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6787)**
 * **Propuesta para el desarrollo de una plataforma de mercado para un sistema SIG basado en métodos numéricos** Laurence Sigler (CIMNE/UPC). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6788)**
 
 Cartografía colaborativa
@@ -85,12 +85,12 @@ Cartografía colaborativa
 
 Clausura
 ---------------------------
-* **Sesión de clausura: La UE y datos (regulación). ¿Una nueva historia de amor?** Malcolm Bain (Across Legal). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6809)**
+* **Sesión de clausura: La UE y datos (regulación). ¿Una nueva historia de amor?** Malcolm Bain (Across Legal). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21409)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/6809)**
 
 Tutoriales
 ---------------------------
-* **Acceso directo a la geoinformación de Catalunya en QGIS con el conector OpenICGC** Joan Arnaldich (Institut Cartogràfic i Geològic de Catalunya). **[Vídeo](http://diobma.udg.edu//handle/10256.1/6850)**
-* **API-CNIG, la evolución** Aurelio Aragón Velasco (CNIG). **[Vídeo](http://diobma.udg.edu//handle/10256.1/6851)**
+* **Acceso directo a la geoinformación de Catalunya en QGIS con el conector OpenICGC** Joan Arnaldich (Institut Cartogràfic i Geològic de Catalunya). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21423)** | **[Vídeo](http://diobma.udg.edu//handle/10256.1/6850)**
+* **API-CNIG, la evolución** Aurelio Aragón Velasco (CNIG). **[Presentación](https://dugi-doc.udg.edu/handle/10256/21412)** | **[Vídeo](http://diobma.udg.edu//handle/10256.1/6851)**
 * **Cálculo de rutas óptimas con pgRouting en entornos web** Toni Hernández (SIGTE-UdG). **[Vídeo](http://diobma.udg.edu//handle/10256.1/6852)**
 * **ContextMaps: el nuevo referente de cartografía transversal del Institut Cartogràfic i Geològic de Catalunya**
 Rocío Rey, Francisco Campo, Victor Pasqual (Institut Cartogràfic i Geològic de Catalunya). **[Vídeo](http://diobma.udg.edu/handle/10256.1/6808)**
