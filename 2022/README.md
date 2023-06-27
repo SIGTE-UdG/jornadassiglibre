@@ -101,7 +101,7 @@ Talleres
 * **Taller 1: Elasticsearch y Kibana geoespacial** Jorge Sanz (Elastic). **[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vRIseaVkvIjJsCx4PD5jALMayG3t80ppRfzK4Kkfo3twClH3JvcPC-arezqrjgzc3URy4oBwgeGfxwg/pub?start=false&loop=false&delayms=60000&slide=id.g1287f720363_1_22)**
 * **Taller 2: Introducción a deck.gl para visualización geoespacial** Borja Muñoz (Carto).
 * **Taller 3: Introducción al análisis exploratorio de datos espaciales con GeoDa** Lluís Vicens (SIGTE). **[Presentación](https://docs.google.com/presentation/d/1novzo2vYO0m8AeHanivZ_IZUTrNIJpbnC1So7FYwLnw/edit#slide=id.p)** | **[Datos](data/GEODA_JSL.gpkg)**
-* **Taller 3: Cómo crear una API rest para publicar datos geoespaciales** Joana Simoes (ByteRoad). **[Presentación](https://docs.google.com/presentation/d/1xjvZERpNq8QPvh-I8lY99-cWXCgC654AfC3hJKD0ESI/edit#slide=id.p1)**
+* **Taller 4: Cómo crear una API rest para publicar datos geoespaciales** Joana Simoes (ByteRoad). **[Presentación](https://docs.google.com/presentation/d/1xjvZERpNq8QPvh-I8lY99-cWXCgC654AfC3hJKD0ESI/edit#slide=id.p1)**
 * **Taller 5: Obtención de datos SIG con dron y software libre** Nil Sicart (4D Twin Maps).
 * **Taller 6: Visualización de datos con herramientas de QGIS** Santi H. Puig (freelance) y Laura Olivas (SIGTE-UdG). **[Presentación](https://bit.ly/tallerdataviz)**
 
