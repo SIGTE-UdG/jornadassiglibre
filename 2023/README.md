@@ -1,15 +1,11 @@
 # 16as Jornadas de SIG libre (2023)
 
-TODO: Canviar text:
-
-Las tecnologías de la información geográfica se actualizan a una velocidad sin precedentes. Cada vez, nuevas herramientas salen a la luz para facilitarnos nuestro día a día. Las Jornadas de SIG Libre son un evento donde se congrega a todo el sector *Geotech* para discutir y aprender de las nuevas tendencias de nuestro ámbito.
+Las tecnologías de la información geográfica se actualizan a una velocidad sin precedentes. Cada vez más, nuevas herramientas salen a la luz para facilitar nuestro día a día y aumenta la demanda de perfiles más técnicos como el *Spatial Data Scientist*. Las Jornadas de SIG Libre son un evento donde se congrega a todo el sector *Geotech* para discutir y aprender de las nuevas tendencias de nuestro ámbito.
 
 Este año, los temas que se han abordado son la visualización de datos, el análisis espacial, el desarrollo de *software* y aplicaciones, *webmapping*, observación de la Tierra, ciencia de datos, geoestadística, *machine learning*, datos abiertos, etc.
 
 * 14-15 de junio de 2023
 * Facultat de Lletres i de Turisme, Universitat de Girona
-
-TODO: END
 
 
 Sesión inaugural
