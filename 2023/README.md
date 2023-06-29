@@ -29,13 +29,13 @@ Comunicaciones
 * **Análisis del vigor de árboles a través un gradiente altitudinal mediante imágenes multiespectrales UAV** Jose Luis Gallardo-Salazar, Cuauhtémoc Sáenz-Romero, Roberto Lindig-Cisneros, Leonel López-Toledo, Ángel Rolando Endara-Agramont, José Arnulfo Blanco-García (Universitat Michoacana México). **[Presentación](data/pdf/comunicaciones/Comunicaci%C3%B3n_GIRONA_JLGS.pdf)**
 * **CatLC: Datos abiertos en multi-resolución para la generación de productos y cubiertas del suelo con IA** Assumpció Termens, Anna Tardà, Lydia Pineda, Oscar Mora (ICGC). **[Presentación](data/pdf/comunicaciones/CatLC_siglibre2023.pdf)**
 * **Tecnología Visual para el agricultor** Manel Alemany Martinez, Marcela Pereira-Sandoval (VisualNacert, S.L). **[Presentación](data/pdf/comunicaciones/Tecnologia_Visual_para_el_Agricultor.pdf)**
-* **Deep learning para detección de cultivos con imágenes PNOA: el caso de cultivos vitícolas** Juan Ignacio Varela García, Marcos Eimil Pardo. **[Vídeo]()**
-* **Mejorando la gestión de fotogramas aéreos: actualización de la fototeca del ICV** Víctor Centella Fuster, Pau Pérez Puigcerver, Elena Esteso Moya, Luis Dueñas Domingo, Raquel Fernández Martínez (Prodevelop). **[Vídeo]()**
+* **Deep learning para detección de cultivos con imágenes PNOA: el caso de cultivos vitícolas** Juan Ignacio Varela García, Marcos Eimil Pardo
+* **Mejorando la gestión de fotogramas aéreos: actualización de la fototeca del ICV** Víctor Centella Fuster, Pau Pérez Puigcerver, Elena Esteso Moya, Luis Dueñas Domingo, Raquel Fernández Martínez (Prodevelop)
 * **Geografía de los commons: el caso de la agricultura comunitaria en Ámsterdam** Marc Bosch Matas (Knowledge Sharing Network). **[Presentación](data/pdf/comunicaciones/GeografiaDeLosCommons.pdf)**
 * **Gestión de operaciones y mantenimiento de redes de agua y alcantarillado mediante solución Giswater** Josep Portero Garro, Ferran Guri Feliu, Albert Besora Magem, Albert Bofill (Aigües Mataró). **[Presentación](data/pdf/comunicaciones/OM_GISWATER%20SIGTE.pdf)**
 * **OGCAPI en APICNIG** Aurelio Aragón Velasco, Yaiza Gómez Espada (CNIG). **[Presentación](data/pdf/comunicaciones/yaiza_gomez_apicnig.pdf)**
-* **Gleo: la nueva librería de mapas web que intenta domar WebGL** Iván Sánchez Ortega. **[Vídeo]()**
-* **Novedades de QGIS (desde la 3.24 hasta la 3.32)** Carlos Lopez (PSIG). **[Vídeo]()**
+* **Gleo: la nueva librería de mapas web que intenta domar WebGL** Iván Sánchez Ortega
+* **Novedades de QGIS (desde la 3.24 hasta la 3.32)** Carlos Lopez (PSIG)
 * **Cuando las teselas vectoriales no bastan: casos de aplicación de deck.gl en el mundo real** Oscar Fonts, Francisco Pérez (Geomático). **[Presentación](data/pdf/comunicaciones/Geomatico_DeckGL.pdf)**
 * **URBAN3R. Plataforma de datos abiertos para impulsar la regeneración urbana en España** Guillem Herrera Masabeu (Cíclica arquitectura), Teresa Monzó Fita (Cíclica arquitectura). **[Presentación](data/pdf/comunicaciones/Urban3rPresentacio.pdf)**
 * **Nuevos formatos abiertos de distribución del mapa topográfico metropolitano 1:1.000 (MTM-1M) de la AMB** Montserrat Monteagudo Gómez (AMB), David Ramos (AMB). **[Presentación](data/pdf/comunicaciones/SIGLIBRE_AMB_Formatos_Abiertos_MTM1M.pdf)**
@@ -59,9 +59,9 @@ Talleres
 
 * **Taller 1: Web mapping con Elasticsearch** Jorge Sanz (Elastic). **[Presentación]()**
 * **Taller 2: Análisis de imágenes de satélite con Python y técnicas de inteligencia artificial** Alberto Labarga (Universidad Politécnica de Navarra).
-* **Taller 3: La accesibilidad como un indicador de injusticia en la movilidad** Héctor Ochoa Ortiz, David Telmo Durán Rodas, María Teresa Baquero Larriva, Sindi Haxhija (Cátedra de Estructura Urbana y Planificación del Transporte, Universidad Técnica de Múnich, Alemania). **[Presentación](data/pdf/talleres/Workshop_Accesibilidad.pdf)** | **[Datos]()**
+* **Taller 3: La accesibilidad como un indicador de injusticia en la movilidad** Héctor Ochoa Ortiz, David Telmo Durán Rodas, María Teresa Baquero Larriva, Sindi Haxhija (Cátedra de Estructura Urbana y Planificación del Transporte, Universidad Técnica de Múnich, Alemania). **[Presentación](data/pdf/talleres/Workshop_Accesibilidad.pdf)**
 * **Taller 4: Taller de formularios dinámicos en QGIS** Carlos Lopez (PSIG). **[Presentación]()**
-* **Taller 5: QGIS para el análisis espacial y la visualización de indicadores estadísticos en deportes de equipo** Mikel Becerro, Marc Oller Garcia.
+* **Taller 5: QGIS para el análisis espacial y la visualización de indicadores estadísticos en deportes de equipo** Mikel Becerro, Marc Oller Garcia. **[Datos](data/DATASETS_TALLER_HOCKEY.zip)**
 * **Taller 6: Python como un SIG** Biel Stela (Vizzuality). **[Presentación]()**
 * **Taller 7: OpenDroneMap para fotogrametría digital con drones** Jose Luis Gallardo-Salazar, Marcela Rosas-Chavoya (Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana de San Nicolás de Hidalgo). **[Presentación](data/pdf/talleres/Taller_OpenDroneMap.pdf)**
 * **Taller 8: Índices espaciales. Nuevo paradigma para trabajar con big data** Pedro-Juan Ferrer Matoses, Cayetano Benavent Viñuales (CARTO). **[Presentación](data/pdf/talleres/Spatial_Indexes_New_paradigm_for_working_with_Big_Data.pdf)**
