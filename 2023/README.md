@@ -85,7 +85,7 @@ Patrocinadores
 Colaboradores
 ==============
 
-<img src="img/qgis.png" alt="drawing" width="50px" height="auto"/></br>
+<img src="img/qgis.png" alt="drawing" width="100px" height="auto"/></br>
 
 <img src="img/bgeo.png" alt="drawing"/></br>
 
