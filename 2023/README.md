@@ -57,10 +57,10 @@ Lightning talks
 Talleres
 ========
 
-* **Taller 1: Web mapping con Elasticsearch** Jorge Sanz (Elastic). **[Presentación]()**
-* **Taller 2: Análisis de imágenes de satélite con Python y técnicas de inteligencia artificial** Alberto Labarga (Universidad Politécnica de Navarra).
+* **Taller 1: Web mapping con Elasticsearch** Jorge Sanz (Elastic). **[Presentación](https://ela.st/2023-webmapping-elasticsearch-slides)** | **[Ejemplo](https://ela.st/2023-webmapping-elasticsearch-app)** | **[Repositorio](https://github.com/jsanz/elastic-workshop/tree/main/lab/vector-tile-viewer)**
+* **Taller 2: Análisis de imágenes de satélite con Python y técnicas de inteligencia artificial** Alberto Labarga (Universidad Politécnica de Navarra). **[Repositorio](https://github.com/alabarga/geospatial-python#install-requirements)**
 * **Taller 3: La accesibilidad como un indicador de injusticia en la movilidad** Héctor Ochoa Ortiz, David Telmo Durán Rodas, María Teresa Baquero Larriva, Sindi Haxhija (Cátedra de Estructura Urbana y Planificación del Transporte, Universidad Técnica de Múnich, Alemania). **[Presentación](data/pdf/talleres/Workshop_Accesibilidad.pdf)**
-* **Taller 4: Taller de formularios dinámicos en QGIS** Carlos Lopez (PSIG). **[Presentación]()**
+* **Taller 4: Taller de formularios dinámicos en QGIS** Carlos Lopez (PSIG). **[Presentación](https://github.com/carlospsig/jornadassiglibre_2023)**
 * **Taller 5: QGIS para el análisis espacial y la visualización de indicadores estadísticos en deportes de equipo** Mikel Becerro, Marc Oller Garcia. **[Datos](data/DATASETS_TALLER_HOCKEY.zip)**
 * **Taller 6: Python como un SIG** Biel Stela (Vizzuality). **[Presentación]()**
 * **Taller 7: OpenDroneMap para fotogrametría digital con drones** Jose Luis Gallardo-Salazar, Marcela Rosas-Chavoya (Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana de San Nicolás de Hidalgo). **[Presentación](data/pdf/talleres/Taller_OpenDroneMap.pdf)**
