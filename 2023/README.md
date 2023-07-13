@@ -61,8 +61,8 @@ Talleres
 * **Taller 2: Análisis de imágenes de satélite con Python y técnicas de inteligencia artificial** Alberto Labarga (Universidad Politécnica de Navarra). **[Repositorio](https://github.com/alabarga/geospatial-python#install-requirements)**
 * **Taller 3: La accesibilidad como un indicador de injusticia en la movilidad** Héctor Ochoa Ortiz, David Telmo Durán Rodas, María Teresa Baquero Larriva, Sindi Haxhija (Cátedra de Estructura Urbana y Planificación del Transporte, Universidad Técnica de Múnich, Alemania). **[Presentación](data/pdf/talleres/Workshop_Accesibilidad.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/7148)**
 * **Taller 4: Taller de formularios dinámicos en QGIS** Carlos Lopez (PSIG). **[Presentación](https://github.com/carlospsig/jornadassiglibre_2023)**
-* **Taller 5: QGIS para el análisis espacial y la visualización de indicadores estadísticos en deportes de equipo** Mikel Becerro, Marc Oller Garcia. **[Datos](data/DATASETS_TALLER_HOCKEY.zip)**
-* **Taller 6: Python como un SIG** Biel Stela (Vizzuality). **[Presentación]()**
+* **Taller 5: QGIS para el análisis espacial y la visualización de indicadores estadísticos en deportes de equipo** Mikel Becerro, Marc Oller Garcia. **[Presentación](data/pdf/talleres/UDG_JORNADAS_SIG_2023_VISUAL_HOCKEY4.pdf)** | **[Datos](data/DATASETS_TALLER_HOCKEY.zip)**
+* **Taller 6: Python como un SIG** Biel Stela (Vizzuality).
 * **Taller 7: OpenDroneMap para fotogrametría digital con drones** Jose Luis Gallardo-Salazar, Marcela Rosas-Chavoya (Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana de San Nicolás de Hidalgo). **[Presentación](data/pdf/talleres/Taller_OpenDroneMap.pdf)**
 * **Taller 8: Índices espaciales. Nuevo paradigma para trabajar con big data** Pedro-Juan Ferrer Matoses, Cayetano Benavent Viñuales (CARTO). **[Presentación](data/pdf/talleres/Spatial_Indexes_New_paradigm_for_working_with_Big_Data.pdf)**
 
