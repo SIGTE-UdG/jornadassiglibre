@@ -65,12 +65,12 @@ Talleres
 ========
 
 * **Taller 1: Conceptos básicos de GDAL/OGR para el procesamiento de imágenes satelitales** Lorenzo Becchi.
-* **Taller 2: Cómo montar una aplicación geoespacial con datos en tiempo real de una hora con Tinybird** Raquel Barbadillo (Desarrolladora en Tinybird).
+* **Taller 2: Cómo montar una aplicación geoespacial con datos en tiempo real de una hora con Tinybird** Raquel Barbadillo (Desarrolladora en Tinybird) **[Presentación](data/pdf/workshops/tinybird.pdf)**.
 * **Taller 3: Felt, QGIS y Jupyter notebooks: mapas colaborativos para todo el mundo** Isaac Besora (Felt).
 * **Taller 4: Introducción al análisis geográfico con librerías Python** Miquel Febrer (Geoinnova).
-* **Taller 5: SPAI como framework de desarrollo de aplicaciones basadas en datos satelitales e inteligencia artificial** Fran Martín Rivas (Earthpulse), Juan B. Pedro (Earthpulse).
+* **Taller 5: SPAI como framework de desarrollo de aplicaciones basadas en datos satelitales e inteligencia artificial** Fran Martín Rivas (Earthpulse), Juan B. Pedro (Earthpulse) **[Presentación](data/pdf/workshops/spai.pdf)**.
 * **Taller 6: Programando mapas web con Gleo: desde cero hasta los entresijos de WebGL** Iván Sánchez.
-* **Taller 7: Creación de visualización de datos con Observable** Anton Bardera (UdG).
+* **Taller 7: Creación de visualización de datos con Observable** Anton Bardera (UdG) **[Presentación](data/pdf/workshops/observable.pdf)**.
 * **Taller 8: Diseño de escenarios tridimensionales a partir de datos LiDAR** Lluís Vicens (SIGTE - Universitat de Girona). 
 
 
@@ -78,7 +78,7 @@ Talleres
 Patrocinadores
 ==============
 
-<img src="img/logoweb-Geoinnova-1.png" alt="drawing" width="150" height="75px"/></br>
+<img src="img/logoweb-Geoinnova-1.png" alt="drawing" width="160" height="75px"/></br>
 
 <img src="img/infraplan.png" alt="drawing" width="200" height="45px"/></br>
 
@@ -86,7 +86,7 @@ Patrocinadores
 
 <img src="img/logo_nexus-300x57.png" alt="drawing" width="150" height="auto"/></br>
 
-<img src="img/logo_elastic.png" alt="drawing" width="150" height="75px"/></br>
+<img src="img/logo_elastic.png" alt="drawing" width="160" height="75px"/></br>
 
 <img src="img/logo-Unigis-300x67.png" alt="drawing" width="150" height="55px"/></br>
 
