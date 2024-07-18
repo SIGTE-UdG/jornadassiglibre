@@ -71,7 +71,7 @@ Talleres
 * **Taller 5: SPAI como framework de desarrollo de aplicaciones basadas en datos satelitales e inteligencia artificial** Fran Martín Rivas (Earthpulse), Juan B. Pedro (Earthpulse) **[Presentación](data/pdf/workshops/spai.pdf)**.
 * **Taller 6: Programando mapas web con Gleo: desde cero hasta los entresijos de WebGL** Iván Sánchez.
 * **Taller 7: Creación de visualización de datos con Observable** Anton Bardera (UdG) **[Presentación](data/pdf/workshops/observable.pdf)**.
-* **Taller 8: Diseño de escenarios tridimensionales a partir de datos LiDAR** Lluís Vicens (SIGTE - Universitat de Girona). 
+* **Taller 8: Diseño de escenarios tridimensionales a partir de datos LiDAR** Lluís Vicens (SIGTE - Universitat de Girona) **[Presentación](https://github.com/lluisvicens/TALLER_JSL2024)**. 
 
 
 
