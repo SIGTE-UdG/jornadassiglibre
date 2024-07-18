@@ -78,9 +78,9 @@ Talleres
 Patrocinadores
 ==============
 
-<img src="img/logoweb-Geoinnova-1.png" alt="drawing" width="150" height="60px"/></br>
+<img src="img/logoweb-Geoinnova-1.png" alt="drawing" width="150" height="75px"/></br>
 
-<img src="img/infraplan.png" alt="drawing" width="200" height="30px"/></br>
+<img src="img/infraplan.png" alt="drawing" width="200" height="45px"/></br>
 
 <img src="img/cnig-450x77.webp" alt="drawing" width="150" height="33px"/></br>
 
@@ -88,9 +88,9 @@ Patrocinadores
 
 <img src="img/logo_elastic.png" alt="drawing" width="150" height="75px"/></br>
 
-<img src="img/logo-Unigis-300x67.png" alt="drawing" width="150" height="45px"/></br>
+<img src="img/logo-Unigis-300x67.png" alt="drawing" width="150" height="55px"/></br>
 
-<img src="img/logo_icgc.png" alt="drawing" width="150" height="45px"/></br>
+<img src="img/logo_icgc.png" alt="drawing" width="150" height="60px"/></br>
 
 <img src="img/seresco-ficha.jpg" alt="drawing" width="150" height="45px"/></br>
 
