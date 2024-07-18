@@ -20,6 +20,7 @@ Las Jornadas de SIG libre son un punto de encuentro entre las personas que compa
 - [Edición 2021](2021)
 - [Edición 2022](2022)
 - [Edición 2023](2023)
+- [Edición 2024](2024)
 
 * Repositorio Comunicaciones DUGiDocs: https://dugi-doc.udg.edu/handle/10256/861
 * Repositorio Vídeos DUGIMedia: http://diobma.udg.edu/handle/10256.1/508
