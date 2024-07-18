@@ -108,8 +108,6 @@ Colaboradores
 
 <img src="img/logo_bgeo.png" alt="drawing" width="100px" height="auto"/></br>
 
-<img src="img/logo_bgeo.png" alt="drawing" width="100px" height="auto"/></br>
-
 <img src="img/dep_geo-300x85-1.png" alt="drawing" width="100px" height="auto"/></br>
 
 <img src="img/FL.png" alt="drawing" width="100px" height="auto"/></br>
