@@ -64,7 +64,7 @@ Lightning talks
 Talleres
 ========
 
-* **Taller 1: Conceptos básicos de GDAL/OGR para el procesamiento de imágenes satelitales** Lorenzo Becchi.
+* **Taller 1: Conceptos básicos de GDAL/OGR para el procesamiento de imágenes satelitales** Lorenzo Becchi **[Presentación](https://ominiverdi.github.io/workshop_gdal_satellite/web/)**.
 * **Taller 2: Cómo montar una aplicación geoespacial con datos en tiempo real de una hora con Tinybird** Raquel Barbadillo (Desarrolladora en Tinybird) **[Presentación](data/pdf/workshops/tinybird.pdf)**.
 * **Taller 3: Felt, QGIS y Jupyter notebooks: mapas colaborativos para todo el mundo** Isaac Besora (Felt).
 * **Taller 4: Introducción al análisis geográfico con librerías Python** Miquel Febrer (Geoinnova).
