@@ -39,7 +39,7 @@ Comunicaciones
 * **Cuando las teselas vectoriales no bastan: casos de aplicación de deck.gl en el mundo real** Oscar Fonts, Francisco Pérez (Geomático). **[Presentación](data/pdf/comunicaciones/Geomatico_DeckGL.pdf)**
 * **URBAN3R. Plataforma de datos abiertos para impulsar la regeneración urbana en España** Guillem Herrera Masabeu (Cíclica arquitectura), Teresa Monzó Fita (Cíclica arquitectura). **[Presentación](data/pdf/comunicaciones/Urban3rPresentacio.pdf)**
 * **Nuevos formatos abiertos de distribución del mapa topográfico metropolitano 1:1.000 (MTM-1M) de la AMB** Montserrat Monteagudo Gómez (AMB), David Ramos (AMB). **[Presentación](data/pdf/comunicaciones/SIGLIBRE_AMB_Formatos_Abiertos_MTM1M.pdf)**
-* **Clasificación de cultivos y cubiertas forestales de Navarra con Sentinel-1, Sentinel-2 y LiDAR** Gabriel Bonifaz, Itxaso Aranguren Erice, Jesús Álvarez Mozos, María González de Audícana (Universidad Pública de Navarra, Instituto de Innovación y Sostenibilidad en la Cadena Alimentaria). **[Presentación](data/pdf/comunicaciones/capas_De_un_Stack_de_datos_geoespaciales.pdf)**
+* **Clasificación de cultivos y cubiertas forestales de Navarra con Sentinel-1, Sentinel-2 y LiDAR** Gabriel Bonifaz, Itxaso Aranguren Erice, Jesús Álvarez Mozos, María González de Audícana (Universidad Pública de Navarra, Instituto de Innovación y Sostenibilidad en la Cadena Alimentaria). **[Presentación](data/pdf/comunicaciones/ClasificacionCubiertasForestalesNavarraSentinelYLidar.pdf)**
 
 Lightning talks
 ---------------------------
