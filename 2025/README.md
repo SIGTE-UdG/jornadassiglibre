@@ -100,21 +100,21 @@ Comunicaciones
 Patrocinadores
 ==============
 
-<img src="img/logoweb-Geoinnova-1.png" alt="drawing" width="160" height="75px"/></br>
+<img src="img/logoweb-Geoinnova-1.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/guadaltel-300x93.png" alt="drawing" width="150" height="45px"/></br>
+<img src="img/guadaltel-300x93.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/logo_bgeo.png" alt="drawing" width="160" height="75px"/></br>
+<img src="img/logo_bgeo.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/logo_nexus-300x57.png" alt="drawing" width="150" height="auto"/></br>
+<img src="img/logo_nexus-300x57.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/logo_icgc.png" alt="drawing" width="150" height="60px"/></br>
+<img src="img/logo_icgc.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/geomatico_200.png" alt="drawing" width="150" height="150px"/></br>
+<img src="img/geomatico_200.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/infraplan.png" alt="drawing" width="200" height="45px"/></br>
+<img src="img/infraplan.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/cnig-450x77.webp" alt="drawing" width="150" height="33px"/></br>
+<img src="img/cnig-450x77.webp" alt="drawing" width="200" height="auto"/></br>
 
 
 
@@ -123,22 +123,26 @@ Patrocinadores
 Colaboradores
 ==============
 
-<img src="img/logo_ajgirona_color-250x70.png" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/logo_ajgirona_color-250x70.png" alt="drawing" width="200px" height="auto"/></br>
 
-<img src="img/nosolosig.png" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/nosolosig.png" alt="drawing" width="200px" height="auto"/></br>
 
-<img src="img/icarto.png)" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/icarto.png" alt="drawing" width="200px" height="auto"/></br>
 
-<img src="img/logo_qgis.png" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/logo_qgis.png" alt="drawing" width="200px" height="auto"/></br>
 
-<img src="img/jortilles.png" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/jortilles.png" alt="drawing" width="200px" height="auto"/></br>
 
-<img src="img/dep_geo-300x85-1.png" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/dep_geo-300x85-1.png" alt="drawing" width="200px" height="auto"/></br>
 
-<img src="img/logo-Unigis.png" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/logo-Unigis.png" alt="drawing" width="200px" height="auto"/></br>
 
-<img src="img/FL.png" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/FL.png" alt="drawing" width="200px" height="auto"/></br>
 
+
+<img src="img/fudg.png" alt="drawing" width="200px" height="auto"/></br>
+
+<img src="img/gisce.png" alt="drawing" width="200px" height="auto"/></br>
 
 
 
