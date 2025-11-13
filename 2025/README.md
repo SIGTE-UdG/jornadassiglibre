@@ -23,10 +23,10 @@ Lightning talks
 =================
 
 * **Fina e os mapas** Pablo Sanxiao. | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8226)**
-* **¿OSM y Administración Pública? Sí, se puede (II parte)** José Manuel Vázquez López. **[Presentación](\data/pdf/lightning_talks/2_presentacion_JSL_JVL_2025.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8227)**
-* **Desarrollo de aplicaciones de teledetección con el uso de métodos predictivos para la mejora de los resultados para aplicaciones forestales** Estela Llorente. **[Presentación](\2025\3_estela.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8228)**
-* **Environmental Justice Atlas, un visor libre para conflictos ambientales** Miguel García Coya (Geomatico). **[Presentación](\2025\4_ejatlas.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8229)**
-* **Relojes de arena polinómicos**  Iván Sánchez Ortega, Javier Jimenez Shaw **[Presentación](\2025\5_relojes.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8230)**
+* **¿OSM y Administración Pública? Sí, se puede (II parte)** José Manuel Vázquez López. **[Presentación](data/pdf/lightning_talks/2_presentacion_JSL_JVL_2025.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8227)**
+* **Desarrollo de aplicaciones de teledetección con el uso de métodos predictivos para la mejora de los resultados para aplicaciones forestales** Estela Llorente. **[Presentación](data/pdf/lightning_talks/3_estela.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8228)**
+* **Environmental Justice Atlas, un visor libre para conflictos ambientales** Miguel García Coya (Geomatico). **[Presentación](data/pdf/lightning_talks/4_ejatlas.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8229)**
+* **Relojes de arena polinómicos**  Iván Sánchez Ortega, Javier Jimenez Shaw **[Presentación](data/pdf/lightning_talks/5_relojes.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8230)**
 * **SIG Corporativo de la Junta de Andalucía (SIGCJA): 18 años de éxito** Emilio Pardo Pérez (Guadaltel), Daniel Luna Rodríguez (Guadaltel), Jose Antonio Moreno (Instituto de Estadística y Cartografía de Andalucía), Borja Mañas (Instituto de Estadística y Cartografía de Andalucía).
 **[Presentación](2025\6_sig_corporativo_junta_andalucia.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8231)**
 * **SPAI Chat: Mejora de la usabilidad de datos complejos mediante LLMs para la gestión del riesgo de deslizamiento** Fran Martín (Earthpulse).
@@ -36,10 +36,10 @@ Lightning talks
  **[Presentación](\2025\9_estimacion_humedad.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8242)**
 * **Edusat Challenge** Rosa Olivella (SIGTE). **[Presentación](2025\10_edusat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8240)**
 * **Accediendo a OvertureMaps de forma directa desde GeoServer**Jose Macchi, Ariel Anthieni.
-. **[Presentación] (2025\11_overture_maps.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8216)**
+. **[Presentación] (\2025\11_overture_maps.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8216)**
 * **Sensores remotos aplicados a la conservación de macroalgas** Carlos García Lanchares (URJC), Rosa María Chefoui (URJC), Rosa María Viejo (URJC), Julio Arrontes (uniovi), José Luis Acuña (uniovi). **[Presentación](2025\12_sensores_remotos.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8241)**
 * **Ecosistema europeo de la tecnología geoespacial optimizada para la nube (Cloud Native Geospatial)** Félix Pedrera (Indra Deimos).
- **[Presentación] (2025\13_ecosistema_europeo.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8207)**
+ **[Presentación] (\2025\13_ecosistema_europeo.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8207)**
 * **Mapas de biodiversidad y estándares: del archivo al dato vivo** Marti Pericay (Geomatico).
  **[Presentación](2025\14_presentacion_Geomatico.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8208)**
 * **Quick Web Viewer: Publicar mapas online con QGIS y MapLibre** Gerald Kogler (trescientosmil)
@@ -51,7 +51,7 @@ Comunicaciones
 ---------------------------
 
 * **¿Cuánto sol tiene tu tejado? GIS para el autoconsumo energético** Alfonso Martínez (Guadaltel), Celia Sevilla (CNIG), Pablo Domingo (CNIG), Sonia Lara (Ministerio de transportes), Pedro Martin (CNIG), Aurelio Aragón (CNIG)
-. **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\data\pdf\comunicaciones\Aula_C1\202509171500-GUADALTEL-Potencial solar_v2.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8211)**
+. **[Presentación] (data\pdf\comunicaciones\Aula_C1\202509171500-GUADALTEL-Potencial solar_v2.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8211)**
 * **Testing avanzado en PostgreSQL con pgTAP e integración continua en Github aplicado a Giswater** Daniel Martín (BGEO)
 . **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\data\pdf\comunicaciones\Aula_C1\SIG_testing_giswater.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8212)**
 * **Frenesí de nuevas funciones de Gleo** Iván Sánchez. **[Presentación]()** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8213)**
@@ -59,8 +59,8 @@ Comunicaciones
 * **Visor Menut** Marc Roca (ICGC). **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\data\pdf\comunicaciones\Aula_C2\Menut Siglliure.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8217)**
 * **Dashboard del consumo energético de los datacenters** Miquel Feixas (UdG), Anton Bardera (UdG). **[Presentación]()** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8218)**
 * **Catálogo de datos litológicos con GeoServer**  Josep Sitjar (SIGTE). **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\data\pdf\comunicaciones\Aula_C2\SIGTE_JSL2025_Roques.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8219)**
-* **Evolución y mejora de los mapas de calidad del aire de Barcelona** Javier Casado (Ajuntament Barcelona), Laia Igual (Nexus Geographics), Lluís Tartera (Nexus Geographics). **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\data\pdf\comunicaciones\Aula_C2\Mapas Calidad Aire AJBCN Nexus.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8220)**
-* **Estadísticas globales de usos agrícolas en Europa con Sentinel e IA en Eurostat** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\data\pdf\comunicaciones\Aula_C3\202509171500-GUADALTEL-IA Cultivos Eurostat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8221)**
+* **Evolución y mejora de los mapas de calidad del aire de Barcelona** Javier Casado (Ajuntament Barcelona), Laia Igual (Nexus Geographics), Lluís Tartera (Nexus Geographics). **[Presentación] (data\pdf\comunicaciones\Aula_C2\Mapas Calidad Aire AJBCN Nexus.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8220)**
+* **Estadísticas globales de usos agrícolas en Europa con Sentinel e IA en Eurostat** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación] (2025\data\pdf\comunicaciones\Aula_C3\202509171500-GUADALTEL-IA Cultivos Eurostat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8221)**
 * **Integración de un sistema de catalogación de recursos georreferenciados y un servidor de datos geoespaciales con una herramienta de gestión de identidad y acceso** Daniel Boubeta (Avansig), Alberto Pérez (Avansig), Javier Bandariz (Avansig), Sergio Rodríguez (Avansig). **[Presentación]()** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8234)**
 * **STAC en la aerofototeca del Ayuntamiento de Roma** Luigi Pirelli. **[Presentación]()** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8233)** 
 * **El gemelo digital no es un holograma: son unos buenos datasetsG** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\data\pdf\comunicaciones\Aula_C3\202509171615-GUADALTEL-Gemelo Digital.pdf)** |**[Vídeo](https://diobma.udg.edu/handle/10256.1/8247)**
