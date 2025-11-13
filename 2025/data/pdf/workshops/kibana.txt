@@ -1,0 +1,6 @@
+Hola Pep,
+
+Et passe enllaços del taller per si poden ser d'interes per a la gent
+
+Diapos: https://ela.st/siglibre-2025
+Repo: https://github.com/jsanz/elastic_esql_lab
