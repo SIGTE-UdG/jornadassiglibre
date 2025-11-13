@@ -23,7 +23,7 @@ Lightning talks
 =================
 
 * **Fina e os mapas** Pablo Sanxiao. | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8226)**
-* **¿OSM y Administración Pública? Sí, se puede (II parte)** José Manuel Vázquez López. **[Presentación](\data\pdf\lightning_talks\2_presentacion_JSL_JVL_2025.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8227)**
+* **¿OSM y Administración Pública? Sí, se puede (II parte)** José Manuel Vázquez López. **[Presentación](\data/pdf/lightning_talks/2_presentacion_JSL_JVL_2025.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8227)**
 * **Desarrollo de aplicaciones de teledetección con el uso de métodos predictivos para la mejora de los resultados para aplicaciones forestales** Estela Llorente. **[Presentación](\2025\3_estela.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8228)**
 * **Environmental Justice Atlas, un visor libre para conflictos ambientales** Miguel García Coya (Geomatico). **[Presentación](\2025\4_ejatlas.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8229)**
 * **Relojes de arena polinómicos**  Iván Sánchez Ortega, Javier Jimenez Shaw **[Presentación](\2025\5_relojes.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8230)**
