@@ -34,12 +34,11 @@ Lightning talks
 * **Casos de éxito en ingeniería de redes eléctricas con software libre** Miquel Febrer Martínez (Geoinnova). **[Presentación](data/pdf/lightning_talks/8_MFM_casos_exito.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8239)**
 * **Estimación de la humedad del suelo en frutales a partir de banda L y banda C de SAR y aprendizaje automático**Mireia Gòdia Martí
  **[Presentación](data/pdf/lightning_talks/9_estimacion_humedad.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8242)**
-* **Edusat Challenge** Rosa Olivella (SIGTE). **[Presentación](data/pdf/lightning_talks/10_edusat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8240)**
-* **Accediendo a OvertureMaps de forma directa desde GeoServer**Jose Macchi, Ariel Anthieni.
-. **[Presentación] (data/pdf/lightning_talks/11_overture_maps.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8216)**
+* **Edusat Challenge** Rosa Olivella (SIGTE). **[Presentación] (data/pdf/lightning_talks/10_edusat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8240)**
+* **Accediendo a OvertureMaps de forma directa desde GeoServer**Jose Macchi, Ariel Anthieni. **[Presentación](data/pdf/lightning_talks/11_overture_maps.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8216)**
 * **Sensores remotos aplicados a la conservación de macroalgas** Carlos García Lanchares (URJC), Rosa María Chefoui (URJC), Rosa María Viejo (URJC), Julio Arrontes (uniovi), José Luis Acuña (uniovi). **[Presentación](data/pdf/lightning_talks/12_sensores_remotos.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8241)**
 * **Ecosistema europeo de la tecnología geoespacial optimizada para la nube (Cloud Native Geospatial)** Félix Pedrera (Indra Deimos).
- **[Presentación] (data/pdf/lightning_talks/13_ecosistema_europeo.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8207)**
+ **[Presentación](data/pdf/lightning_talks/13_ecosistema_europeo.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8207)**
 * **Mapas de biodiversidad y estándares: del archivo al dato vivo** Marti Pericay (Geomatico).
  **[Presentación](data/pdf/lightning_talks/14_presentacion_Geomatico.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8208)**
 * **Quick Web Viewer: Publicar mapas online con QGIS y MapLibre** Gerald Kogler (trescientosmil)
@@ -51,16 +50,15 @@ Comunicaciones
 ---------------------------
 
 * **¿Cuánto sol tiene tu tejado? GIS para el autoconsumo energético** Alfonso Martínez (Guadaltel), Celia Sevilla (CNIG), Pablo Domingo (CNIG), Sonia Lara (Ministerio de transportes), Pedro Martin (CNIG), Aurelio Aragón (CNIG)
-. **[Presentación] (data/pdf/comunicaciones/Aula_C1/202509171500-GUADALTEL-Potencial solar_v2.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8211)**
-* **Testing avanzado en PostgreSQL con pgTAP e integración continua en Github aplicado a Giswater** Daniel Martín (BGEO)
-. **[Presentación](data/pdf/comunicaciones/Aula_C1/SIG_testing_giswater.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8212)**
-* **Frenesí de nuevas funciones de Gleo** Iván Sánchez. **[Presentación]()** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8213)**
+. **[Presentación](data/pdf/comunicaciones/Aula_C1/202509171500-GUADALTEL-Potencial solar_v2.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8211)**
+* **Testing avanzado en PostgreSQL con pgTAP e integración continua en Github aplicado a Giswater** Daniel Martín (BGEO). **[Presentación](data/pdf/comunicaciones/Aula_C1/SIG_testing_giswater.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8212)**
+* **Frenesí de nuevas funciones de Gleo** Iván Sánchez. **[Vídeo](https://diobma.udg.edu/handle/10256.1/8213)**
 * **FLUENT: predicción de fugas de agua utilizando IA, LEYP y regresión logística. Procesamiento de datos mediante PostgreSQL** Maria Guzmán (BGEO). **[Presentación](data/pdf/comunicaciones/Aula_C1/fluent2.pptx)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8215)**
-* **Visor Menut** Marc Roca (ICGC). **[Presentación] (data/pdf/comunicaciones/Aula_C2/Menut Siglliure.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8217)**
+* **Visor Menut** Marc Roca (ICGC). **[Presentación](data/pdf/comunicaciones/Aula_C2/Menut Siglliure.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8217)**
 * **Dashboard del consumo energético de los datacenters** Miquel Feixas (UdG), Anton Bardera (UdG). | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8218)**
 * **Catálogo de datos litológicos con GeoServer**  Josep Sitjar (SIGTE). **[Presentación](data/pdf/comunicaciones/Aula_C2/SIGTE_JSL2025_Roques.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8219)**
-* **Evolución y mejora de los mapas de calidad del aire de Barcelona** Javier Casado (Ajuntament Barcelona), Laia Igual (Nexus Geographics), Lluís Tartera (Nexus Geographics). **[Presentación] (data/pdf/comunicaciones/Aula_C2/Mapas Calidad Aire AJBCN Nexus.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8220)**
-* **Estadísticas globales de usos agrícolas en Europa con Sentinel e IA en Eurostat** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación] (data/pdf/comunicaciones/Aula_C3/202509171500-GUADALTEL-IA Cultivos Eurostat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8221)**
+* **Evolución y mejora de los mapas de calidad del aire de Barcelona** Javier Casado (Ajuntament Barcelona), Laia Igual (Nexus Geographics), Lluís Tartera (Nexus Geographics). **[Presentación](data/pdf/comunicaciones/Aula_C2/Mapas Calidad Aire AJBCN Nexus.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8220)**
+* **Estadísticas globales de usos agrícolas en Europa con Sentinel e IA en Eurostat** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/202509171500-GUADALTEL-IA Cultivos Eurostat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8221)**
 * **Integración de un sistema de catalogación de recursos georreferenciados y un servidor de datos geoespaciales con una herramienta de gestión de identidad y acceso** Daniel Boubeta (Avansig), Alberto Pérez (Avansig), Javier Bandariz (Avansig), Sergio Rodríguez (Avansig). **[Vídeo](https://diobma.udg.edu/handle/10256.1/8234)**
 * **STAC en la aerofototeca del Ayuntamiento de Roma** Luigi Pirelli. **[Vídeo](https://diobma.udg.edu/handle/10256.1/8233)** 
 * **El gemelo digital no es un holograma: son unos buenos datasetsG** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/202509171615-GUADALTEL-Gemelo Digital.pdf)** |**[Vídeo](https://diobma.udg.edu/handle/10256.1/8247)**
@@ -68,12 +66,12 @@ Comunicaciones
 Talleres
 ========
 
-* **Taller 1: Crear un catálogo STAC de imágenes en Python desde cero** Luigi Pirelli. **[Presentación] (data/pdf/workshops/catalogoStac(Luigi).zip)**
+* **Taller 1: Crear un catálogo STAC de imágenes en Python desde cero** Luigi Pirelli. **[Presentación](data/pdf/workshops/catalogoStac(Luigi).zip)**
 * **Taller 2: Entrenamiento de modelos de IA con datos de observación terrestre con SCANEO, EOTDL y PyTorchEO** Fran Martín (Earthpulse). **[Presentación](data/pdf/workshops/Entrenamiento de modelos de IA con datos de observación terrestre con SCANEO, EOTDL y PyTorchEO.zip)**
 * **Taller 3: Despliegue y personalización de QGIS Web Client 2: extendiendo QWC2 con servicios extra y plugins personalizados** Jordi Blanch (BGEO), Edgar Fusté (BGEO). 
 * **Taller 4: Plataforma GeoNode: gestión y visualización integral de datos espaciales en web** Patricio Soriano (Geoinnova).
 * **Taller 5: Instalación de la plataforma SITMUN y configuración de un visualizador web** Marc Rosès (Silme), Francisco Javier (Unizar), Ricard Cots (cime). 
-* **Taller 6: Automatización del procesamiento de normalización de imágenes Landsat y obtención de productos derivados: un protocolo abierto y reproducible** Diego García (CSIC).  **[Presentación] (data/pdf/workshops/Taller Automatización del procesamiento de normalización de imágenes Landsat.doc)
+* **Taller 6: Automatización del procesamiento de normalización de imágenes Landsat y obtención de productos derivados: un protocolo abierto y reproducible** Diego García (CSIC).  **[Presentación](data/pdf/workshops/Taller Automatización del procesamiento de normalización de imágenes Landsat.doc)
 * **Taller 7: Haz un mapa web interactivo con tres líneas de código en R** Josep Pueyo-Ros (UdG). 
 * **Taller 8: Exploración de técnicas de representación cartográfica: 5 maneras de hacer un mapa** Lluís Vicens (SIGTE - Universitat de Girona) **[Presentación](https://bitbucket.org/sigte/taller_dataviz_siglibre2025/src/main/)**. 
 * **Taller 9:Análisis y visualización con Elasticsearch y Kibana** Jorge Sanz (Elastic).  **[Presentación](data/pdf/workshops/kibana.txt)**. 
@@ -90,7 +88,7 @@ Comunicaciones
 * **Mapeado de etimología de calles mediante el uso de datos enlazados OpenStreetMap ↔ Wikidata** Miguel Sevilla. 
 * **El ecosistema de R para OpenStreetMap: herramientas disponibles y aplicaciones para el monitoreo del mapa colaborativo** Joan Maspons, Marc Bosc.  
 * **GIS sí, pero con sentidiño** Pablo Sanxiao (iCarto).
-* **Servicio de geolocalización de ámbito nacional y código abierto**Itziar Doñate (CNIG), Óscar A. Cano (CNIG), Sergio Ayuso (CNIG), José María (CNIG), Paloma Abad (CNIG). **[Presentación](data/pdf/comunicaciones/Aula_A2/Presentacion_JSL_Itziar_Doñate_Vadillo_v2.pdf)** | **
+* **Servicio de geolocalización de ámbito nacional y código abierto**Itziar Doñate (CNIG), Óscar A. Cano (CNIG), Sergio Ayuso (CNIG), José María (CNIG), Paloma Abad (CNIG). **[Presentación](data/pdf/comunicaciones/Aula_A2/Presentacion_JSL_Itziar_Doñate_Vadillo_v2.pdf)**
 
 * **Todo lo que (no) siempre quisiste saber de licencias de IA (para SIG), pero (realmente) no te atreviste a preguntar** Malcolm Bain (Acrosslegal). **[Presentación](data/pdf/comunicaciones/Aula_A7/AI_Licensing_GIS_Presentation_2.pdf)** 
 * **Inteligencia artificial al servicio de los mapas: democratizando la información geoespacial con LLMs** Alfonso Martínez (Guadaltel). 
