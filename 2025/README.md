@@ -104,17 +104,17 @@ Patrocinadores
 
 <img src="img/guadaltel-300x93.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/logo_bgeo.png" alt="drawing" width="200" height="auto"/></br>
+<img src="img/logo_bgeo.png" alt="drawing" width="160" height="auto"/></br>
 
 <img src="img/logo_nexus-300x57.png" alt="drawing" width="200" height="auto"/></br>
 
 <img src="img/logo_icgc.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/geomatico_200.png" alt="drawing" width="200" height="auto"/></br>
+<img src="img/geomatico_200.png" alt="drawing" width="100" height="auto"/></br>
 
 <img src="img/infraplan.png" alt="drawing" width="200" height="auto"/></br>
 
-<img src="img/cnig-450x77.webp" alt="drawing" width="200" height="auto"/></br>
+<img src="img/cnig-450x77.webp" alt="drawing" width="250" height="auto"/></br>
 
 
 
@@ -129,7 +129,7 @@ Colaboradores
 
 <img src="img/icarto.png" alt="drawing" width="200px" height="auto"/></br>
 
-<img src="img/logo_qgis.png" alt="drawing" width="200px" height="auto"/></br>
+<img src="img/logo_qgis.png" alt="drawing" width="100px" height="auto"/></br>
 
 <img src="img/jortilles.png" alt="drawing" width="200px" height="auto"/></br>
 
@@ -142,7 +142,7 @@ Colaboradores
 
 <img src="img/fudg.png" alt="drawing" width="200px" height="auto"/></br>
 
-<img src="img/gisce.png" alt="drawing" width="200px" height="auto"/></br>
+<img src="img/gisce.png" alt="drawing" width="150px" height="auto"/></br>
 
 
 
