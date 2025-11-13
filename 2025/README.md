@@ -50,18 +50,18 @@ Comunicaciones
 ---------------------------
 
 * **¿Cuánto sol tiene tu tejado? GIS para el autoconsumo energético** Alfonso Martínez (Guadaltel), Celia Sevilla (CNIG), Pablo Domingo (CNIG), Sonia Lara (Ministerio de transportes), Pedro Martin (CNIG), Aurelio Aragón (CNIG)
-. **[Presentación](data/pdf/comunicaciones/Aula_C1/Potencial solar.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8211)**
+. **[Presentación](data/pdf/comunicaciones/Aula_C1/Potencial_solar.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8211)**
 * **Testing avanzado en PostgreSQL con pgTAP e integración continua en Github aplicado a Giswater** Daniel Martín (BGEO). **[Presentación](data/pdf/comunicaciones/Aula_C1/SIG_testing_giswater.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8212)**
 * **Frenesí de nuevas funciones de Gleo** Iván Sánchez. **[Vídeo](https://diobma.udg.edu/handle/10256.1/8213)**
 * **FLUENT: predicción de fugas de agua utilizando IA, LEYP y regresión logística. Procesamiento de datos mediante PostgreSQL** Maria Guzmán (BGEO). **[Presentación](data/pdf/comunicaciones/Aula_C1/fluent2.pptx)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8215)**
-* **Visor Menut** Marc Roca (ICGC). **[Presentación](data/pdf/comunicaciones/Aula_C2/Menut Siglliure.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8217)**
+* **Visor Menut** Marc Roca (ICGC). **[Presentación](data/pdf/comunicaciones/Aula_C2/Menut_Siglliure.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8217)**
 * **Dashboard del consumo energético de los datacenters** Miquel Feixas (UdG), Anton Bardera (UdG). | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8218)**
 * **Catálogo de datos litológicos con GeoServer**  Josep Sitjar (SIGTE). **[Presentación](data/pdf/comunicaciones/Aula_C2/SIGTE_JSL2025_Roques.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8219)**
-* **Evolución y mejora de los mapas de calidad del aire de Barcelona** Javier Casado (Ajuntament Barcelona), Laia Igual (Nexus Geographics), Lluís Tartera (Nexus Geographics). **[Presentación](data/pdf/comunicaciones/Aula_C2/Mapas Calidad Aire AJBCN Nexus.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8220)**
-* **Estadísticas globales de usos agrícolas en Europa con Sentinel e IA en Eurostat** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/IA Cultivos Eurostat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8221)**
+* **Evolución y mejora de los mapas de calidad del aire de Barcelona** Javier Casado (Ajuntament Barcelona), Laia Igual (Nexus Geographics), Lluís Tartera (Nexus Geographics). **[Presentación](data/pdf/comunicaciones/Aula_C2/Nexus.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8220)**
+* **Estadísticas globales de usos agrícolas en Europa con Sentinel e IA en Eurostat** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/Eurostat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8221)**
 * **Integración de un sistema de catalogación de recursos georreferenciados y un servidor de datos geoespaciales con una herramienta de gestión de identidad y acceso** Daniel Boubeta (Avansig), Alberto Pérez (Avansig), Javier Bandariz (Avansig), Sergio Rodríguez (Avansig). **[Vídeo](https://diobma.udg.edu/handle/10256.1/8234)**
 * **STAC en la aerofototeca del Ayuntamiento de Roma** Luigi Pirelli. **[Vídeo](https://diobma.udg.edu/handle/10256.1/8233)** 
-* **El gemelo digital no es un holograma: son unos buenos datasetsG** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/Gemelo Digital.pdf)** |**[Vídeo](https://diobma.udg.edu/handle/10256.1/8247)**
+* **El gemelo digital no es un holograma: son unos buenos datasetsG** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/Gemelo_Digital.pdf)** |**[Vídeo](https://diobma.udg.edu/handle/10256.1/8247)**
 
 Talleres
 ========
@@ -71,10 +71,10 @@ Talleres
 * **Taller 3: Despliegue y personalización de QGIS Web Client 2: extendiendo QWC2 con servicios extra y plugins personalizados** Jordi Blanch (BGEO), Edgar Fusté (BGEO). 
 * **Taller 4: Plataforma GeoNode: gestión y visualización integral de datos espaciales en web** Patricio Soriano (Geoinnova).
 * **Taller 5: Instalación de la plataforma SITMUN y configuración de un visualizador web** Marc Rosès (Silme), Francisco Javier (Unizar), Ricard Cots (cime). 
-* **Taller 6: Automatización del procesamiento de normalización de imágenes Landsat y obtención de productos derivados: un protocolo abierto y reproducible** Diego García (CSIC).  **[Presentación](data/pdf/workshops/Landsat.pdf)
+* **Taller 6: Automatización del procesamiento de normalización de imágenes Landsat y obtención de productos derivados: un protocolo abierto y reproducible** Diego García (CSIC).  **[Presentación](data/pdf/workshops/Landsat.pdf)**
 * **Taller 7: Haz un mapa web interactivo con tres líneas de código en R** Josep Pueyo-Ros (UdG). 
 * **Taller 8: Exploración de técnicas de representación cartográfica: 5 maneras de hacer un mapa** Lluís Vicens (SIGTE - Universitat de Girona) **[Presentación](https://bitbucket.org/sigte/taller_dataviz_siglibre2025/src/main/)**. 
-* **Taller 9:Análisis y visualización con Elasticsearch y Kibana** Jorge Sanz (Elastic).  **[Presentación](data/pdf/workshops/kibana.txt)**. 
+* **Taller 9: Análisis y visualización con Elasticsearch y Kibana** Jorge Sanz (Elastic).  **[Presentación](data/pdf/workshops/kibana.txt)**. 
 * **Taller 10: API-IDEE 3D: descubre cómo llevar tu visualizador cartográfico al siguiente nivel** Aurelio Aragón (CNIG), Eduardo Castilla (Junta de Andalucía).  **[Presentación](data/pdf/workshops/Taller_api_idee.zip)**. 
 
 Comunicaciones
@@ -102,21 +102,22 @@ Patrocinadores
 
 <img src="img/logoweb-Geoinnova-1.png" alt="drawing" width="160" height="75px"/></br>
 
+<img src="img/guadaltel-300x93.png" alt="drawing" width="150" height="45px"/></br>
+
+<img src="img/logo_bgeo.png" alt="drawing" width="160" height="75px"/></br>
+
+<img src="img/logo_nexus-300x57.png" alt="drawing" width="150" height="auto"/></br>
+
+<img src="img/logo_icgc.png" alt="drawing" width="150" height="60px"/></br>
+
+<img src="img/geomatico_200.png" alt="drawing" width="150" height="150px"/></br>
+
 <img src="img/infraplan.png" alt="drawing" width="200" height="45px"/></br>
 
 <img src="img/cnig-450x77.webp" alt="drawing" width="150" height="33px"/></br>
 
-<img src="img/logo_nexus-300x57.png" alt="drawing" width="150" height="auto"/></br>
 
-<img src="img/logo_bgeo.png" alt="drawing" width="160" height="75px"/></br>
 
-<img src="img/logo-Unigis-300x67.png" alt="drawing" width="150" height="55px"/></br>
-
-<img src="img/logo_icgc.png" alt="drawing" width="150" height="60px"/></br>
-
-<img src="img/geomatico_200.png" alt="drawing" width="150" height="45px"/></br>
-
-<img src="img/guadaltel-300x93.png" alt="drawing" width="150" height="45px"/></br>
 
 
 Colaboradores
@@ -124,20 +125,21 @@ Colaboradores
 
 <img src="img/logo_ajgirona_color-250x70.png" alt="drawing" width="100px" height="auto"/></br>
 
-<img src="img/logo_qgis-1-140x70.png" alt="drawing" width="100px" height="auto"/></br>
-
 <img src="img/nosolosig.png" alt="drawing" width="100px" height="auto"/></br>
 
 <img src="img/icarto.png)" alt="drawing" width="100px" height="auto"/></br>
 
+<img src="img/logo_qgis.png" alt="drawing" width="100px" height="auto"/></br>
+
+<img src="img/jortilles.png" alt="drawing" width="100px" height="auto"/></br>
+
 <img src="img/dep_geo-300x85-1.png" alt="drawing" width="100px" height="auto"/></br>
+
+<img src="img/logo-Unigis.png" alt="drawing" width="100px" height="auto"/></br>
 
 <img src="img/FL.png" alt="drawing" width="100px" height="auto"/></br>
 
-<img src="img/jortilles.png)" alt="drawing" width="100px" height="auto"/></br>
 
-<img src="img/logo_qgis.png)" alt="drawing" width="100px" height="auto"/></br>
 
-<img src="img/logo-Unigis.png)" alt="drawing" width="100px" height="auto"/></br>
 
 
