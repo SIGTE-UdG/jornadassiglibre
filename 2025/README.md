@@ -16,35 +16,35 @@ Sesión inaugural
 Ponencias plenarias
 ====================
 
-* **Turismo 404: Algoritmos para un turismo inteligente** José Antonio Donaire. **[Presentación]** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8214)**
-* **¿Quién paga tus facturas? Sostenibilidad, comunidad y negocio: el triángulo del software libre** Marco Bernasocchi (QField), **[Presentación]** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8225)**
+* **Turismo 404: Algoritmos para un turismo inteligente** José Antonio Donaire.  **[Vídeo](https://diobma.udg.edu/handle/10256.1/8214)**
+* **¿Quién paga tus facturas? Sostenibilidad, comunidad y negocio: el triángulo del software libre** Marco Bernasocchi (QField), **[Vídeo](https://diobma.udg.edu/handle/10256.1/8225)**
 
 Lightning talks 
 =================
 
-* **Fina e os mapas** Pablo Sanxiao. | **[Vídeo](https://diobma.udg.edu/handle/10256.1/7630)**
-* **¿OSM y Administración Pública? Sí, se puede (II parte)** José Manuel Vázquez López. **[Presentación](C:\Users\Usuari\Documents\jornadassiglibre\2025\2_presentacion_JSL_JVL_2025.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8227)**
-* **Desarrollo de aplicaciones de teledetección con el uso de métodos predictivos para la mejora de los resultados para aplicaciones forestales** Estela Llorente. **[Presentación](C:\Users\Usuari\Documents\jornadassiglibre\2025\3_estela.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8228)**
-* **Environmental Justice Atlas, un visor libre para conflictos ambientales** Miguel García Coya (Geomatico). **[Presentación](C:\Users\Usuari\Documents\jornadassiglibre\2025\4_ejatlas.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8229)**
-* **Relojes de arena polinómicos**  Iván Sánchez Ortega, Javier Jimenez Shaw**[Presentación](C:\Users\Usuari\Documents\jornadassiglibre\2025\5_relojes.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8230)**
+* **Fina e os mapas** Pablo Sanxiao. | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8226)**
+* **¿OSM y Administración Pública? Sí, se puede (II parte)** José Manuel Vázquez López. **[Presentación](2025\2_presentacion_JSL_JVL_2025.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8227)**
+* **Desarrollo de aplicaciones de teledetección con el uso de métodos predictivos para la mejora de los resultados para aplicaciones forestales** Estela Llorente. **[Presentación](\2025\3_estela.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8228)**
+* **Environmental Justice Atlas, un visor libre para conflictos ambientales** Miguel García Coya (Geomatico). **[Presentación](\2025\4_ejatlas.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8229)**
+* **Relojes de arena polinómicos**  Iván Sánchez Ortega, Javier Jimenez Shaw **[Presentación](\2025\5_relojes.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8230)**
 * **SIG Corporativo de la Junta de Andalucía (SIGCJA): 18 años de éxito** Emilio Pardo Pérez (Guadaltel), Daniel Luna Rodríguez (Guadaltel), Jose Antonio Moreno (Instituto de Estadística y Cartografía de Andalucía), Borja Mañas (Instituto de Estadística y Cartografía de Andalucía).
-**[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\6_sig_corporativo_junta_andalucia.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8231)**
+**[Presentación](2025\6_sig_corporativo_junta_andalucia.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8231)**
 * **SPAI Chat: Mejora de la usabilidad de datos complejos mediante LLMs para la gestión del riesgo de deslizamiento** Fran Martín (Earthpulse).
- **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\7_spai_chat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8238)**
-* **Casos de éxito en ingeniería de redes eléctricas con software libre** Miquel Febrer Martínez (Geoinnova). **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\8_MFM_casos_exito.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8239)**
+ **[Presentación](2025\7_spai_chat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8238)**
+* **Casos de éxito en ingeniería de redes eléctricas con software libre** Miquel Febrer Martínez (Geoinnova). **[Presentación](\2025\8_MFM_casos_exito.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8239)**
 * **Estimación de la humedad del suelo en frutales a partir de banda L y banda C de SAR y aprendizaje automático**Mireia Gòdia Martí
- **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\9_estimacion_humedad.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8242)**
-* **Edusat Challenge** Rosa Olivella (SIGTE). **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\10_edusat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8240)**
+ **[Presentación](\2025\9_estimacion_humedad.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8242)**
+* **Edusat Challenge** Rosa Olivella (SIGTE). **[Presentación](2025\10_edusat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8240)**
 * **Accediendo a OvertureMaps de forma directa desde GeoServer**Jose Macchi, Ariel Anthieni.
-. **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\11_overture_maps.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8216)**
-* **Sensores remotos aplicados a la conservación de macroalgas** Carlos García Lanchares (URJC), Rosa María Chefoui (URJC), Rosa María Viejo (URJC), Julio Arrontes (uniovi), José Luis Acuña (uniovi). **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\12_sensores_remotos.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8241)**
+. **[Presentación] (2025\11_overture_maps.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8216)**
+* **Sensores remotos aplicados a la conservación de macroalgas** Carlos García Lanchares (URJC), Rosa María Chefoui (URJC), Rosa María Viejo (URJC), Julio Arrontes (uniovi), José Luis Acuña (uniovi). **[Presentación](2025\12_sensores_remotos.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8241)**
 * **Ecosistema europeo de la tecnología geoespacial optimizada para la nube (Cloud Native Geospatial)** Félix Pedrera (Indra Deimos).
- **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\13_ecosistema_europeo.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8207)**
+ **[Presentación] (2025\13_ecosistema_europeo.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8207)**
 * **Mapas de biodiversidad y estándares: del archivo al dato vivo** Marti Pericay (Geomatico).
- **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\14_presentacion_Geomatico.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8208)**
+ **[Presentación](2025\14_presentacion_Geomatico.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8208)**
 * **Quick Web Viewer: Publicar mapas online con QGIS y MapLibre** Gerald Kogler (trescientosmil)
-. **[Presentación](c:\Users\Usuari\Documents\jornadassiglibre\2025\15_QWV.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8209)**
-* **Una nueva infraestructura compartida para las comunidades de geoinquietos al estilo DIWO (Do It With Others)** Francisco Pérez Sampayo (Geomatico), Jorge Sanz (Osgeo) **[Presentación](dc:\Users\Usuari\Documents\jornadassiglibre\2025\16_geoinquietos_lightningtalk.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8210)**
+. **[Presentación](2025\15_QWV.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8209)**
+* **Una nueva infraestructura compartida para las comunidades de geoinquietos al estilo DIWO (Do It With Others)** Francisco Pérez Sampayo (Geomatico), Jorge Sanz (Osgeo) **[Presentación](2025\16_geoinquietos_lightningtalk.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8210)**
 
 
 Comunicaciones
