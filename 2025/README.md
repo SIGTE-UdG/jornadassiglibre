@@ -50,7 +50,7 @@ Comunicaciones
 ---------------------------
 
 * **¿Cuánto sol tiene tu tejado? GIS para el autoconsumo energético** Alfonso Martínez (Guadaltel), Celia Sevilla (CNIG), Pablo Domingo (CNIG), Sonia Lara (Ministerio de transportes), Pedro Martin (CNIG), Aurelio Aragón (CNIG)
-. **[Presentación](data/pdf/comunicaciones/Aula_C1/202509171500-GUADALTEL-Potencial solar_v2.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8211)**
+. **[Presentación](data/pdf/comunicaciones/Aula_C1/Potencial solar.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8211)**
 * **Testing avanzado en PostgreSQL con pgTAP e integración continua en Github aplicado a Giswater** Daniel Martín (BGEO). **[Presentación](data/pdf/comunicaciones/Aula_C1/SIG_testing_giswater.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8212)**
 * **Frenesí de nuevas funciones de Gleo** Iván Sánchez. **[Vídeo](https://diobma.udg.edu/handle/10256.1/8213)**
 * **FLUENT: predicción de fugas de agua utilizando IA, LEYP y regresión logística. Procesamiento de datos mediante PostgreSQL** Maria Guzmán (BGEO). **[Presentación](data/pdf/comunicaciones/Aula_C1/fluent2.pptx)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8215)**
@@ -58,20 +58,20 @@ Comunicaciones
 * **Dashboard del consumo energético de los datacenters** Miquel Feixas (UdG), Anton Bardera (UdG). | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8218)**
 * **Catálogo de datos litológicos con GeoServer**  Josep Sitjar (SIGTE). **[Presentación](data/pdf/comunicaciones/Aula_C2/SIGTE_JSL2025_Roques.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8219)**
 * **Evolución y mejora de los mapas de calidad del aire de Barcelona** Javier Casado (Ajuntament Barcelona), Laia Igual (Nexus Geographics), Lluís Tartera (Nexus Geographics). **[Presentación](data/pdf/comunicaciones/Aula_C2/Mapas Calidad Aire AJBCN Nexus.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8220)**
-* **Estadísticas globales de usos agrícolas en Europa con Sentinel e IA en Eurostat** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/202509171500-GUADALTEL-IA Cultivos Eurostat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8221)**
+* **Estadísticas globales de usos agrícolas en Europa con Sentinel e IA en Eurostat** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/IA Cultivos Eurostat.pdf)** | **[Vídeo](https://diobma.udg.edu/handle/10256.1/8221)**
 * **Integración de un sistema de catalogación de recursos georreferenciados y un servidor de datos geoespaciales con una herramienta de gestión de identidad y acceso** Daniel Boubeta (Avansig), Alberto Pérez (Avansig), Javier Bandariz (Avansig), Sergio Rodríguez (Avansig). **[Vídeo](https://diobma.udg.edu/handle/10256.1/8234)**
 * **STAC en la aerofototeca del Ayuntamiento de Roma** Luigi Pirelli. **[Vídeo](https://diobma.udg.edu/handle/10256.1/8233)** 
-* **El gemelo digital no es un holograma: son unos buenos datasetsG** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/202509171615-GUADALTEL-Gemelo Digital.pdf)** |**[Vídeo](https://diobma.udg.edu/handle/10256.1/8247)**
+* **El gemelo digital no es un holograma: son unos buenos datasetsG** Emilio Pardo (Guadaltel), Alfonso Martínez (Guadaltel), Enrique Soriano (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_C3/Gemelo Digital.pdf)** |**[Vídeo](https://diobma.udg.edu/handle/10256.1/8247)**
 
 Talleres
 ========
 
 * **Taller 1: Crear un catálogo STAC de imágenes en Python desde cero** Luigi Pirelli. **[Presentación](data/pdf/workshops/catalogoStac(Luigi).zip)**
-* **Taller 2: Entrenamiento de modelos de IA con datos de observación terrestre con SCANEO, EOTDL y PyTorchEO** Fran Martín (Earthpulse). **[Presentación](data/pdf/workshops/Entrenamiento de modelos de IA con datos de observación terrestre con SCANEO, EOTDL y PyTorchEO.zip)**
+* **Taller 2: Entrenamiento de modelos de IA con datos de observación terrestre con SCANEO, EOTDL y PyTorchEO** Fran Martín (Earthpulse). **[Presentación](data/pdf/workshops/SCANEO.zip)**
 * **Taller 3: Despliegue y personalización de QGIS Web Client 2: extendiendo QWC2 con servicios extra y plugins personalizados** Jordi Blanch (BGEO), Edgar Fusté (BGEO). 
 * **Taller 4: Plataforma GeoNode: gestión y visualización integral de datos espaciales en web** Patricio Soriano (Geoinnova).
 * **Taller 5: Instalación de la plataforma SITMUN y configuración de un visualizador web** Marc Rosès (Silme), Francisco Javier (Unizar), Ricard Cots (cime). 
-* **Taller 6: Automatización del procesamiento de normalización de imágenes Landsat y obtención de productos derivados: un protocolo abierto y reproducible** Diego García (CSIC).  **[Presentación](data/pdf/workshops/Taller Automatización del procesamiento de normalización de imágenes Landsat.doc)
+* **Taller 6: Automatización del procesamiento de normalización de imágenes Landsat y obtención de productos derivados: un protocolo abierto y reproducible** Diego García (CSIC).  **[Presentación](data/pdf/workshops/Landsat.pdf)
 * **Taller 7: Haz un mapa web interactivo con tres líneas de código en R** Josep Pueyo-Ros (UdG). 
 * **Taller 8: Exploración de técnicas de representación cartográfica: 5 maneras de hacer un mapa** Lluís Vicens (SIGTE - Universitat de Girona) **[Presentación](https://bitbucket.org/sigte/taller_dataviz_siglibre2025/src/main/)**. 
 * **Taller 9:Análisis y visualización con Elasticsearch y Kibana** Jorge Sanz (Elastic).  **[Presentación](data/pdf/workshops/kibana.txt)**. 
@@ -92,7 +92,7 @@ Comunicaciones
 
 * **Todo lo que (no) siempre quisiste saber de licencias de IA (para SIG), pero (realmente) no te atreviste a preguntar** Malcolm Bain (Acrosslegal). **[Presentación](data/pdf/comunicaciones/Aula_A7/AI_Licensing_GIS_Presentation_2.pdf)** 
 * **Inteligencia artificial al servicio de los mapas: democratizando la información geoespacial con LLMs** Alfonso Martínez (Guadaltel). 
-* **Detectando lo indetectable: deep learning y GIS para localizar sismos de baja intensidad** Alfonso Martínez (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_A7/202509181250-GUADALTEL-Detección Terremotos.pdf)** 
+* **Detectando lo indetectable: deep learning y GIS para localizar sismos de baja intensidad** Alfonso Martínez (Guadaltel). **[Presentación](data/pdf/comunicaciones/Aula_A7/Terremotos.pdf)** 
 * **Videowall inteligente para la gestión dinámica de las operaciones marítimas en el Puerto de Barcelona** Francesc Xavier Valls (Port de Barcelona), Andrés Vallejo (Nexus Geographics), Francesc Rosas (Nexus Geographics), Lluis Tartera (Nexus Geographics). **[Presentación](data/pdf/comunicaciones/Aula_A7/PresentacióVideowall_SIG_LLiure_2.pdf)** 
 * **Diseño de un algoritmo de búsqueda espacial multiobjetivo y desarrollo de una herramienta web SIG para proyectos de reestructuración parcelaria** Ismael López (Avansig), Sergio Rodríguez (Avansig), Francisco Javier Ferrer (Xunta de Galicia), Francisco José Tomico (Xunta de Galicia), Daniel Boubeta (Avansig), Mateo Díaz (Avansig), David Torea (Xunta de Galicia), Carlos Díaz (Xunta de Galicia). **[Presentación](data/pdf/comunicaciones/Aula_A7/presentacion_JSL_reparc.pdf)** 
 
@@ -108,7 +108,7 @@ Patrocinadores
 
 <img src="img/logo_nexus-300x57.png" alt="drawing" width="150" height="auto"/></br>
 
-<img src="img/BGEO.png" alt="drawing" width="160" height="75px"/></br>
+<img src="img/logo_bgeo.png" alt="drawing" width="160" height="75px"/></br>
 
 <img src="img/logo-Unigis-300x67.png" alt="drawing" width="150" height="55px"/></br>
 
@@ -126,9 +126,9 @@ Colaboradores
 
 <img src="img/logo_qgis-1-140x70.png" alt="drawing" width="100px" height="auto"/></br>
 
-<img src="img/nosolosig-300x63.png" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/nosolosig.png" alt="drawing" width="100px" height="auto"/></br>
 
-<img src="img/190798_logotipo-icarto-normal-250x70.png)" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/icarto.png)" alt="drawing" width="100px" height="auto"/></br>
 
 <img src="img/dep_geo-300x85-1.png" alt="drawing" width="100px" height="auto"/></br>
 
@@ -136,7 +136,7 @@ Colaboradores
 
 <img src="img/jortilles.png)" alt="drawing" width="100px" height="auto"/></br>
 
-<img src="img/logo_qgis_200.png)" alt="drawing" width="100px" height="auto"/></br>
+<img src="img/logo_qgis.png)" alt="drawing" width="100px" height="auto"/></br>
 
 <img src="img/logo-Unigis.png)" alt="drawing" width="100px" height="auto"/></br>
 
