@@ -72,7 +72,7 @@ Talleres
 * **Taller 4: Plataforma GeoNode: gestión y visualización integral de datos espaciales en web** Patricio Soriano (Geoinnova).
 * **Taller 5: Instalación de la plataforma SITMUN y configuración de un visualizador web** Marc Rosès (Silme), Francisco Javier (Unizar), Ricard Cots (cime). 
 * **Taller 6: Automatización del procesamiento de normalización de imágenes Landsat y obtención de productos derivados: un protocolo abierto y reproducible** Diego García (CSIC).  **[Presentación](data/pdf/workshops/Landsat.pdf)**
-* **Taller 7: Haz un mapa web interactivo con tres líneas de código en R** Josep Pueyo-Ros (UdG). 
+* **Taller 7: Haz un mapa web interactivo con tres líneas de código en R** Josep Pueyo-Ros (UdG). **[Presentación](https://jospueyo.github.io/tmap_workshop_siglibre_2025/) | [Código](https://github.com/jospueyo/tmap_workshop_siglibre_2025)** 
 * **Taller 8: Exploración de técnicas de representación cartográfica: 5 maneras de hacer un mapa** Lluís Vicens (SIGTE - Universitat de Girona) **[Presentación](https://bitbucket.org/sigte/taller_dataviz_siglibre2025/src/main/)**. 
 * **Taller 9: Análisis y visualización con Elasticsearch y Kibana** Jorge Sanz (Elastic).  **[Presentación](data/pdf/workshops/kibana.txt)**. 
 * **Taller 10: API-IDEE 3D: descubre cómo llevar tu visualizador cartográfico al siguiente nivel** Aurelio Aragón (CNIG), Eduardo Castilla (Junta de Andalucía).  **[Presentación](data/pdf/workshops/Taller_api_idee.zip)**. 
