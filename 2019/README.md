@@ -78,7 +78,7 @@ Mapas y visualización de datos – Investigación y proyectos académicos
 Clausura
 ---------------------------
 * **Datos geográficos abiertos para una sociedad abierta** Antonio Rodríguez (CNIG) **[Vídeo](http://diobma.udg.edu/handle/10256.1/5745)**
-* **Preparémonos para cartografiar datos de accesibilidad** Carlos López Quintanilla (QGIS-Es) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17296)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5746)**
+* **Preparémonos para cartografiar datos de accesibilidad** Miguel Sevilla-Callejo (Universidad de Zaragoza, IPE-CSIC) **[Presentación](https://dugi-doc.udg.edu/handle/10256/17296)** | **[Vídeo](http://diobma.udg.edu/handle/10256.1/5746)**
 
 Tutoriales
 ---------------------------
